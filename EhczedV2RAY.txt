@@ -1,2 +1,23 @@
 hvmess://yJhZGQiOiJtY2kuaXJjZi5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYmFkdG1tMS5tcmtvcHMzMDkud29ya2Vycy5kZXYiLCJpZCI6IjI1ZDJiMDgzLWE1N2MtNGQzNS1hNjNjLThjNDJiMTkwNWNkNiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6ImVoc2FuOTI5MTkxIiwic2N5IjoiYXV0byIsInNuaSI6ImJhZHRtbTEubXJrb3BzMzA5LndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 Heyyyy
+vmess://eyJhZGQiOiJtY2kuaXJhbmlhbmNwLmF1dG9zIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiNS5pcmFuaWFuY3AuYXV0b3MiLCJpZCI6IjcyZjc2YzM2LTNlM2MtNDViMy1hNjFmLWQ4ZjAxNzM0NTk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjIwNTMiLCJwcyI6Im1jaS1tdG5AUHJveHlfUErwn6qQINio24zYpyDYqtmIINqp2KfZhtin2YQiLCJzY3kiOiJhdXRvIiwic25pIjoiaXJhbmlhbmNwLmF1dG9zIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://008aec2f-648d-4ffd-fea9-c197169a7354@joinv2rayfree1.ddns.net:2096?path=%2F&security=tls&encryption=none&host=jj.newv2rayfree1.shop&fp=chrome&type=ws&sni=jj.newv2rayfree1.shop#mci%40Proxy_PJ%F0%9F%AA%90+%D8%A8%DB%8C%D8%A7+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84
+vless://4c157e76-169e-4c77-ecd7-d149a237f839@v2rayfree1join.ddns.net:2083?path=%2F&security=tls&encryption=none&host=jj.newv2rayfree1.shop&fp=chrome&type=ws&sni=jj.newv2rayfree1.shop#MTN%40Proxy_PJ%F0%9F%AA%90+%D8%A8%DB%8C%D8%A7+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84
+vless://b45901f0-b36c-4ac5-f1a0-8e23626f3f4f@v2rayfree1join.ddns.net:2053?path=%2F&security=tls&encryption=none&host=jj.newv2rayfree1.shop&fp=chrome&type=ws&sni=jj.newv2rayfree1.shop#wifi%40Proxy_PJ%F0%9F%AA%90+%D8%A8%DB%8C%D8%A7+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84
+vmess://eyJhZGQiOiIxODguMTE0Ljk3LjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjQubWFtYWRjdWN1LmNvbSIsImlkIjoiNTFiYTVhOWEtNGI3Yy00YzYyLWI0YWUtMGU1M2VjOGQzMDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL0Fyc2FsYW5UYXVCb3QiLCJwb3J0IjoiODg4MCIsInBzIjoiTVROQFByb3h5X1BK8J+qkCDYqNuM2Kcg2KrZiCDaqdin2YbYp9mEIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI0Lm1hbWFkY3VjdS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjQubWFtYWRjdWN1LmNvbSIsImlkIjoiNTFiYTVhOWEtNGI3Yy00YzYyLWI0YWUtMGU1M2VjOGQzMDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL0Fyc2FsYW5UYXVCb3QiLCJwb3J0IjoiODg4MCIsInBzIjoiTVROQFByb3h5X1BK8J+qkCDYqNuM2Kcg2KrZiCDaqdin2YbYp9mEIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJjZG5qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkFtc3RlcmRhbS5rb3RpY2suc2l0ZSIsImlkIjoiRENFNzYwNjEtRUU2NS00OURCLTk5N0MtQTZBODgwREFERTNBIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOiI0NDMiLCJwcyI6IndpZmlAUHJveHlfUErwn6qQINio24zYpyDYqtmIINqp2KfZhtin2YQiLCJzY3kiOiJhdXRvIiwic25pIjoiQW1zdGVyZGFtLmtvdGljay5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+🗂️آموزش وارد کردن سرور ها برای عبور از فیلترینگ و لینک های برنامه مورد نیاز 
+
+🤍خرید سرور فیلتر‌شکن شخصی پرسرعت و بدون قطعی👇🏻
+📢 @FuseVPN 🔐
+
+
+💛 💜💙: 
+Proxy ⏺Proxy ⏺Proxy ⏺Proxy ⏺Proxy ⏺Proxy ⏺Proxy ⏺Proxy ⏺Proxy ⏺Proxy ⏺Proxy 💙💜Proxy 💙💜
+
+💩
+Proxy ⏺Proxy ⏺Proxy ⏺
+
+اگر وصل شد ری‌اکشن 👍❤️ بذارید اگر وصل نشد 💔😢 بذارید(حتما)
