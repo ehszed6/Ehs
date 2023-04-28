@@ -22,12 +22,12 @@ vless://028e0790-fd0f-4980-862d-c7da4cf05db4@128.140.60.130:80?security=reality&
 
 vless://e08ff543-5b39-420a-88f6-f8fa0a0ac310@108.61.179.148:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@foxnim&sni=rematy.foxnim.info#EHS+VIP+12
 
-vless://5cdcc1ae-bc3c-42b1-b25a-e36835fe067d@174.138.116.228:8443?security=reality&encryption=none&pbk=Dqq9d0NoyvECb3phAT0mOgdPoc5AtGTWl3drrqO3jwc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#SHATEL+VIP+1
+vless://8c5de038-0a00-4f54-e7ab-bec7ff195398@188.121.107.20:50?security=none&encryption=none&host=alibabair&headerType=http&type=tcp#EHS+1
 
-vless://6c7eb038-8d11-42cb-ebac-96b5ce8a0b74@138.197.104.147:443?security=reality&encryption=none&pbk=WE8Zz59qjzyh-362Rt9XEQy_5QqMYQKpsNU4x9QGrQI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=zula.ir#SHATEL+VIP+2
+vless://a83ccbb8-d60b-4147-f831-9c978f41d336@193.151.153.27:34517?security=none&encryption=none&headerType=http&type=tcp#EHS+2
 
-vless://31159f3a-344f-4d3a-9cd6-f8a0cd5c1a6c@49.13.15.71:443?security=reality&encryption=none&pbk=XE_UDaUmLkhzGAxrl7G5nU7mMAH53OVvCU6L8pHGKkE&host=khamenei.ir&headerType=http&fp=chrome&type=tcp&sni=speed.cloudflare.com&sid=8558cc9c#SHATEL+VIP+3
+vmess://eyJhZGQiOiIzNy4zMi4yOC4zMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FtazQuaXJrYW1rLnB3IiwiaWQiOiIxODQzOWI1Zi0xZmQ0LTQ5MGMtODU1MS1kNWM0MmI3YTljOTgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMjM1MyIsInBzIjoiRUhTIDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
-vless://5ff9fe55-cf9f-4566-d332-03fe79399755@5.75.208.161:31333?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0145#SHATEL+VIP+4
+vless://ab6eeeda-3d52-4b92-ef47-25b2d84cf5a4@170.114.46.180:443?path=%2F&security=tls&encryption=none&host=zaa.meloser.shop&type=ws&sni=zza.meloser.shop#EHS+4
 
-vless://7c494402-faf8-4da4-815b-734520bda89b@5.75.208.161:36556?mode=gun&security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=gmail.com&sid=8aecca#SHATEL+VIP+5
+vless://fe47b8e5-8856-475d-c644-a43d549f6d03@170.114.46.180:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@melov2ray&sni=zaa.meloser.shop#EHS+5
