@@ -1,3 +1,7 @@
+vless://fe47b8e5-8856-475d-c644-a43d549f6d03@185.148.107.248:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@melov2ray&sni=zaa.meloser.shop#ehs+1
+
+vless://ab6eeeda-3d52-4b92-ef47-25b2d84cf5a4@185.148.107.248:443?path=%2F&security=tls&encryption=none&host=zaa.meloser.shop&type=ws&sni=zaa.meloser.shop#ehs+2
+
 vmess://eyJhZGQiOiIxNjcuODYuODMuNTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iYWlkdS5jb20iLCJpZCI6IjM5MWEyMTY1LTY5ZmYtNDc0Ni04NTQ0LTdlOWRlYTg2NGJiOSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkVIUyBWSVAgMSIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@speed.cloudflare.com:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=b2.iraniancp.autos&type=ws#EHS+VIP+2
