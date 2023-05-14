@@ -3,7 +3,7 @@
 vless://Legenderyking@37.27.10.2:443?mode=gun&security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&fp=chrome&spx=%2Fdebian%2Fdists%2Fstable%2Fmain%2Fbinary-all%2Fby-hash%2FMD5Sum%2F&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org#EHS+VIP+1+NEW
 
 2️⃣
-vmess://eyJhZGQiOiI5MS4xMDcuMTc3LjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg4NzkwYTFiLWYwNTktNDBjNy05YzlkLWI3Yzk0M2I0NDIwYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzMyIsInBzIjoiRUhTIFZJUCAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://210be209-8ec8-4057-de7e-8163ed984755@[::ffff:310d:625]:443?mode=gun&security=reality&encryption=none&pbk=4YJP5BoF0ncqw8EjkPtUzTrtXxnAwnxtn8VHUbiQtVA&fp=chrome&spx=%2Fdebian%2Fdists%2Fstable%2Fmain%2Fbinary-all%2Fby-hash%2FMD5Sum%2F&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org&sid=db0ec69c#EHS+VIP+2+NEW
 
 3️⃣
 vless://cd031069-4c87-457f-b1a5-857209f55159@65.109.195.181:37370?security=reality&encryption=none&pbk=cVyXGN7bogpI7QoNe1mjh8YE_ZRVeMsesRG3h2XoIFU&headerType=none&fp=firefox&type=tcp&sni=gitlab.com&sid=982e73c4#EHS+VIP+3
