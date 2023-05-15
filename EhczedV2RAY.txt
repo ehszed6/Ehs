@@ -1,28 +1,28 @@
 
 1️⃣
-vless://Legenderyking@37.27.10.2:443?mode=gun&security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&fp=chrome&spx=%2Fdebian%2Fdists%2Fstable%2Fmain%2Fbinary-all%2Fby-hash%2FMD5Sum%2F&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org#EHS+VIP+1+NEW
+vless://Legenderyking@[::ffff:310d:625]:443?mode=gun&security=reality&encryption=none&pbk=_k2ljQ78E3KBhI1Qx5cECf2TuT52YWmPlERXTMhaTFA&fp=chrome&spx=%2Flicense&type=grpc&serviceName=@LegenderY_Servers&sni=debian.org&sid=db0ec69c#EHS+VIP+1
 
 2️⃣
 
-vless://210be209-8ec8-4057-de7e-8163ed984755@[::ffff:310d:625]:443?mode=gun&security=reality&encryption=none&pbk=4YJP5BoF0ncqw8EjkPtUzTrtXxnAwnxtn8VHUbiQtVA&fp=chrome&spx=%2Fdebian%2Fdists%2Fstable%2Fmain%2Fbinary-all%2Fby-hash%2FMD5Sum%2F&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org&sid=db0ec69c#EHS+VIP+2+NEW
+vless://7f2dc42f-55f5-402f-9071-4ed5e320faaa@57.128.113.134:38582?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EHS+VIP+2
 
 3️⃣
-vless://cd031069-4c87-457f-b1a5-857209f55159@65.109.195.181:37370?security=reality&encryption=none&pbk=cVyXGN7bogpI7QoNe1mjh8YE_ZRVeMsesRG3h2XoIFU&headerType=none&fp=firefox&type=tcp&sni=gitlab.com&sid=982e73c4#EHS+VIP+3
+vmess://eyJhZGQiOiIxMjguMTQwLjU1LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ6dWxhLmlyIiwiaWQiOiI1YjE2YWYwYi0yNzZmLTQwMzQtY2Q2Yi0zY2Y2NzRiOTVlNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDExOSIsInBzIjoiRUhTIFZJUCAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
 4️⃣
-vmess://eyJhZGQiOiI1MS4xOTUuMzUuMTUwIiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMwODEyIiwicHMiOiJFSFMgVklQIDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://7f2dc42f-55f5-402f-9071-4ed5e320faaa@57.128.113.134:38582?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EHS+VIP+4
 5️⃣
-vmess://eyJhZGQiOiI1MS4xOTUuMzUuMTQ5IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMwODEyIiwicHMiOiJFSFMgVklQIDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI2NS4xMDkuMTk4LjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsImlkIjoiQW1pclRlY2hub19TZXJ2aWNlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIvQW1pclRlY2hub19TZXJ2aWNlIiwicG9ydCI6IjQ4MzIzIiwicHMiOiJFSFMgVklQIDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 6️⃣
-vless://416e6c2a-1c33-4b66-a809-53a4d64f4a9d@5.161.208.58:23941?security=reality&encryption=none&pbk=R1oAOriik-Ayo7q2AB-9IwtAHRtHyUOCtmI3KypAoCc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google-analytics.com&sid=9b119b8b#EHS+VIP+6
+vmess://eyJhZGQiOiI5NS4yMTcuMjQwLjE2NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidGVsZXdlYmlvbi5jb20iLCJpZCI6IkFtaXJUZWNobm9fU2VydmljZTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0FtaXJUZWNobm9fU2VydmljZSIsInBvcnQiOiI0ODMyMyIsInBzIjoiRUhTIFZJUCA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 7️⃣
-vmess://eyJhZGQiOiI4MC4yNDkuMTEzLjk0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ3MTU5MGUzLTYzOWMtNDYzNy1kM2RjLWI2NzhmNTc2MDdiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODciLCJwcyI6IkVIUyBWSVAgNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0= 
-
+vless://5e76614c-0ace-4934-cc01-afb171b6de3a@57.128.111.247:41686?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EHS+VIP+7
 
 8️⃣
-vless://05c02d6c-a366-4f8e-e0ec-a51ca1c70cd5@94.131.115.93:17117?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#EHS+VIP+8
+vless://c0af5ca4-f7d4-4058-a42f-69920cd7816f@5.75.213.186:41020?security=reality&encryption=none&pbk=7I_dT2r97amQmfgDew0Jdy3Bte31pis234M4IKmOLx0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=a41e8b6d#EHS+VIP+8
 9️⃣
-vmess://eyJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo2ODFmOjEwNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyLTEuMHJkLm5ldCIsImlkIjoiYmQxODI5YjAtZjE1ZC0xMWVkLWIyMzAtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzMjA3cHhpIiwicG9ydCI6IjQ0MyIsInBzIjoiRUhTIFZJUCA5Iiwic2N5IjoiYXV0byIsInNuaSI6ImZyLTEuMHJkLm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://da737bae-c37c-4f95-8fe8-b15d15165137@52.142.213.247:8080?security=reality&encryption=none&pbk=oYn0Jc7xEyVgud57xfIjdgKOatEQ0EYam_4G4QPaqEA&headerType=none&fp=firefox&spx=%2Fws&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=2fcce505#EHS+VIP+9
 🔟
 
-
+vless://da737bae-c37c-4f95-8fe8-b15d15165137@52.142.213.247:8080?security=reality&encryption=none&pbk=oYn0Jc7xEyVgud57xfIjdgKOatEQ0EYam_4G4QPaqEA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=2fcce505#EHS+VIP+10 
