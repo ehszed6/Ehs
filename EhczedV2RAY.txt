@@ -1,30 +1,5 @@
+vless://Legenderyking@[::ffff:310d:625]:443?mode=gun&security=reality&encryption=none&pbk=fa2ga6n8yM_mVchGbx5PFUyVanM4tiBfHmfC8ykpOHE&fp=chrome&spx=%2Fdebian%2Fdists%2Fstable%2Fmain%2Fbinary-all%2Fby-hash%2FMD5Sum%2F&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org&sid=db0ec69c#EHS+VIP+1
 
-1️⃣
+vmess://eyJhZGQiOiIxMjguMTQwLjU1LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ6dWxhLmlyIiwiaWQiOiI1YjE2YWYwYi0yNzZmLTQwMzQtY2Q2Yi0zY2Y2NzRiOTVlNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDExOSIsInBzIjoiRUhTIFZJUCAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
-
-vless://Legenderyking@[::ffff:310d:625]:443?mode=gun&security=reality&encryption=none&pbk=7yjoT9K5Owap5hs4VeS5ViQ-g6OcRE8sS6oO52G3Szc&fp=chrome&spx=%2Fdebian%2Fdists%2Fstable%2Fmain%2Fbinary-all%2Fby-hash%2FMD5Sum%2F&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org&sid=db0ec69c#EHS+VIP+NEW 
-
-2️⃣
-
-vless://7f2dc42f-55f5-402f-9071-4ed5e320faaa@57.128.113.134:38582?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EHS+VIP+2
-
-3️⃣
-vmess://eyJhZGQiOiIxMjguMTQwLjU1LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ6dWxhLmlyIiwiaWQiOiI1YjE2YWYwYi0yNzZmLTQwMzQtY2Q2Yi0zY2Y2NzRiOTVlNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDExOSIsInBzIjoiRUhTIFZJUCAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-4️⃣
-vless://7f2dc42f-55f5-402f-9071-4ed5e320faaa@57.128.113.134:38582?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EHS+VIP+4
-5️⃣
-vmess://eyJhZGQiOiI2NS4xMDkuMTk4LjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsImlkIjoiQW1pclRlY2hub19TZXJ2aWNlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIvQW1pclRlY2hub19TZXJ2aWNlIiwicG9ydCI6IjQ4MzIzIiwicHMiOiJFSFMgVklQIDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-6️⃣
-vmess://eyJhZGQiOiI5NS4yMTcuMjQwLjE2NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidGVsZXdlYmlvbi5jb20iLCJpZCI6IkFtaXJUZWNobm9fU2VydmljZTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0FtaXJUZWNobm9fU2VydmljZSIsInBvcnQiOiI0ODMyMyIsInBzIjoiRUhTIFZJUCA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-7️⃣
-vless://5e76614c-0ace-4934-cc01-afb171b6de3a@57.128.111.247:41686?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EHS+VIP+7
-
-8️⃣
-vless://c0af5ca4-f7d4-4058-a42f-69920cd7816f@5.75.213.186:41020?security=reality&encryption=none&pbk=7I_dT2r97amQmfgDew0Jdy3Bte31pis234M4IKmOLx0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=a41e8b6d#EHS+VIP+8
-9️⃣
-vmess://eyJhZGQiOiIxMDQuMzEuMTYuNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyLTEuMHJkLm5ldCIsImlkIjoiYmQxODI5YjAtZjE1ZC0xMWVkLWIyMzAtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzMjA3cHhpIiwicG9ydCI6IjQ0MyIsInBzIjoiRUhTIFZJUCA5Iiwic2N5IjoiYXV0byIsInNuaSI6ImZyLTEuMHJkLm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9 
-🔟
-
-vless://3e14f3c1-9880-4932-dda7-a6db274b7852@45.81.18.31:33279?security=none&encryption=none&host=BMI.ir&headerType=http&type=tcp#EHS+VIP+10
+vless://5e76614c-0ace-4934-cc01-afb171b6de3a@57.128.111.247:41686?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EHS+VIP+3
