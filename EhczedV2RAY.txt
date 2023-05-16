@@ -10,3 +10,10 @@ vmess://eyJhZGQiOiI1MS4xOTUuMzUuMTQ5IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxNjguMTE5LjU4LjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlNDJkNjhkYi00Mjk3LTRjMTctYjVjZi00NGQ0MjFhZWY0MDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJFSFMgVklQIDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vless://AmirTechno_Service1@159.223.152.125:19733?mode=multi&security=reality&encryption=none&pbk=WiycWExoBY0KuGUGn1ZPP5TNlfPE0R_qfUEdhAu1Smo&fp=chrome&type=grpc&serviceName=@AmirTechno_Service&sni=discord.com&sid=d869d50d#EHS+VIP+6
+
+
+vless://417c1094-3697-42bf-a4ab-fc19a315a888@91.107.151.129:103?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#EHS+VIP+7
+
+trojan://telegram-id-privatevpns@34.240.112.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#EHS+VIP+8
+
+vless://4725d034-2b19-4803-e15e-b642f5a47e5e@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+9
