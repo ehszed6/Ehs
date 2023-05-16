@@ -22,7 +22,7 @@ vless://5e76614c-0ace-4934-cc01-afb171b6de3a@57.128.111.247:41686?security=none&
 8️⃣
 vless://c0af5ca4-f7d4-4058-a42f-69920cd7816f@5.75.213.186:41020?security=reality&encryption=none&pbk=7I_dT2r97amQmfgDew0Jdy3Bte31pis234M4IKmOLx0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=a41e8b6d#EHS+VIP+8
 9️⃣
-vless://da737bae-c37c-4f95-8fe8-b15d15165137@52.142.213.247:8080?security=reality&encryption=none&pbk=oYn0Jc7xEyVgud57xfIjdgKOatEQ0EYam_4G4QPaqEA&headerType=none&fp=firefox&spx=%2Fws&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=2fcce505#EHS+VIP+9
+vmess://eyJhZGQiOiIxMDQuMzEuMTYuNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyLTEuMHJkLm5ldCIsImlkIjoiYmQxODI5YjAtZjE1ZC0xMWVkLWIyMzAtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzMjA3cHhpIiwicG9ydCI6IjQ0MyIsInBzIjoiRUhTIFZJUCA5Iiwic2N5IjoiYXV0byIsInNuaSI6ImZyLTEuMHJkLm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9 
 🔟
 
-vless://da737bae-c37c-4f95-8fe8-b15d15165137@52.142.213.247:8080?security=reality&encryption=none&pbk=oYn0Jc7xEyVgud57xfIjdgKOatEQ0EYam_4G4QPaqEA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=2fcce505#EHS+VIP+10 
+vless://3e14f3c1-9880-4932-dda7-a6db274b7852@45.81.18.31:33279?security=none&encryption=none&host=BMI.ir&headerType=http&type=tcp#EHS+VIP+10
