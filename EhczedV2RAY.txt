@@ -1,6 +1,8 @@
 
 1️⃣
-vless://Legenderyking@[::ffff:310d:625]:443?mode=gun&security=reality&encryption=none&pbk=_k2ljQ78E3KBhI1Qx5cECf2TuT52YWmPlERXTMhaTFA&fp=chrome&spx=%2Flicense&type=grpc&serviceName=@LegenderY_Servers&sni=debian.org&sid=db0ec69c#EHS+VIP+1
+
+
+vless://Legenderyking@[::ffff:310d:625]:443?mode=gun&security=reality&encryption=none&pbk=7yjoT9K5Owap5hs4VeS5ViQ-g6OcRE8sS6oO52G3Szc&fp=chrome&spx=%2Fdebian%2Fdists%2Fstable%2Fmain%2Fbinary-all%2Fby-hash%2FMD5Sum%2F&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org&sid=db0ec69c#EHS+VIP+NEW 
 
 2️⃣
 
