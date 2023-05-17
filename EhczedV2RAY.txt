@@ -1,8 +1,9 @@
-vless://Legenderyking@[::ffff:310d:625]:443?mode=gun&security=reality&encryption=none&pbk=fa2ga6n8yM_mVchGbx5PFUyVanM4tiBfHmfC8ykpOHE&fp=chrome&spx=%2Fdebian%2Fdists%2Fstable%2Fmain%2Fbinary-all%2Fby-hash%2FMD5Sum%2F&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org&sid=db0ec69c#EHS+VIP+1
+vless://Legenderyking@[0000:0000:0000:0000:0000:ffff:310d:0625]:443?mode=gun&security=reality&encryption=none&pbk=WZOdiH9WTH_TNNSkfIsjZedKXGMhTEEr7Uu8Db2xCzk&fp=chrome&spx=%2Fcontact&type=grpc&serviceName=@LegenderY_Servers&sni=heroku.com&sid=db0ec69c#EHS+VIP+1
 
-vmess://eyJhZGQiOiIxMjguMTQwLjU1LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ6dWxhLmlyIiwiaWQiOiI1YjE2YWYwYi0yNzZmLTQwMzQtY2Q2Yi0zY2Y2NzRiOTVlNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDExOSIsInBzIjoiRUhTIFZJUCAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://5530e0b8-af16-4fc9-cbd2-4d8443863021@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+2
 
-vless://5e76614c-0ace-4934-cc01-afb171b6de3a@57.128.111.247:41686?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EHS+VIP+3
+vless://bb938f78-de62-4881-ec91-5e0257e8c299@157.90.152.245:443?mode=multi&security=reality&encryption=none&pbk=kYL7MLJfCGPwY6cS9O91A2jpPpPCmN-V_7tIwSgPVlk&fp=randomized&type=grpc&serviceName=@v2rayNGup&sni=ftp.debian.org&sid=4384ff92#EHS+VIP+3
+
 
 vmess://eyJhZGQiOiI1MS4xOTUuMzUuMTQ5IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMwODEyIiwicHMiOiJFSFMgVklQIDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 
 
