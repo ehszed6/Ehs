@@ -1,4 +1,4 @@
-vless://Legenderyking@[0000:0000:0000:0000:0000:ffff:310d:0625]:443?mode=gun&security=reality&encryption=none&pbk=WZOdiH9WTH_TNNSkfIsjZedKXGMhTEEr7Uu8Db2xCzk&fp=chrome&spx=%2Fcontact&type=grpc&serviceName=@LegenderY_Servers&sni=heroku.com&sid=db0ec69c#EHS+VIP+1
+vless://Legenderyking@[0000:0000:0000:0000:0000:ffff:310d:0625]:443?mode=gun&security=reality&encryption=none&pbk=JjmzQCktz61QaZvryDYcT5YskiKCd8PkBPpYhUQaaBI&fp=qq&spx=%2Fdebian%2Fdists%2Fstable%2Fmain%2Fbinary-all%2Fby-hash&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org&sid=db0ec69c#EHS+VIP+1
 
 vless://5530e0b8-af16-4fc9-cbd2-4d8443863021@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+2
 
