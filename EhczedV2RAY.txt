@@ -1,22 +1,11 @@
-vless://Legenderyking@[0000:0000:0000:0000:0000:ffff:310d:0625]:443?mode=gun&security=reality&encryption=none&pbk=JjmzQCktz61QaZvryDYcT5YskiKCd8PkBPpYhUQaaBI&fp=qq&spx=%2Fdebian%2Fdists%2Fstable%2Fmain%2Fbinary-all%2Fby-hash&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org&sid=db0ec69c#EHS+VIP+1
+vless://Legenderyking@[0000:0000:0000:0000:0000:ffff:310d:0625]:443?mode=gun&security=reality&encryption=none&pbk=caVYUIl5B9wlLCwVQZVdSl4cxH3ulshDrXogYmq6KRY&fp=qq&spx=%2Fdebian%2Fdists%2Fstable%2Fmain%2Fbinary-all%2Fby-hash&type=grpc&serviceName=@LegenderY_Servers&sni=ftp.debian.org&sid=db0ec69c#EHS+VIP+1
 
 vless://5530e0b8-af16-4fc9-cbd2-4d8443863021@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+2
 
 vless://bb938f78-de62-4881-ec91-5e0257e8c299@157.90.152.245:443?mode=multi&security=reality&encryption=none&pbk=kYL7MLJfCGPwY6cS9O91A2jpPpPCmN-V_7tIwSgPVlk&fp=randomized&type=grpc&serviceName=@v2rayNGup&sni=ftp.debian.org&sid=4384ff92#EHS+VIP+3
 
+vmess://eyJhZGQiOiIxNjguMTE5LjU4LjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlNDJkNjhkYi00Mjk3LTRjMTctYjVjZi00NGQ0MjFhZWY0MDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJFSFMgVklQIDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vmess://eyJhZGQiOiI1MS4xOTUuMzUuMTQ5IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMwODEyIiwicHMiOiJFSFMgVklQIDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 
+vless://AmirTechno_Service@[::ffff:4115:bea1]:8443?mode=multi&security=reality&encryption=none&pbk=athigAqUWtyGfEJX_pHCx3-HMQxmRCZuEVbD8WiHy3I&fp=chrome&spx=%2Fdebian-security%2F&type=grpc&serviceName=@AmirTechno_Service&sni=ftp.debian.org&sid=137787bf#EHS+VIP+5
 
-
-vmess://eyJhZGQiOiIxNjguMTE5LjU4LjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlNDJkNjhkYi00Mjk3LTRjMTctYjVjZi00NGQ0MjFhZWY0MDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJFSFMgVklQIDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vless://AmirTechno_Service1@159.223.152.125:19733?mode=multi&security=reality&encryption=none&pbk=WiycWExoBY0KuGUGn1ZPP5TNlfPE0R_qfUEdhAu1Smo&fp=chrome&type=grpc&serviceName=@AmirTechno_Service&sni=discord.com&sid=d869d50d#EHS+VIP+6
-
-
-vless://417c1094-3697-42bf-a4ab-fc19a315a888@91.107.151.129:103?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#EHS+VIP+7
-
-trojan://telegram-id-privatevpns@34.240.112.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#EHS+VIP+8
-
-vless://4725d034-2b19-4803-e15e-b642f5a47e5e@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+9
-
-vless://e804ef19-6264-4a5e-90d5-888798c8513f@157.90.152.245:443?mode=multi&security=reality&encryption=none&pbk=kYL7MLJfCGPwY6cS9O91A2jpPpPCmN-V_7tIwSgPVlk&fp=randomized&type=grpc&serviceName=@v2rayNGup&sni=ftp.debian.org&sid=4384ff92#EHS+VIP+10 
+vless://AmirTechno_Service1@65.21.190.161:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#EHS+VIP+6
