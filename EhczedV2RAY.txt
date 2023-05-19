@@ -7,5 +7,3 @@ vless://bb938f78-de62-4881-ec91-5e0257e8c299@157.90.152.245:443?mode=multi&secur
 vmess://eyJhZGQiOiIxNjguMTE5LjU4LjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlNDJkNjhkYi00Mjk3LTRjMTctYjVjZi00NGQ0MjFhZWY0MDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJFSFMgVklQIDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vless://AmirTechno_Service@[::ffff:4115:bea1]:8443?mode=multi&security=reality&encryption=none&pbk=athigAqUWtyGfEJX_pHCx3-HMQxmRCZuEVbD8WiHy3I&fp=chrome&spx=%2Fdebian-security%2F&type=grpc&serviceName=@AmirTechno_Service&sni=ftp.debian.org&sid=137787bf#EHS+VIP+5
-
-vless://AmirTechno_Service1@65.21.190.161:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#EHS+VIP+6
