@@ -2,7 +2,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may21
 
 
-vless://Legenderyking@[::ffff:808c:206]:443?mode=gun&security=reality&encryption=none&pbk=CayjVceX7F_N0cG-PKx6zj_pkcg26dVLgf0nDShKZBY&fp=qq&spx=%2Fen%2Fweather-forecasts%2Fcoastal-storm-wont-erase-budding-drought-concerns-in-northeast%2F1528287&type=grpc&serviceName=@LegenderY_Servers&sni=cdn.accuweather.com&sid=c0ccc00e#EHS+VIP+1
+vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=aKGv8LgSS7FXVXMpcDGufWZVlRNai0Rd33aDSsJue3A&fp=qq&spx=%2Fen%2Fweather-forecasts&type=grpc&serviceName=@LegenderY_Servers&sni=zula.ir&sid=c0ccc00e#EHS+VIP+1
 
 vless://5530e0b8-af16-4fc9-cbd2-4d8443863021@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+2
 
