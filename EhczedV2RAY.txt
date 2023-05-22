@@ -1,5 +1,5 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may21
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may22
 
 
 vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=CbcY9qc4YuMDJDyyL0OITlU824TBg1O84ClPy27e2RM&fp=chrome&type=grpc&serviceName=@Legendery_Servers&sni=cdn.accuweather.com&sid=76e8be81#EHS+VIP+1
