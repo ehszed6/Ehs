@@ -13,7 +13,3 @@ vmess://eyJhZGQiOiIyMTIuMzMuMjA2LjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 
 
-vless://081510dd-254a-44f7-d33e-7b4ebe59ff51@65.108.156.8:12895?security=none&encryption=none&host=http%3A%2F%2Fspacer.divarcdn.com.bmi.ir&headerType=http&type=tcp#EHS+VIP+5
-
-vless://9ffaf812-088b-46c6-ca58-291cfd383303@135.181.248.44:41958?security=none&encryption=none&headerType=http&type=tcp#EHS+VIP+6
-
