@@ -1,8 +1,8 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may22
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may22 7pm
 
 
-vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=CbcY9qc4YuMDJDyyL0OITlU824TBg1O84ClPy27e2RM&fp=chrome&type=grpc&serviceName=@Legendery_Servers&sni=cdn.accuweather.com&sid=76e8be81#EHS+VIP+1
+vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=d9cGLVBrDFS02L2OvkqyqwFZ1Ux3AHs28ehl4Rwiyl0&fp=chrome&type=grpc&serviceName=@Legendery_Servers&sni=cdn.accuweather.com&sid=76e8be81#EHS+VIP+1
 
 
 vless://5530e0b8-af16-4fc9-cbd2-4d8443863021@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+2
