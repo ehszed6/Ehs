@@ -11,5 +11,5 @@ vless://bb938f78-de62-4881-ec91-5e0257e8c299@157.90.152.245:443?mode=multi&secur
 
 vmess://eyJhZGQiOiIyMTIuMzMuMjA2LjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXB0dnMuY29tIiwiaWQiOiJjM2U5NDBiMy00MzZmLTQ4OGYtOTFmZC00NjE1NDgzYThkMjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzODE0MiIsInBzIjoiRUhTIFZJUCA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
-
+vless://Legenderyking@[::ffff:310d:659]:443?mode=gun&security=reality&encryption=none&pbk=aYUu0PL0ynu-H5LzHFzQda3Bdrf1ezugvLR5plVJPxo&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=cdn.accuweather.com&sid=87cddfb6#EHS+VIP+5
 
