@@ -1,15 +1,11 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may22 7pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may23
 
 
-vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=d9cGLVBrDFS02L2OvkqyqwFZ1Ux3AHs28ehl4Rwiyl0&fp=chrome&type=grpc&serviceName=@Legendery_Servers&sni=cdn.accuweather.com&sid=76e8be81#EHS+VIP+1
+vless://64b146b8-95b4-456b-c7d7-0dec72211e32@157.90.152.245:443?mode=multi&security=reality&encryption=none&pbk=kYL7MLJfCGPwY6cS9O91A2jpPpPCmN-V_7tIwSgPVlk&fp=randomized&type=grpc&serviceName=@v2rayNGup&sni=ftp.debian.org&sid=4384ff92#EHS+VIP+1
 
+vless://e53d7ba0-9e48-4ee8-ee4d-24202b40740c@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+2
 
-vless://5530e0b8-af16-4fc9-cbd2-4d8443863021@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+2
+vless://Legenderyking@::ffff:49.13.6.89:443?mode=gun&security=reality&encryption=none&pbk=l-ezScfanak5bssVL_qfBFW_S44xCt3W9618ZAe6KhA&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=cdn.accuweather.com&sid=87cddfb6#EHS+VIP+3
 
-vless://bb938f78-de62-4881-ec91-5e0257e8c299@157.90.152.245:443?mode=multi&security=reality&encryption=none&pbk=kYL7MLJfCGPwY6cS9O91A2jpPpPCmN-V_7tIwSgPVlk&fp=randomized&type=grpc&serviceName=@v2rayNGup&sni=ftp.debian.org&sid=4384ff92#EHS+VIP+3
-
-vmess://eyJhZGQiOiIyMTIuMzMuMjA2LjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXB0dnMuY29tIiwiaWQiOiJjM2U5NDBiMy00MzZmLTQ4OGYtOTFmZC00NjE1NDgzYThkMjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzODE0MiIsInBzIjoiRUhTIFZJUCA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-vless://Legenderyking@[::ffff:310d:659]:443?mode=gun&security=reality&encryption=none&pbk=aYUu0PL0ynu-H5LzHFzQda3Bdrf1ezugvLR5plVJPxo&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=cdn.accuweather.com&sid=87cddfb6#EHS+VIP+5
-
+vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=goY3OtfaA4UYbiz7Hn0NysI5QJrK0VT_Chg6RLgUPQU&fp=chrome&type=grpc&serviceName=@Legendery_Servers&sni=cdn.accuweather.com&sid=76e8be81#EHS+VIP+4
