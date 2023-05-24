@@ -1,5 +1,5 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may23 6pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may24
 
 
 
@@ -16,3 +16,4 @@ vless://8f33f5ff-85a6-483e-a839-e42950a9628e@78.46.244.72:42906?security=none&en
 
 vmess://eyJhZGQiOiIxNTkuNjkuODguNTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3QuY29tIiwiaWQiOiI0ZWM1YjZjYS1jMGQ2LTRkY2YtOWMyNC03OGY4YTg0OTI5MjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMjkwMSIsInBzIjoiRUhTIFZJUCA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
+vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=d9cGLVBrDFS02L2OvkqyqwFZ1Ux3AHs28ehl4Rwiyl0&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=cdn-download1.zula.ir#EHS+VIP+7
