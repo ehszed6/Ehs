@@ -1,19 +1,6 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may25
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may26
 
-vless://1f1452b4-ef96-4db9-f9f6-64421548e1c4@[::ffff:d126:c83e]:38493?mode=multi&security=reality&encryption=none&pbk=51rBe9axP0oVzETrJ0gvFO_ldeiXvahjQJ4ExJcZNQI&fp=chrome&spx=%2Fen%2Fweather-forecasts%2Fcoastal-storm-wont-erase-budding-drought-concerns-in-northeast%2F1528287&type=grpc&serviceName=&sni=ftp.debian.org&sid=1c2dcce4#EHS+VIP+1
+vless://7f2fabde-88ae-4044-d0b5-06e5e9c1bda9@157.90.152.245:443?mode=multi&security=reality&encryption=none&pbk=kYL7MLJfCGPwY6cS9O91A2jpPpPCmN-V_7tIwSgPVlk&fp=randomized&type=grpc&serviceName=@v2rayNGup&sni=ftp.debian.org&sid=4384ff92#EHS+VIP+1
 
-vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=cdn-download1.zula.ir#EHS+VIP+2
-
-vless://c86a8b75-579d-4b19-b468-fb5de2baf426@95.164.47.234:21105?mode=gun&security=reality&encryption=none&pbk=9w_BDWBgBmK9B03miAw1Sbm6boWfMiqZFVXk4yIkCxo&fp=randomized&type=grpc&serviceName=fast.com&sni=eset.com&sid=89872579#EHS+VIP+3
-
-vless://ce46a621-a0ff-4816-f38a-c023e22f34bc@91.107.133.124:443?security=reality&encryption=none&pbk=DfuW50QGMg_7_GAcfV2W2pRrf_0zCn4d8SDWimQqkDE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=d4dd377e#EHS+VIP+4
-
-vless://ce46a621-a0ff-4816-f38a-c023e22f34bc@91.107.133.124:443?security=reality&encryption=none&pbk=DfuW50QGMg_7_GAcfV2W2pRrf_0zCn4d8SDWimQqkDE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=d4dd377e#EHS+VIP+5
-
- 
-vless://bb83cd54-e6c0-441d-823a-71443ff34686@203.28.8.85:2052?path=%2F&security=none&encryption=none&host=tau.configs.sbs&type=ws#EHS+VIP+6
-
-
-vless://c0f763b7-f306-4e72-c2a0-21f875761640@13.51.69.45:443?security=reality&encryption=none&pbk=TeUlLwqreKU-GtZNA3Qk1YRmP-3rZS5wIfAzCLB6_3I&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#EHS+VIP+7
-
+vless://7f53e8c8-6f80-4e9f-9cba-61bcac0a7d32@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+2
