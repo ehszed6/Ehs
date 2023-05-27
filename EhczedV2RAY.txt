@@ -18,6 +18,4 @@ vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@95.217.20.82:443?path=users%3Fed%3D
 
 vless://aceb7110-02ee-4bd0-b7b3-845b7fd35b89@135.125.133.152:333?security=reality&encryption=none&pbk=z_NcY_KNfunTYshRdpKJryAM39p64VTxcciQUOF9mlU&headerType=none&fp=firefox&type=tcp&sni=discord.com#EHS+VIP+6
 
-vless://ce46a621-a0ff-4816-f38a-c023e22f34bc@91.107.133.124:443?security=reality&encryption=none&pbk=DfuW50QGMg_7_GAcfV2W2pRrf_0zCn4d8SDWimQqkDE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=d4dd377e#EHS+VIP+7
-
 
