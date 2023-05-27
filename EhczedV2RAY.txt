@@ -2,7 +2,7 @@
 
 
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may26
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may27
 
 vless://7f2fabde-88ae-4044-d0b5-06e5e9c1bda9@157.90.152.245:443?mode=multi&security=reality&encryption=none&pbk=kYL7MLJfCGPwY6cS9O91A2jpPpPCmN-V_7tIwSgPVlk&fp=randomized&type=grpc&serviceName=@v2rayNGup&sni=ftp.debian.org&sid=4384ff92#EHS+VIP+1
 
