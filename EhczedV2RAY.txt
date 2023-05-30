@@ -2,20 +2,30 @@
 
 
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may27
-
-vless://7f2fabde-88ae-4044-d0b5-06e5e9c1bda9@157.90.152.245:443?mode=multi&security=reality&encryption=none&pbk=kYL7MLJfCGPwY6cS9O91A2jpPpPCmN-V_7tIwSgPVlk&fp=randomized&type=grpc&serviceName=@v2rayNGup&sni=ftp.debian.org&sid=4384ff92#EHS+VIP+1
-
-vless://7f53e8c8-6f80-4e9f-9cba-61bcac0a7d32@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+2
-
-vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=zula.ir&sid=cfd7a4eb#EHS+VIP+3
-
-vless://0d053b65-8190-4fba-c56a-8ee4da875012@16.170.173.27:443?security=reality&encryption=none&pbk=L65cajgidPHCAxNZIHcSfkeC1ezLVecH1fE14r5NFzI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eset.com#EHS+VIP+4
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may30
 
 
 
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@95.217.20.82:443?path=users%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=zula.ir#EHS+VIP+5
+vless://57de1e82-5a37-4e7d-a622-d1d35cb7f0f5@95.179.217.245:12339?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EHS+VIP+1
 
-vless://aceb7110-02ee-4bd0-b7b3-845b7fd35b89@135.125.133.152:333?security=reality&encryption=none&pbk=z_NcY_KNfunTYshRdpKJryAM39p64VTxcciQUOF9mlU&headerType=none&fp=firefox&type=tcp&sni=discord.com#EHS+VIP+6
+vless://57de1e82-5a37-4e7d-a622-d1d35cb7f0f5@95.179.217.245:12339?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EHS+VIP+2
 
+vless://f0139f5d-e6b2-4ab7-f9f6-6c5805a53acb@95.179.217.245:43070?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#EHS+VIP+3
+
+vmess://eyJhZGQiOiI2NC4yMjYuMTI0LjI1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiJiNGEzYTc0YS1hMjZmLTRlYjUtYWU0Yi1jYjE5ZWUwNGRjMGUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMjYzOSIsInBzIjoiRUhTIFZJUCA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+vless://6c6d91d3-8b7d-4ac5-f0ba-96f5665221ad@167.172.163.231:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#EHS+VIP+5
+
+vmess://eyJhZGQiOiI5MS4xMDcuMTU5LjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHR0cDovL3NwYWNlci5kaXZhcmNkbi5jb20uYm1pLmlyIiwiaWQiOiI3OTA5NThiMi0xNDFhLTQ4ZWMtY2VlMi1mNjBmMjFiZmE5ZWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxNzE1NSIsInBzIjoiRUhTIFZJUCA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+
+vmess://eyJhZGQiOiIxOTUuMTgyLjM4LjE4OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGUubWF4ZWVkY28uY29tIiwiaWQiOiIzNjA2MDJmNC1kN2U1LTRmNTYtOWUwZC02YjgxZDljMzM5ZWIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiRUhTIFZJUCA3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiI2NS4xMDkuMjQxLjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3QuY29tIiwiaWQiOiJjMDI4ZTc4OC1iZWFkLTQxYTgtZTI5ZS0zMGViYWNmNjJjYTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkVIUyBWSVAgOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+
+vless://95edfdc5-837c-40d4-8993-5c95f607531f@116.203.164.35:443?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#EHS+VIP+9
+
+
+vmess://eyJhZGQiOiI2NS4xMDkuMjQxLjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3QuY29tIiwiaWQiOiI4MDMzZjNlYi1lNDgxLTRjYTgtY2UwMS0wMjU2NzRmNDdiMTMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDUiLCJwcyI6IkVIUyBWSVAgMTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
