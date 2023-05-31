@@ -1,9 +1,9 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may31
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+may31 3pm
 
-vless://c4395f88-def1-4db8-9ace-8f69b6cfda7a@[::ffff:5b6b:96c0]:27977?security=none&encryption=none&host=%40vpnsal&headerType=http&type=tcp#EHS+VIP+1
+vless://b7c5810c-7424-4487-ca4e-932d8261d7f0@157.90.152.245:443?mode=multi&security=reality&encryption=none&pbk=kYL7MLJfCGPwY6cS9O91A2jpPpPCmN-V_7tIwSgPVlk&fp=randomized&type=grpc&serviceName=@v2rayNGup&sni=ftp.debian.org&sid=4384ff92#EHS+VIP+1
 
-vless://c4395f88-def1-4db8-9ace-8f69b6cfda7a@[::ffff:5b6b:96c0]:27977?security=none&encryption=none&host=%40v2raynplus&headerType=http&type=tcp#EHS+VIP+2
+vless://5a2c9d0f-7346-4f50-b59c-2c0671d880b7@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+2
 
 vless://bbc571dc-4c17-48e3-bb77-16bd057770e2@193.151.135.199:24709?security=none&encryption=none&host=hidata.org&headerType=http&type=tcp#EHS+VIP+3
 
