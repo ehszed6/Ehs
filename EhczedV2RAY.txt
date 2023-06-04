@@ -1,29 +1,10 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+jun3
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+jun4
 
-vless://dc59da0f-fafe-4514-d839-95b13421cca5@157.90.152.245:443?mode=multi&security=reality&encryption=none&pbk=kYL7MLJfCGPwY6cS9O91A2jpPpPCmN-V_7tIwSgPVlk&fp=randomized&type=grpc&serviceName=@v2rayNGup&sni=ftp.debian.org&sid=4384ff92#EHS+VIP+1
-
-
-vless://a1bd9645-2944-45ba-aeef-2861b00b7d07@135.181.86.115:443?mode=multi&security=reality&encryption=none&pbk=eH7WzEVuxgfqsgMXblumFrVnI9mo788hc0QmWXAaARw&fp=chrome&type=grpc&serviceName=@v2rayNGup&sni=www.speedtest.net&sid=151d915c#EHS+VIP+2
+vless://bb9b334b-8d7b-4c31-9af9-180368d4ffce@[0000:0000:0000:0000:0000:ffff:5b6b:d41a]:443?security=reality&encryption=none&pbk=1VQXY0sUYuNb_ZLrfJXq10gDAyU22yXus5VwYNtg02M&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=8cda51b2#EHS+VIP+1
 
 
 
-vless://bbc571dc-4c17-48e3-bb77-16bd057770e2@193.151.135.199:24709?security=none&encryption=none&host=hidata.org&headerType=http&type=tcp#EHS+VIP+3
-
-vless://c4395f88-def1-4db8-9ace-8f69b6cfda7a@[::ffff:5b6b:96c0]:27977?security=none&encryption=none&host=%40V_2rayngVpn&headerType=http&type=tcp#EHS+VIP+4
-
-vmess://eyJhZGQiOiIxOTUuNTQuMTcwLjIyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic29mdDk4LmlyIiwiaWQiOiJiNDJmZWE2NS0wMDQ2LTQ1OTQtOGEyZi04ZDM4ZmNhODdhNGIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkVIUyBWSVAgNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-
-vless://21a4318f-f2b7-4a5b-c94e-839c31dba93c@116.203.164.35:8080?security=reality&encryption=none&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=discord.gg#EHS+VIP+6
-
-vless://304ec509-64ba-4f3c-9766-8c1480bac5d5@78.47.217.231:443?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdimage.debian.org#EHS+VIP+7
-
-vless://fc6ca854-b2a6-4c09-8b04-07ada11405cf@51.68.169.200:42805?security=reality&encryption=none&pbk=Ahk5EQ8T9yCicZfQLslvXCjAyPM6JW5YpZUoHE5oyVw&headerType=none&fp=firefox&spx=%2Ffoo%2Fbar&type=tcp&flow=xtls-rprx-vision&sni=cdimage.debian.org&sid=b6842d29#EHS+VIP+8
-
-vless://95edfdc5-837c-40d4-8993-5c95f607531f@116.203.164.35:443?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#EHS+VIP+9
-
-vless://22f034c8-435d-4389-e920-29d81d27abcb@109.172.45.144:26456?security=reality&encryption=none&pbk=hT32L0dHjgj44WofFVSJxSYsQ2hDkRN7Cv1ZWU4knGw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=2201110a#EHS+VIP+10
-
+vless://bbc571dc-4c17-48e3-bb77-16bd057770e2@193.151.135.199:24709?security=none&encryption=none&host=hidata.org&headerType=http&type=tcp#EHS+VIP+2
 
 
