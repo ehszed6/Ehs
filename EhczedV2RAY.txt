@@ -8,3 +8,15 @@ vless://bb9b334b-8d7b-4c31-9af9-180368d4ffce@[0000:0000:0000:0000:0000:ffff:5b6b
 vless://bbc571dc-4c17-48e3-bb77-16bd057770e2@193.151.135.199:24709?security=none&encryption=none&host=hidata.org&headerType=http&type=tcp#EHS+VIP+2
 
 
+vless://047cbfd6-12db-4221-f4a4-53b998fc0a92@157.245.17.89:37665?mode=gun&security=reality&encryption=none&pbk=1Yhn7PuWk5GQFnFB91V9Cna-WZywUumBwPPLmr2AcH0&fp=firefox&spx=%2F&type=grpc&serviceName=@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,&sni=ftp.debian.org&sid=00d95aba#EHS+VIP+3
+
+
+vmess://eyJhZGQiOiIxODguMTIxLjExMi40NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibW9pLmlyIiwiaWQiOiIyZGIxODRiNC0yZTE5LTQwODQtYTAwZS1jYTQyMmMyMDYzOTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NzM5NSIsInBzIjoiRUhTIFZJUCA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+vless://bbc571dc-4c17-48e3-bb77-16bd057770e2@193.151.135.199:24709?security=none&encryption=none&host=hidata.org&headerType=http&type=tcp#EHS+VIP+5
+
+vmess://eyJhZGQiOiI4MC4yNDkuMTEzLjE4MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidmFyemVzaDMuY29tIiwiaWQiOiJmZDNkZDVjNS1hOTg5LTQxMDAtZmUxNi1iODUzNDc4NzAzZDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMjUzNyIsInBzIjoiRUhTIFZJUCA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+
+vless://0f66e217-f3b4-43a3-c141-6b23a86fcfbd@5.159.49.10:28051?path=%2F&security=none&encryption=none&type=ws#EHS+VIP+7
+
+vless://afc33879-13f8-4c8a-b98e-7f8378e4ac4f@185.58.242.168:443?path=%2Fwss32746%3Fed%3D2048%2Ftel%2F%40Vmess_Store&security=tls&encryption=none&alpn=h2&host=ir1.ostadshop.sbs&fp=chrome&type=ws&sni=ir1.ostadshop.sbs#EHS+VIP+8
