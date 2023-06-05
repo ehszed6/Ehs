@@ -1,5 +1,5 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+jun4
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+jun6
 
 vless://bb9b334b-8d7b-4c31-9af9-180368d4ffce@[0000:0000:0000:0000:0000:ffff:5b6b:d41a]:443?security=reality&encryption=none&pbk=1VQXY0sUYuNb_ZLrfJXq10gDAyU22yXus5VwYNtg02M&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=8cda51b2#EHS+VIP+1
 
