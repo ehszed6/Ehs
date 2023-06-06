@@ -2,18 +2,4 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+jun6
 
 
-
-vless://Legenderyking@94.228.169.27:443?path=%2F%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=http&sni=zula.ir&sid=1bb461e8#NOW
-
-vless://bb9b334b-8d7b-4c31-9af9-180368d4ffce@[0000:0000:0000:0000:0000:ffff:5b6b:d41a]:443?security=reality&encryption=none&pbk=1VQXY0sUYuNb_ZLrfJXq10gDAyU22yXus5VwYNtg02M&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=8cda51b2#EHS+VIP+1
-
-
-
-vless://bbc571dc-4c17-48e3-bb77-16bd057770e2@193.151.135.199:24709?security=none&encryption=none&host=hidata.org&headerType=http&type=tcp#EHS+VIP+2
-
-
-vmess://eyJhZGQiOiI5MS4xMzQuMjQ2LjU5IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ4MDI4IiwicHMiOiJFSFMgVklQIDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiI1MS4xNS40Ni43OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmJhaWR1LmNvbSIsImlkIjoiYjBiNDIwOWMtNWQ1Yi00NDk5LWEwYWMtYjk2OTA2ZmZhN2U4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJFSFMgVklQIDMiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiI0Ni4zNi4yMTkuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTYxOTc1OTQtMzIzYS00ZmZiLWJiM2MtYzdmNjQwNDUxODdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkVIUyBWSVAgNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://8dbb4a77-6295-4238-c40e-64c140f3ed4e@[::ffff:5b6b:d41a]:443?mode=multi&security=reality&encryption=none&pbk=1VQXY0sUYuNb_ZLrfJXq10gDAyU22yXus5VwYNtg02M&fp=chrome&type=grpc&serviceName=@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup&sni=www.speedtest.net&sid=8cda51b2#EHS+VIP+1 
