@@ -1,17 +1,17 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+jun11
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+jun13
+
+vless://c157ece7-d824-497b-d178-741bffb774d6@[::ffff:5b6b:d41a]:443?mode=multi&security=reality&encryption=none&pbk=1VQXY0sUYuNb_ZLrfJXq10gDAyU22yXus5VwYNtg02M&fp=chrome&type=grpc&serviceName=@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup&sni=www.speedtest.net&sid=8cda51b2#EHS+VIP+1
+
+vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=zula.ir&sid=6167fc7b#EHS+VIP+2
+
+vless://Legenderyking@94.228.169.27:443?path=%2FTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=CbcY9qc4YuMDJDyyL0OITlU824TBg1O84ClPy27e2RM&fp=chrome&type=http&sni=zula.ir&sid=6143c552#EHS+VIP+3
+
+vless://DigitalFortres@168.119.173.54:443?path=%2F&security=reality&encryption=none&pbk=e4HOs3uAsLX17Vc70VkGVONnKPaCwnoglkk9QQuCRi8&fp=chrome&type=http&sni=www.zula.ir#EHS+VIP+4
 
 
-vless://e5273096-fe3e-404f-d5b3-ee12daa91005@46.101.209.92:37665?mode=gun&security=reality&encryption=none&pbk=1Yhn7PuWk5GQFnFB91V9Cna-WZywUumBwPPLmr2AcH0&fp=firefox&spx=%2F&type=grpc&serviceName=@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,&sni=ftp.debian.org&sid=00d95aba#EHS+VIP+1
 
 
-vless://e5273096-fe3e-404f-d5b3-ee12daa91005@157.245.17.89:37665?mode=gun&security=reality&encryption=none&pbk=1Yhn7PuWk5GQFnFB91V9Cna-WZywUumBwPPLmr2AcH0&fp=firefox&spx=%2F&type=grpc&serviceName=@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,@vpn_xw,&sni=ftp.debian.org&sid=00d95aba#EHS+VIP+2
-
-
-
- vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=O9RSr5gSdok2K_tobQnf_scyKVqnCx6C4Jrl7_rCZEQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=zula.ir&sid=95d5e4c8#EHS+VIP+3
-
-vless://Legenderyking@94.228.169.27:443?path=%2FTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=VigpKFbSLnHLzBWobZaS1IBmw--giJ51w92y723ajnU&fp=chrome&type=http&sni=zula.ir&sid=e2bea644#EHS+VIP+4
 
 vless://AmirTechno_Service@49.13.24.232:8443?mode=gun&security=reality&encryption=none&pbk=Okmh9g82cgtOoJNROex4_DXs25ZjN0bHHOlttK7A5EI&fp=chrome&spx=%2Fsupport%2F&type=grpc&serviceName=@AmirTechno_Service,@AmirTechno_Service&sni=www.zula.ir&sid=704b786a#EHS+VIP+5
 
