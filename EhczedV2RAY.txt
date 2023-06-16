@@ -1,19 +1,13 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+jun16
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+jun16 6pm
 
-vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=PGG2EYOvsFt2lAQTD7lqHeRxz2KxvllEDKcUrtizPBU&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=007bbc98#EHS+VIP+1
+vless://e16e125f-de47-4d9b-92f6-b06561756176@[::ffff:5b6b:d41a]:443?mode=multi&security=reality&encryption=none&pbk=1VQXY0sUYuNb_ZLrfJXq10gDAyU22yXus5VwYNtg02M&fp=chrome&type=grpc&serviceName=@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup&sni=www.speedtest.net&sid=8cda51b2#EHS+VIP+1
 
-
-vless://Legenderyking@94.228.169.27:443?path=%2FTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&fp=chrome&type=http&sni=www.zula.ir&sid=f4a67698#EHS+VIP+2
-
+vless://6e122f2a-01f7-4eac-c0b7-31456a8cda6b@207.154.210.133:8443?security=reality&encryption=none&pbk=fDNC7R2yDphbHmHDXdzkvwTD1QRXBexeRp9Yxhe_E0c&headerType=none&fp=chrome&spx=%2F%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON%40ZEDMODEON&type=tcp&sni=www.googletagmanager.com&sid=0195baaa#EHS+VIP+2
 
 
-vless://f0f4cc96-07a2-4eb5-beae-d2e7227fcae4@104.31.16.197:80?path=%2Fwp-admin%2F%40AriooVpn&security=none&encryption=none&host=de01.ariotrade.cyou&type=ws#EHS+VIP+3
+vless://20ccd827-4a09-4a7f-8e68-55b402371663@16.171.62.101:443?security=reality&encryption=none&pbk=0ipPQpTgvs5z5zd3VghL7LQva2841Z6hg4v9_2b8kl4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#EHS+VIP+3
+
+vless://4260a3a7-2394-4272-9706-49796bbaa367@95.216.142.190:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=cdn-fastly-v6.deb.debian.org#EHS+VIP+4
 
 
-vless://AmiroNetwork@65.109.226.204:333?path=%2F&security=reality&encryption=none&pbk=8uAbWx29ZNsxVZXyMvjI2otRlhIyedgzAAW-o2D2h20&fp=chrome&type=http&sni=eset.com&sid=3c3e6ed4#EHS+VIP+4
-
-vless://87a61f18-6e2f-4712-9f88-b0fc4cc6af56@78.47.139.4:443?security=reality&encryption=none&alpn=h2&pbk=qsvf6dt1JiAxPajbOEnSvfIajg6MUWES7EcWhcigel0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=medium.com&sid=4b29245c#EHS+VIP+5
-
-
-vmess://eyJhZGQiOiIxMzcuMTc1LjMuNTIiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTQ0MzQiLCJwcyI6IkVIUyBWSVAgNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
