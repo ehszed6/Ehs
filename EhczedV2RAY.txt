@@ -14,3 +14,6 @@ vless://d9326aac-b123-4e20-9763-3604a3abceb0@45.136.196.23:443?mode=gun&security
 vless://TheHotVPN@speedtest.wlftest.xyz:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&type=tcp&sni=www.speedtest.net&sid=ce#EHS+VIP+6
 
 
+vmess://eyJhZGQiOiIxMDQuMzEuMTYuOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibHUuMHJkLm5ldCIsImlkIjoiZDVhZmRkMjAtMGMyNC0xMWVlLWI0MzItMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiLzJicmYzOHRpIiwicG9ydCI6IjIwODYiLCJwcyI6IkVIUyBWSVAgNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vless://befe231f-39f7-4b44-8acd-9fed568c4596@speedtest.reimagined.uno:443?security=reality&encryption=none&pbk=CtbHcXtDY8lHkZRTg8Cab0L2C-m6530UVIgdM2OfsCU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=12c76492cf6752fa#EHS+VIP+8
