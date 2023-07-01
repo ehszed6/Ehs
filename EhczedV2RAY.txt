@@ -1,7 +1,7 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+jun30
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+jun31
 
-vmess://eyJhZGQiOiIxNTYuMjQ5LjE4LjY5IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU0ODAyIiwicHMiOiJFSFMgVklQIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://205ee967-508c-4bcc-fa6c-667a6671cd67@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=dZNl0X83YLCQ9uVRer2laKiWVkuLRF6D3IFTBu2MxnM&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=1ff5c314#EHS+VIP+1
 
 vmess://eyJhZGQiOiIxNTYuMjI1LjY3LjEzMSIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTE1YmNiNGQtMGJhMS00Y2FlLTg3Y2YtYTA0NzAwN2VlYzU0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODEyMyIsInBzIjoiRUhTIFZJUCAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
