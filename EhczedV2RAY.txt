@@ -15,3 +15,4 @@ vless://AmirTechno_Service@116.202.5.33:8443?mode=gun&security=reality&encryptio
 vless://96ce7946-ac0c-4dcb-d095-fd6f46122d80@65.109.203.231:2083?mode=gun&security=reality&encryption=none&pbk=tQJCkwmB37aOLAtt4d95-uYhPtKyG9K-D0A3tc2hMW8&fp=chrome&type=grpc&serviceName=xyz&sni=debian.org&sid=5fd9b45c#EHS+VIP+6
 
 
+vless://4366f95c-37a6-42f2-bbe3-125893bb66d4@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=er7PmPRpeqZ4p6XWhbvcj76lWj0TnpjEJwsKe_Xz1xw&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cc6c334d#EHS+VIP+7
