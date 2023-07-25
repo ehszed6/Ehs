@@ -1,12 +1,17 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+Jul23 3pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+Jul25
 
 
-vless://Parsashonam@91.107.220.168:443?mode=gun&security=reality&encryption=none&pbk=rjunbBX_7doJEOUJbfF3xNx5SOxqnwTkAVRllKA5wjg&fp=firefox&spx=%2F&type=grpc&serviceName=@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam&sni=www.speedtest.net&sid=890b1fed#EHS+VIP+1
+vless://kivi_vpn@116.202.2.32:8443?mode=gun&security=reality&encryption=none&pbk=8hnYDDlJBIRKcEyFfytTcQmuf_XMn86oHrRUSbZDZhw&fp=chrome&spx=%2Fsupport%2F&type=grpc&serviceName=@AmirTechno_Service&sni=www.zula.ir&sid=ec77840e#EHS+VIP+1
 
-vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=740576b7#EHS+VIP+2
+vless://kivi_vpn@49.13.56.232:8443?mode=gun&security=reality&encryption=none&pbk=8hnYDDlJBIRKcEyFfytTcQmuf_XMn86oHrRUSbZDZhw&fp=chrome&spx=%2Fsupport%2F&type=grpc&serviceName=@AmirTechno_Service&sni=www.zula.ir&sid=ec77840e#EHS+VIP+2
 
-vless://ItsLegendaryking@193.35.18.189:443?security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.zula.ir&sid=90ec6d9f#EHS+VIP+3
-vless://ItsLegendaryking@91.231.182.109:443?security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.zula.ir&sid=26fc7724#EHS+VIP+4
-vless://ItsLegendaryking@94.242.53.32:443?mode=gun&security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=610e8209#EHS+VIP+5
-vless://a310b1ba-5ae7-47dd-c4a9-b5275055fd4d@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=er7PmPRpeqZ4p6XWhbvcj76lWj0TnpjEJwsKe_Xz1xw&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cc6c334d#EHS+VIP+6
+vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=852f3042#EHS+VIP+3
+
+vless://ItsLegendaryking@193.35.18.189:443?security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.zula.ir&sid=75ee22c1#EHS+VIP+4
+
+vless://NetGuardians@49.13.60.107:8443?mode=gun&security=reality&encryption=none&pbk=Pw-U_ECO7-rIImP9z4diPdSZ4844FYGZ9kVU_4AUxHk&fp=firefox&type=grpc&serviceName=Ehda@NetGuardians_Be_@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CFEhda_@NetGuardians_Be_@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF&sni=www.zula.ir&sid=d5b3d680#EHS+VIP+5vless://NetGuardians@49.13.60.107:8443?mode=gun&security=reality&encryption=none&pbk=Pw-U_ECO7-rIImP9z4diPdSZ4844FYGZ9kVU_4AUxHk&fp=firefox&type=grpc&serviceName=Ehda@NetGuardians_Be_@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CFEhda_@NetGuardians_Be_@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF&sni=www.zula.ir&sid=d5b3d680#%40V2RAYNPLUS%2BGERMANY%F0%9F%87%A9%F0%9F%87%AA%E2%96%93%E2%96%92%E2%96%91%F0%9F%87%A9%F0%9F%87%AA+%E2%B1%BD%C2%B2%CA%B3%E1%B5%83%CA%B8+%F0%9F%94%B0+%E1%B4%BF%E1%B5%89%E1%B5%83%CB%A1%E2%81%B1%E1%B5%97%CA%B8%7C2
+
+‍🔳⁺ 𝗣𝗹𝘂𝘀+  🔳
+ⱽ²ʳᵃʸ  🔰 ᴿᵉᵃˡⁱᵗʸ🇩🇪🇩🇪🇩🇪GERMANY
+
