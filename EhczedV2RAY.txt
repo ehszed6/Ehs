@@ -1,5 +1,5 @@
 🌊 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+Jul28
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+Jul28 8pm
 
 vless://9951b209-6567-4cd6-c48d-042ba51c28f9@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=er7PmPRpeqZ4p6XWhbvcj76lWj0TnpjEJwsKe_Xz1xw&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cc6c334d#EHS+VIP+1
 
@@ -9,3 +9,5 @@ vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=no
 vless://ItsLegendaryking@193.35.18.189:443?mode=gun&security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&fp=random&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=936ae151#EHS+VIP+3
 
 vless://2c9a2502-996e-420c-bcf5-46c29dca59f8@[::ffff:2d09:bc69]:2096?security=reality&encryption=none&pbk=FnCK_gf4RQF9vsAJ-JJ01QDiZgtFnuzn91KjuZ9dqyQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=zula.ir&sid=2bf17609#EHS+VIP+4+
+
+vless://ItsLegendaryking@65.21.153.40:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=11ed1895#EHS+VIP+5
