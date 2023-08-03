@@ -3,6 +3,14 @@
 🌊 
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+aug3
 
+
+
+vless://Hopev2ray@91.107.254.188:443?security=reality&encryption=none&pbk=zNXeqxLhKoYhxXhi5fwODGhTDmG-vQ7dDcrTEx2IDCQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=debian.org&sid=002e56be#EHS+VIP
+
+
+vless://Hopev2ray@91.107.254.188:443?security=reality&encryption=none&pbk=zNXeqxLhKoYhxXhi5fwODGhTDmG-vQ7dDcrTEx2IDCQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=debian.org&sid=002e56be#EHS+VIP
+
+
 vless://ItsLegendaryking@135.181.44.79:443?mode=gun&security=reality&encryption=none&pbk=NkA-y03resTwzLWpbyDmxGQWlQgSNPy6ZX5C7ItPjBk&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=3f215891#EHS+VIP
 
 vless://d3c0926c-f4dd-4621-fdf0-2ce8d0c9eaf6@140.82.34.34:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray&sni=hopev2rayme.hopeserver.tech#EHS+VIP
