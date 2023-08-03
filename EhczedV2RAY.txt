@@ -3,7 +3,7 @@
 🌊 
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUpdated+aug3
 
-
+vless://AntiFilterChaV2@104.31.16.65:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=mt.HrV2ray.cfd#EHS+VIP+0
 
 vless://Hopev2ray@91.107.254.188:443?security=reality&encryption=none&pbk=zNXeqxLhKoYhxXhi5fwODGhTDmG-vQ7dDcrTEx2IDCQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=debian.org&sid=002e56be#EHS+VIP
 
