@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG10
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG11
 
 vless://ItsLegendaryking@49.13.25.80:443?mode=gun&security=reality&encryption=none&pbk=fCUsrIMhSAHtT5aJnoOyP9HAmD2M7OYOYZfEE9otXQw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=e780e0fa#EHS+VIP+1
 
