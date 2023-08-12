@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG13
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG12
 
 vless://ItsDgNmt@49.13.64.86:443?security=reality&encryption=none&pbk=Bgva9QaXb3LpV52dWN-_NFf-mK1owq8fFaetWQS1-w8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=game-center.ir&sid=443a1db7#EHS+VIP+1
 
