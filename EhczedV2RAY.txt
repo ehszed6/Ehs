@@ -1,4 +1,7 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG13
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG14
+
+
+vless://6f387f30-be77-430a-af91-4b81732d3866@medal2doublelife.minecraft.pe:5005?security=reality&encryption=none&pbk=zajoqRkduyjIkObtDklNazvDkTFR5ZwjKYnetDqejGY&host=hamiseir.ir&headerType=http&fp=firefox&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&type=tcp&sni=flutter.dev&sid=c36bc798#EHS+VIP-1
 
 vless://dd754357-1998-4e6a-eaf9-fb985ed4707f@[::ffff:310d:4137]:443?security=reality&encryption=none&pbk=IPmvEktYXYFa5g1gdaN2F_nuoGXtcrdbLDAFqXw2AjM&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=5eae8f6d#EHS+VIP+0
 
