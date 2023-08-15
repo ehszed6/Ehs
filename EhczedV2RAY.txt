@@ -1,4 +1,12 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG14
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG15
+
+
+vless://174bb76c-0ffe-4b80-b03f-46447a6055e3@[::ffff:310d:4137]:443?security=reality&encryption=none&pbk=IPmvEktYXYFa5g1gdaN2F_nuoGXtcrdbLDAFqXw2AjM&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=5eae8f6d#EHS+VIP
+
+
+vless://ItsLegendaryking@49.13.65.234:443?path=%2F%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers&security=reality&encryption=none&pbk=qZjE66OgTd02vwBTwgEs8b6nppZee0zdTASho1K_JkE&fp=chrome&spx=%2F&type=http&sni=mihanyas.ir&sid=2a61d932#EHS+VIP++1
+
+vless://Legendaryking@103.45.246.38:443?mode=gun&security=reality&encryption=none&pbk=qmVf1MrntFFIGS5iFGwOuruAciLHqyQNQFEEj3PFDGQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=3b04ab25#EHS+VIP++2
 
 vless://b276a47a-0ea4-48dd-9ad2-e83afb0e0da2@all-antifilterch.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=mt.HrV2ray.cfd#EHS+VIP
 
