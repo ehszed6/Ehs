@@ -1,4 +1,6 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG19
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG20
+
+vless://cebca4e0-bd2e-4c08-a52c-6b1ac2f16a73@[::ffff:c3c9:eb0e]:443?security=reality&encryption=none&pbk=c7vzV-BV52EIVlyboOBCiB0GoLRG9eLdcTh1fUd10xU&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=7bd362fd#EHS+VIP
 
 
 vless://ItsLegendaryking@49.13.60.41:443?mode=gun&security=reality&encryption=none&pbk=Ps51OUMadKo55xVaGNku_ZVD7S37eaNrhSQUwI9FfB8&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.esri.com&sid=7e795889#EHS+VIP
