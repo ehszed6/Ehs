@@ -1,5 +1,13 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG20
 
+vless://thend@78.47.134.20:443?security=reality&encryption=none&pbk=7KBzMWxReo1V3i3SrWQlv-3FTkgIwURsuYbeb838i1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=game-center.ir#EHS+VIP
+
+vless://ee1bb828-6122-4145-fe2a-9ac09b672258@anti-V2ray.ddns.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=gr.ahv2ray.cfd#EHS+VIP
+
+
+
+
+
 vless://e23cfcd9-05c3-4146-96a4-f8d30ec7718d@[::ffff:c3c9:eb0e]:443?security=reality&encryption=none&pbk=c7vzV-BV52EIVlyboOBCiB0GoLRG9eLdcTh1fUd10xU&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=7bd362fd#EHS+VIP+0 
 
 
