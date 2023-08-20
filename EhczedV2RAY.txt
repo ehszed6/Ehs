@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG20
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG21
+
+vless://f8189818-9785-4d1c-eb7c-096ba0a0ce45@45.131.4.21:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=tm.HrV2ray.cfd#EHS+VIP
+
+vless://d9411cf7-28e0-43c9-debc-eeeaed8109a4@45.131.4.21:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=antifilterchv2.HrV2ray.cfd#EHS+VIP
+
+vless://13d3c115-b76e-4c8d-a026-236fb731b497@128.140.120.204:59192?mode=gun&security=reality&encryption=none&pbk=zmCDRgyjPTq3isYqM9dOd2vIGOPVyZ2Jaa7yh760zGI&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=speed.cloudflare.com&sid=f3eead7b#EHS+VIP
 
 vless://thend@78.47.134.20:443?security=reality&encryption=none&pbk=7KBzMWxReo1V3i3SrWQlv-3FTkgIwURsuYbeb838i1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=game-center.ir#EHS+VIP
 
