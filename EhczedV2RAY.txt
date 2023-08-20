@@ -1,4 +1,6 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG19 6pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG20
+
+vless://e23cfcd9-05c3-4146-96a4-f8d30ec7718d@[::ffff:c3c9:eb0e]:443?security=reality&encryption=none&pbk=c7vzV-BV52EIVlyboOBCiB0GoLRG9eLdcTh1fUd10xU&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=7bd362fd#EHS+VIP+0 
 
 
 vless://9f8ccefb-fe9c-4ca5-8910-c945e6554d1e@91.107.208.55:31087?mode=gun&security=reality&encryption=none&pbk=f81KXDMoK-JDmFnfy0uOOtVxIWLOL1E8qHyvZz1t1C8&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=www.speedtest.net&sid=dba474af#EHS+VIP
