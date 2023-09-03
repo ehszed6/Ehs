@@ -1,14 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+AUG28
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+sep 3
 
-vless://ae115286-8a75-44fa-fba2-64653e3957fc@[::ffff:808c:7f5d]:443?security=reality&encryption=none&pbk=Myb_P2vFdMGc1o7bWtKnkvb1zoqvTHJ-theSgecfT3A&headerType=none&fp=chrome&spx=%2Fdirectory%2Fgames%2F&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=3e1858a2#EHS+VIP 
+
 
 vless://d1b58805-00b1-4d3e-9bb1-1f2ff71240da@128.140.114.115:2087?path=%2Fxbox.com&security=reality&encryption=none&pbk=4D8HMBkGdshhPr2Fnlh4jZOEhqFGtV-9sNUuD08LchE&host=speedtest.net&fp=chrome&spx=%2F&type=http&sni=www.speedtest.net&sid=da4e2d54#EHS+VIP+0
 
 
-vless://41a9c311-5db4-49c0-deca-644cf468dc65@104.31.16.65:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=po.AhV2ray.fun#EHS+VIP
+vless://ItsLegendaryking@37.27.10.179:443?mode=gun&security=reality&encryption=none&pbk=ZYRPM8TI7WVbZL1MrPI7Qzpl190PEhyIzdrD6IvPjTQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=f6b24dad#EHS+VIP+1
 
-vless://ItsLegendaryking@46.29.235.36:443?mode=gun&security=reality&encryption=none&pbk=goY3OtfaA4UYbiz7Hn0NysI5QJrK0VT_Chg6RLgUPQU&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=up.20script.ir&sid=d2c61502#EHS+VIP
-
-vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=O9RSr5gSdok2K_tobQnf_scyKVqnCx6C4Jrl7_rCZEQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=up.20script.ir&sid=d656fd41#EHS+VIP
-
-vless://ItsLegendaryking@49.13.64.84:443?mode=gun&security=reality&encryption=none&pbk=I2NWGwz12uZpc6sO8MSsqQ9fJsB_jB65o4usDSlayHs&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=72ba265f#EHS+VIP
+vless://0a366a8e-0378-45fb-f961-31e6ce294acb@[::ffff:808c:7f5d]:443?security=reality&encryption=none&pbk=Myb_P2vFdMGc1o7bWtKnkvb1zoqvTHJ-theSgecfT3A&headerType=none&fp=chrome&spx=%2Fdirectory%2Fgames%2F&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=3e1858a2#EHS+VIP+2
