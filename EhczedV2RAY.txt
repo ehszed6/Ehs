@@ -1,1 +1,6 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+❌
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+
+
+
+vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=hVZHRoFqUOR7Vsc0qW5qN6nqXC6nfOzOgunnKRw7qnc&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=b471c4b1#EHS+VIP
+
+vless://f3854b07-be5c-4e4c-81de-e310b1eb6163@[::ffff:808c:7f5d]:443?security=reality&encryption=none&pbk=_TG8VzcSg5yPWfC6b7-wrjafRT7dj6xE4RWx1ktwJgM&headerType=none&fp=chrome&spx=%2Fdirectory%2Fgames%2F&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=28ae7d96#EHS+VIP
