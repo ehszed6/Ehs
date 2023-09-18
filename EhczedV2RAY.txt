@@ -1,5 +1,6 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+sep18
 
+vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=fNOsQEqWQ9ErLlCze0ut6g-PLCVobLzf0JUB_d0o_nI&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=51e8003a#EHS+VIP++6
 
 vless://telegram-id-ArV2ray@95.217.25.49:443?mode=gun&security=reality&encryption=none&pbk=vaIvEftIRIYAINp8QHOTAaFB0LlkED-elyCqL6K0Pm0&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=1df47f68#EHS+VIP
 
