@@ -5,23 +5,8 @@ vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@IPSTORE.BUSINESS:443?mode=gun&secur
 
 vless://61b28d00-9bbb-4d9c-c90c-b4f12c50cdcf@[::ffff:808c:5314]:443?security=reality&encryption=none&pbk=P8gGRR8yORVaNd5CMHaTvhYLVgeFMjAHT30pwrQnzks&headerType=none&fp=chrome&spx=%2Fdirectory%2Fgames%2F&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=af7d2b9d#EHS+VIP
 
-vless://FFFREE-CONFIG-WANCLOUDFA92@185.162.228.3:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@wancloudfa&sni=tml.wancloudfa.shop#EHS+VIP
 
 
 vless://1d0e3fe8-dc21-46bd-9e49-59e6939745c0@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.fun#EHS+VIP
 
-trojan://Telegram-DarkVPNpro@172.67.161.8:8443?mode=multi&security=tls&alpn=h2&fp=firefox&type=grpc&serviceName=Telegram-id-DarkVPNpro&sni=b0tt-robbotsanyb00r-nodelity-arshadarkpro.arshaproplus.cf#EHS+VIP
-
-vless://ItsLegendaryking-HA-test@49.13.0.114:443?mode=gun&security=reality&encryption=none&pbk=Dh2I6PiCpRNjZ5P7uPpg99B3znkj3pMg0iBPWAHoXgg&fp=firefox&type=grpc&serviceName=&sni=mifa-music.ir#EHS+VIP
-
-vless://cf0d2e7f-ec07-49cd-8d31-edb38fe089a7@104.23.124.13:2087?path=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&security=tls&encryption=none&alpn=http/1.1&host=bouttemy11aksmefor-one1dfashjd.arshaproplus.cf&fp=safari&type=ws&sni=check-host-mymoviz31thew0nderful.arshaproplus.cf#EHS+VIP
-
-
-vless://ecbcff48-b92f-49fa-8f96-e08ea477c828@tel.ArV2ray.host:443?path=%2F&security=tls&encryption=none&host=ArV2ray.AbrArvan.link&type=ws&sni=ArV2ray.AbrArvan.link#EHS+VIP
-
-
-vless://3fa0141f-96c8-43f8-87e1-7c436ef3f797@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.fun#EHS+VIP
-
-
-vless://JOINTELEGRAM-WANCLOUDFA0365@185.162.228.3:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1&type=grpc&serviceName=@wancloudfa&sni=tml.wancloudfa.shop#EHS+VIP
 
