@@ -1,4 +1,11 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+oct5
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+oct6
+
+
+vless://ItsLegendaryking@45.82.13.59:443?mode=gun&security=reality&encryption=none&pbk=7oCQDJkXPZia7Q3kq4LEpntJ31u-vHP-2LheYTBWYx8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=h11.hostdl.com&sid=d83baad7#EHS+VIP
+
+vless://ItsLegendaryking@62.3.12.50:443?mode=gun&security=reality&encryption=none&pbk=teLCKRvysbICmzsbIZiiM_nDRToJS53uON5VGsvy6iQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=0b7b50c0#EHS+VIP
+
+vless://ItsLegendaryking@49.13.24.200:443?mode=gun&security=reality&encryption=none&pbk=dn3ZJzdswW6y8XB2_EiET-qqxpTBWZ6uOCVlqWotu0M&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=upmusics.com&sid=3cd1603f#EHS+VIP
 
 vless://a1ae13b9-e837-4f1b-960c-e43e2e8e6ebf@all.shhproxy.cfd:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site#EHS+VIP
 
