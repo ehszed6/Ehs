@@ -1,5 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+oct8
 
+vless://telegram-id-ArV2ray@208.76.222.85:443?mode=gun&security=reality&encryption=none&pbk=xuzJIGddsQCcQ7xsSZ8HKF1YAJy3N6PnK7QuA3iYlGs&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=debian.org&sid=fa09cddd#EHS+VIP
+
 vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=Z3lUzcg9AFUjByWsQyl41hfkksTbPq6lNb-UKzx4pwI&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=drjafargholi.com&sid=10c2b5bc#EHS+VIP
 
 vless://ItsLegendaryking@45.95.233.206:443?mode=gun&security=reality&encryption=none&pbk=FRmqng02uhCc9V-ZUC-YyTPeqI8GP50vPSZEqicMdQ8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=drjafargholi.com&sid=7c659058#EHS+VIP
