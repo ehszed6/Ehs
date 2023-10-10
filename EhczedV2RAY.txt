@@ -1,47 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+oct9
-
-vless://738c5e99-7faa-4893-81a8-4d6655adde36@5.75.209.22:443?mode=gun&security=reality&encryption=none&pbk=e2VGvHwmGudsNxadrgFCv3ENvRLyD_8x9csN6tTMGns&fp=firefox&spx=%2F&type=grpc&serviceName=@Digiv2ray&sni=www.speedtest.net&sid=ab7b40b2#EHS+VIP
-
-vless://94965c9e-8dbe-4cfa-8569-614166c26bd6@channel.digiv2ray.xyz:54764?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#EHS+VIP
-
-vless://telegram-id-ArV2ray@208.76.222.85:443?mode=gun&security=reality&encryption=none&pbk=xuzJIGddsQCcQ7xsSZ8HKF1YAJy3N6PnK7QuA3iYlGs&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=debian.org&sid=fa09cddd#EHS+VIP
-
-vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=Z3lUzcg9AFUjByWsQyl41hfkksTbPq6lNb-UKzx4pwI&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=drjafargholi.com&sid=10c2b5bc#EHS+VIP
-
-vless://ItsLegendaryking@45.95.233.206:443?mode=gun&security=reality&encryption=none&pbk=FRmqng02uhCc9V-ZUC-YyTPeqI8GP50vPSZEqicMdQ8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=drjafargholi.com&sid=7c659058#EHS+VIP
-
-vless://82fbd90a-fa7d-428e-b952-123152617ae7@135.181.81.65:11652?mode=gun&security=reality&encryption=none&pbk=tYCflSzJkTVhKVYxl-CY6yHrmDxVdRit1MW4dQrEOh0&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT&sni=ftp.debian.org&sid=230cecb5#EHS+VIP
-
-vless://telegram-id-ArV2ray@mkh.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#EHS+VIP
-
-vless://telegram-id-ArV2ray@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#EHS+VIP
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+oct10
 
 
+vless://351835db-e956-4fea-8819-86b33065ac55@tel.ArV2ray.host:443?path=%2F&security=tls&encryption=none&host=ArV2ray.AbrArvan.link&type=ws&sni=ArV2ray.AbrArvan.link#EHS+VIP
 
-vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=255p-lmdxwKwWB2h5TCK3RA-HrUx1O0AGCm5qF7vrxA&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=h10.hostdl.com&sid=a1a4f747#EHS+VIP++6
+vless://90a5d916-5204-4292-a2c9-0059abe545c8@mkh.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#EHS+VIP
 
-vless://ItsLegendaryking@45.91.168.94:443?mode=gun&security=reality&encryption=none&pbk=td5Gh8KdSJMnfcubjkVwZGATzZ2pexbQ65glKJTXy2A&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=irandns.com&sid=4b4e0dea#EHS+VIP++7
+vless://telegram-id-ArV2ray@135.181.31.243:13?mode=gun&security=reality&encryption=none&pbk=QX5wS5UAIShGNRhwCSiH5iRIJDfGBb01kQtDT7ie4Qs&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=2f092c0d#EHS+VIP
 
-vless://ItsLegendaryking@49.13.24.200:443?mode=gun&security=reality&encryption=none&pbk=124cRDXnEP0fQtqmTugHovkXCZp1jzC6IiplrhJ2rxY&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=upmusics.com&sid=8710aac1#EHS+VIP++1
-
-vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=Ruoml8W5DWLu68Gnt0xo3PDtcJJpttmlsTPrzOU1SHA&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=h11.hostdl.com&sid=d3469bf1#EHS+VIP++2
-
-
-vless://ItsLegendaryking@45.82.13.59:443?mode=gun&security=reality&encryption=none&pbk=7oCQDJkXPZia7Q3kq4LEpntJ31u-vHP-2LheYTBWYx8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=h11.hostdl.com&sid=d83baad7#EHS+VIP
-
-vless://ItsLegendaryking@62.3.12.50:443?mode=gun&security=reality&encryption=none&pbk=teLCKRvysbICmzsbIZiiM_nDRToJS53uON5VGsvy6iQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=0b7b50c0#EHS+VIP
-
-vless://ItsLegendaryking@49.13.24.200:443?mode=gun&security=reality&encryption=none&pbk=dn3ZJzdswW6y8XB2_EiET-qqxpTBWZ6uOCVlqWotu0M&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=upmusics.com&sid=3cd1603f#EHS+VIP
-
-vless://a1ae13b9-e837-4f1b-960c-e43e2e8e6ebf@all.shhproxy.cfd:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site#EHS+VIP
-
-vless://ItsDgNmt@128.140.115.71:443?mode=gun&security=reality&encryption=none&pbk=DAOOqxjgfsyhyXAHXdwV0Ej6oLWopUCEW0308JHfXhc&fp=chrome&type=grpc&serviceName=&sni=greenpepper.ir#EHS+VIP
-
-
-vless://CONFIGFREE-WANCLOUDFA@185.162.228.3:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@wancloudfa&sni=tml.wancloudfa.shop#EHS+VIP
-
-vless://13196bbc-1c11-49c8-a257-0c1cd89100b2@d2dzi2tmmpxmkj.cloudfront.net:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws&sni=d2dzi2tmmpxmkj.cloudfront.net#EHS+VIP
-
-vless://ed38f75e-b8c2-4fe3-bbc2-a867a4fc51ba@1armageddon-darkarsha-spykids3-4florason.irandarkpro.gq:5349?security=reality&encryption=none&pbk=1sWUMGpWGw0w3qF9cXn1toV_QSV-_kmOxOSrKkPawi8&host=mega.io&headerType=http&fp=firefox&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&type=tcp&sni=www.crisisgroup.org&sid=70a42369#EHS+VIP
-
-
+vless://aaa21e87-474c-47d0-a4c1-aae608caa404@65.109.194.107:2222?security=reality&encryption=none&pbk=zkgtB5UV9rmo-UFoHHq7FbsDIEUs53XV66vMOk4VBD8&host=subscene.com&headerType=http&fp=firefox&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&type=tcp&sni=wasabiwallet.io&sid=01ee09d2#EHS+VIP
