@@ -1,4 +1,6 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+oct20 10pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+oct22
+
+vless://ItsLegendaryking@168.119.153.222:443?mode=gun&security=reality&encryption=none&pbk=LtiJS3jEvBPxi8YDn65yXIG_PDZcWwEPYWf8BtaFSBY&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=9c1c352c#EHS++1 
 
 
 vless://FREECONFIG-WANCLOUDFA@wancloudfa.ddns.net:2087?mode=gun&security=reality&encryption=none&pbk=-UmjbzazQhflohR61YOte7g9SUT7oLpKk38z61cJun8&fp=firefox&spx=%2F&type=grpc&serviceName=@wancloudfa&sni=zula.ir&sid=1b163490#EHS+VIP
