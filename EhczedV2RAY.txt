@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+oct24
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+oct26
+
+
+vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=U8esgC0ylI7Med4WlrY8N8aYz2Inwv1WKswz2T3IjRc&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=8366e9fb#EHS
+
+
+vless://ItsLegendaryking@168.119.153.222:443?mode=gun&security=reality&encryption=none&pbk=MYqsOdUboTssC3KPi3fGGi6s6BmIY4QJCzqaRCnphj4&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=2af9214b#EHS
 
 vless://ItsLegendaryking@157.90.150.116:443?security=reality&encryption=none&pbk=5pxuJKjBbVD_KE8sv7oWj87ygIesofx6y-yIWe9mET4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mihanyas.ir&sid=eb1cec8b#EHS
 
