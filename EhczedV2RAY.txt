@@ -1,8 +1,14 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov7
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov7 8pm
 
 
-vless://1a786c1e-52cc-4237-b69f-0889e93951f4@[::ffff:808c:73b5]:443?mode=multi&security=reality&encryption=none&pbk=ongQLhZyNDLbgbAfb7CgNHeaMbGIMG9MuaZa1Pv7Z3U&fp=chrome&spx=%2Fdirectory%2Fgames%2F&type=grpc&serviceName=@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup&sni=sourceforge.net&sid=2bc2e3e2#EHS
+vless://cba3b0a3-6283-438f-b364-463fa736b468@104.16.194.40:443?path=%2FTelegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT&security=tls&encryption=none&host=seyyedmt.irancell-rightel3-mci-aparat-zula.shop&type=ws&sni=seyyedmt23.irancell-rightel3-mci-aparat-zula.shop#EHS
 
-vless://ItsDgNmt@49.13.20.96:443?security=reality&encryption=none&pbk=yLuy0A9ANtq3G4eDkWLiWA_o4PJOyHKbA18aI8ghO00&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mihanyas.ir&sid=05f47f45#EHS
+vless://f696d735-a126-4f81-82e0-98600d08aefa@49.13.63.200:27117?mode=gun&security=reality&encryption=none&pbk=Q5X_0VeMXqg8xh448F71x85Ned1ZvXHm3EfGT4jPIW4&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-&sni=cdn.discordapp.com&sid=a7647e4d#EHS
 
-vless://09b2944e-41ae-4d0c-8c17-d47f57769808@104.16.106.177:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=V2ray.SvnBuy.online#EHS
+
+vless://3b6f53fc-3ab1-4a9c-b6e9-869e5b6aee1c@49.12.209.241:54110?mode=gun&security=reality&encryption=none&pbk=VTQXr0gHtxKYs1w1SZm8JxmGWrrmGXcBNqG7d9fk5z8&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=www.speedtest.net&sid=04503703#EHS
+
+
+vless://d2a4d4e9-f887-460d-9cf0-1a14d7f9c9c8@128.140.62.114:31177?mode=gun&security=reality&encryption=none&pbk=uOD4pGTiK9Af6mfGUsNMbvVmkLO81cll-GiRkB9a1U4&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=dash.cloudflare.com&sid=fccc5435#EHS
+
+
