@@ -1,6 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov7 8pm
 
 
+vless://662e6d09-dd90-4024-acd5-7f1606258a3a@[::ffff:808c:73b5]:443?mode=multi&security=reality&encryption=none&pbk=ongQLhZyNDLbgbAfb7CgNHeaMbGIMG9MuaZa1Pv7Z3U&fp=chrome&spx=%2Fdirectory%2Fgames%2F&type=grpc&serviceName=@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup,@v2rayNGup&sni=sourceforge.net&sid=2bc2e3e2#EHS
+
 vless://cba3b0a3-6283-438f-b364-463fa736b468@104.16.194.40:443?path=%2FTelegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT&security=tls&encryption=none&host=seyyedmt.irancell-rightel3-mci-aparat-zula.shop&type=ws&sni=seyyedmt23.irancell-rightel3-mci-aparat-zula.shop#EHS
 
 vless://f696d735-a126-4f81-82e0-98600d08aefa@49.13.63.200:27117?mode=gun&security=reality&encryption=none&pbk=Q5X_0VeMXqg8xh448F71x85Ned1ZvXHm3EfGT4jPIW4&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-&sni=cdn.discordapp.com&sid=a7647e4d#EHS
