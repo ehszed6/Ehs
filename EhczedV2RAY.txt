@@ -1,4 +1,4 @@
- vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov11 9pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov11 9pm
 
 
 vless://ItsLegendaryking@62.133.63.71:443?mode=gun&security=reality&encryption=none&pbk=tDF0W3tuu2JLaHG-e0M7Tn4pXmGgzNESvBfIIIDv5w0&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.turkishcargo.com&sid=dbe8fdfb#EHS
