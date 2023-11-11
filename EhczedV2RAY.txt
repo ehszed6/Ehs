@@ -1,4 +1,7 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov10
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov11
+
+
+vless://4ccb79a5-2b20-419c-9d1e-400b9655a3a9@[0000:0000:0000:0000:0000:ffff:a5e8:4d25]:2087?path=%2F&security=reality&encryption=none&pbk=HYyIGuyNFslmcnNT7mrDdmuXwn4cm7smE_FZbYguKHQ&fp=safari&type=http&sni=discord.com&sid=98ab6841#EHS 
 
 
 vless://2bdc0f65-961a-489f-ad35-cced39973c00@5.75.247.72:56805?mode=gun&security=reality&encryption=none&pbk=kn5LveeNBN_MCAzJEI_KblhIImBcnwyX3rckTRV_-Xk&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=dash.cloudflare.com&sid=8653aa5d#EHS
