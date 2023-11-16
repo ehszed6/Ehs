@@ -1,4 +1,13 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov14
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov17
+
+
+vless://ItsLegendaryking@62.133.63.71:443?mode=gun&security=reality&encryption=none&pbk=DAFKzpKfMzVYQA_cM9ptJZQgJ6Y8O2OrfKWy6kjj-zo&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.turkishcargo.com&sid=d6d8e652#EHS
+
+vless://ItsLegendaryking@78.47.225.6:443?mode=gun&security=reality&encryption=none&pbk=V9EHpG-ppIriKKR336VgjCQExjT1u0RNk_UPBH2XUG8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=staging.philharmonie-konstanz.de&sid=9b0dbdcb#EHS
+
+vless://telegram-id-ArV2ray@37.27.22.2:443?mode=gun&security=reality&encryption=none&pbk=hvjMr2Gf9X33QQDjNvAR-Hqdlbwv705KkDNw8wfg8Xw&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=455e0133#EHS
+
+vless://4dc3c87e-1767-4f8c-98e6-1c632261627d@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#EHS
 
 
 vless://18d08fcd-d38c-48bd-9323-22fa257a5eb1@49.13.0.89:48966?mode=gun&security=reality&encryption=none&pbk=XphpOxzH-X0KAy8fJlXlrmGrtMIBmvnHnczx4Y33Xwc&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=www.speedtest.net&sid=d3e064f1#EHS
