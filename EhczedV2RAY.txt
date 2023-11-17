@@ -1,5 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov17
 
+vless://thetelegramsister@128.140.63.49:443?security=reality&encryption=none&pbk=5BqCCplqQoIuVxE1VgjVR1O2OKergXzcY_mhFFmYESM&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=proxmox.com#irancell+VIP+ehs
+
 
 
 vless://ItsLegendaryking@62.133.63.71:443?mode=gun&security=reality&encryption=none&pbk=DAFKzpKfMzVYQA_cM9ptJZQgJ6Y8O2OrfKWy6kjj-zo&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.turkishcargo.com&sid=d6d8e652#EHS
