@@ -1,4 +1,6 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov18
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov18 
+
+vless://ed446496-eb0b-4f41-b407-0acc3bc3c5bf@168.119.160.195:11243?mode=gun&security=reality&encryption=none&pbk=n-Iqm9fwlpcLzTEq4WrXsRjI3lLGTOeTJPbo7rEPOHI&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-&sni=bing.com&sid=2a39ac4c#EHS 
 
 
 vless://ItsLegendaryking@78.47.225.6:443?mode=gun&security=reality&encryption=none&pbk=9xS8ivypO2LRXxr52RUhlBtegaQ5Cm_N9ZBHau4z5F8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=staging.philharmonie-konstanz.de&sid=4005d2ce#EHS+1 
