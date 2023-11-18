@@ -1,5 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov18 
 
+vless://3c9170dd-5c66-4299-92cc-2deb77c32233@www.speedtest.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de5.vlessx.xyz&type=ws#EHS
+
 vless://1d4ed383-dfd7-4b68-8ec3-eb236a5aff6d@172.67.31.116:443?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=tls&encryption=none&host=copy-az.kanal-tel-nufilter.store&fp=chrome&type=ws&sni=copy-az.kanal-tel-nufilter.store#EHS
 
 vless://3c9170dd-5c66-4299-92cc-2deb77c32233@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=de5.vlessx.xyz&fp=randomized&type=ws&sni=de5.vlessx.xyz#EHS
