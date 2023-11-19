@@ -1,4 +1,7 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov18 
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov20
+
+
+vless://r4d@116.203.236.17:443?security=reality&encryption=none&pbk=vrtsr-jytn5gO0snkZhwspowgKW1TaoCzgoI6Iob8W0&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=promax.com#EHS 
 
 vless://3c9170dd-5c66-4299-92cc-2deb77c32233@www.speedtest.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de5.vlessx.xyz&type=ws#EHS
 
