@@ -1,6 +1,11 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov20 7pm
 
 
+vless://SHHPROXY@all.shhproxy.cfd:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=V2ray-NAPSTERNET-IRANCELL-inha-fisr-MTN.snappfoodd.site#EHS
+
+vless://SHHPROXY@support.discord.com:2087?path=%2F&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#EHS
+
+
 vless://409f106a-b2f2-4416-b186-5429c9979cd9@54.38.144.4:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#EHS
 
 vless://telegram-id-ArV2ray@116.203.217.38:443?mode=gun&security=reality&encryption=none&pbk=YnuOrRK91BvYT_EPhjDeFokSvuddZrLufO2Bk0jWnks&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=3fcd19e5#EHS
