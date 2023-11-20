@@ -1,23 +1,12 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov20
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov20 7pm
 
 
-vless://r4d@116.203.236.17:443?security=reality&encryption=none&pbk=vrtsr-jytn5gO0snkZhwspowgKW1TaoCzgoI6Iob8W0&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=promax.com#EHS 
+vless://409f106a-b2f2-4416-b186-5429c9979cd9@54.38.144.4:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#EHS
 
-vless://3c9170dd-5c66-4299-92cc-2deb77c32233@www.speedtest.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de5.vlessx.xyz&type=ws#EHS
+vless://telegram-id-ArV2ray@116.203.217.38:443?mode=gun&security=reality&encryption=none&pbk=YnuOrRK91BvYT_EPhjDeFokSvuddZrLufO2Bk0jWnks&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=3fcd19e5#EHS
 
-vless://1d4ed383-dfd7-4b68-8ec3-eb236a5aff6d@172.67.31.116:443?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=tls&encryption=none&host=copy-az.kanal-tel-nufilter.store&fp=chrome&type=ws&sni=copy-az.kanal-tel-nufilter.store#EHS
+vless://d4190a87-ee2f-4b3d-8c25-1f76f20e5617@tel.ArV2ray.host:443?path=%2F&security=tls&encryption=none&host=ws.ArV2ray.fun&type=ws&sni=ws.ArV2ray.fun#EHS
 
-vless://3c9170dd-5c66-4299-92cc-2deb77c32233@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=de5.vlessx.xyz&fp=randomized&type=ws&sni=de5.vlessx.xyz#EHS
+vmess://eyJhZGQiOiIxNzIuMjMyLjE0Ni4xOTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjUyZTNhMTctZTczZS00OTQ1LWE4NWUtM2M2ZjNlY2Q4YmQ4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoiRUhTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
-vless://7e7651d3-3f8f-4633-bef0-6dc4e959ecb6@www.speedtest.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl9.vlessx.us&type=ws#EHS
-
-vless://7e7651d3-3f8f-4633-bef0-6dc4e959ecb6@www.speedtest.net:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nl9.vlessx.us&fp=randomized&type=ws&sni=nl9.vlessx.us#EHS
-
-vless://1e99b7cb-9c41-47ea-b1e2-f82485d1d939@mkh.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#EHS
-
-vless://ed446496-eb0b-4f41-b407-0acc3bc3c5bf@168.119.160.195:11243?mode=gun&security=reality&encryption=none&pbk=n-Iqm9fwlpcLzTEq4WrXsRjI3lLGTOeTJPbo7rEPOHI&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-&sni=bing.com&sid=2a39ac4c#EHS+
-
-
-vless://1819032c-922d-43d5-8e70-47ce682d8f63@143.42.54.46:443?path=%2Fvless&security=tls&encryption=none&alpn=h2&host=de3-full.privateip.net&fp=chrome&type=ws&sni=www.discordapp.com#EHS
-
-
+vless://d10eee95-3386-4f9b-ad2c-d006b2d19d19@37.27.14.34:16719?mode=gun&security=reality&encryption=none&pbk=y8qZtVIHvGTzxSzoZaeVtPrO_x3brpNVIzKL0yibtyM&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT&sni=www.zula.ir&sid=e6d636ae#EHS
