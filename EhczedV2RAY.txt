@@ -1,4 +1,8 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov20 7pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov21
+
+vless://ItsLegendaryking@78.47.225.6:443?mode=gun&security=reality&encryption=none&pbk=6mJfI8uQUpmTUWOBKB6c_y5NFtjCMgguH7kYIdHJJR8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=staging.philharmonie-konstanz.de&sid=f4170c20#EHS
+
+vless://6c47d41f-e106-4f0b-ab73-cddf81cabcd8@mrarshanetgordenshpingtoverymoch.arshaproplus.cf:4840?mode=gun&security=reality&encryption=none&pbk=QS7x3VxAldDsbG4dcFXo-ONjZMLvCloUOF1COc2W1Bg&fp=chrome&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&type=grpc&serviceName=&sni=gsmarena.com&sid=ed956290#EHS
 
 
 vless://SHHPROXY@all.shhproxy.cfd:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=V2ray-NAPSTERNET-IRANCELL-inha-fisr-MTN.snappfoodd.site#EHS
