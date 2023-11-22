@@ -1,5 +1,17 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov21
 
+
+vless://ItsLegendaryking@78.47.225.6:443?mode=gun&security=reality&encryption=none&pbk=abMIHypCwqxSjv3MTuNIzH0y8MVk0VZBf45-G4X1sAU&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=staging.philharmonie-konstanz.de&sid=9eb77961#EHS
+
+
+vless://ItsLegendaryking@62.133.63.71:443?mode=gun&security=reality&encryption=none&pbk=MbWp0NV0a3wdOJwQxKUyuW33kqWzZWsBHk2QEIMuy3w&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=vittorossi.ua&sid=7f8c02ff#EHS
+
+
+vless://98c3fb3c-e9dc-4191-9721-90d618a75f17@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tag.ArV2ray.fun#EHS
+
+
+vless://telegram-id-ArV2ray@116.203.217.38:443?mode=gun&security=reality&encryption=none&pbk=hswjkTFWnU73HWYlEdxjjR2lkbQWGgRpzN5A4Dltsjw&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=3fcd19e5#EHS
+
 vless://ItsLegendaryking@78.47.225.6:443?mode=gun&security=reality&encryption=none&pbk=6mJfI8uQUpmTUWOBKB6c_y5NFtjCMgguH7kYIdHJJR8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=staging.philharmonie-konstanz.de&sid=f4170c20#EHS
 
 vless://6c47d41f-e106-4f0b-ab73-cddf81cabcd8@mrarshanetgordenshpingtoverymoch.arshaproplus.cf:4840?mode=gun&security=reality&encryption=none&pbk=QS7x3VxAldDsbG4dcFXo-ONjZMLvCloUOF1COc2W1Bg&fp=chrome&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&type=grpc&serviceName=&sni=gsmarena.com&sid=ed956290#EHS
