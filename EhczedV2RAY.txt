@@ -1,5 +1,9 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov24
 
+vless://5c087ad2-845c-4ce9-aa6f-d25c4623b25e@37.27.14.34:16719?mode=gun&security=reality&encryption=none&pbk=r0fydGNu092iB6HafN5eJcq3RhD5b9aCyDVMuJnlJH8&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT&sni=www.zula.ir&sid=e6d636ae#EHS
+
+vless://7c0c869c-3fa7-4c25-9912-720002743a45@168.119.160.195:21354?mode=gun&security=reality&encryption=none&pbk=mA70wGUj5GiQ-EU68qP-cXJur69bbQYnFE_pSFRSLQQ&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-&sni=www.zula.ir&sid=4389c1c2#EHS
+
 
 vless://telegram-id-ArV2ray@95.217.242.55:443?mode=gun&security=reality&encryption=none&pbk=xuSj90GTDac7f3JUZgsPp6tzhWo-nrj7ax1ZQvxPzzY&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tikweb.ir&sid=27f8fe6c#EHS
 
