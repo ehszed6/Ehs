@@ -1,6 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov24
 
 
+vless://telegram-id-ArV2ray@95.217.242.55:443?mode=gun&security=reality&encryption=none&pbk=xuSj90GTDac7f3JUZgsPp6tzhWo-nrj7ax1ZQvxPzzY&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tikweb.ir&sid=27f8fe6c#EHS
+
 vless://0e038742-cf3e-406a-94a8-02c5d84faf32@88.151.194.133:443?security=reality&encryption=none&pbk=mv6aZaT7DWhE0CXog_CcLDxvICsMLe3KDp1MaV_L5Ek&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=ghbi.ir&sid=df49461e#EHS
 
 vless://c561a683-a19a-4a55-b42f-429d38d481bb@ipnufilter2.totinp.pw:2053?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=copyaz.kanal-tel-nufilter.store#EHS
