@@ -8,3 +8,7 @@ vless://c561a683-a19a-4a55-b42f-429d38d481bb@ipnufilter2.totinp.pw:2053?mode=gun
 vless://862c5153-04b3-4c00-9098-d5b61d992899@agoli.kanal-tel-nufilter.site:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=agoli.kanal-tel-nufilter.site#EHS
 
 vless://862c5153-04b3-4c00-9098-d5b61d992899@zula.ir:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=agoli.kanal-tel-nufilter.site#EHS
+
+vless://172a8e98-06d2-4cf5-86de-96bb0bae1453@77.83.246.93:443?mode=gun&security=reality&encryption=none&pbk=qKEt_SLRv7pRZDg-RgvkcgaG6ecP0koZ1XIwT09chhc&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram : @vpn_xw-Telegram : @vpn_xw-Telegram : @vpn_xw-Telegram : @vpn_xw-Telegram : @vpn_xw-Telegram : @vpn_xw&sni=1.1.1.1.com&sid=271b3b90#EHS
+
+vless://64c8a40a-dd0d-441d-a464-2662d819657e@77.83.246.93:39649?mode=gun&security=reality&encryption=none&pbk=qKEt_SLRv7pRZDg-RgvkcgaG6ecP0koZ1XIwT09chhc&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram : @vpn_xw-Telegram : @vpn_xw-Telegram : @vpn_xw-Telegram : @vpn_xw-Telegram : @vpn_xw-Telegram : @vpn_xw&sni=cmirq.ir&sid=271b3b90#EHS
