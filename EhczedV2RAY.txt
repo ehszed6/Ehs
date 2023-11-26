@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov24
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov26
+
+vless://ItsLegendaryking@212.193.2.142:443?mode=gun&security=reality&encryption=none&pbk=lXbFCe-nRTOyeH3UUJeKC3JfdFvzsKailCOi1UmZoCM&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zieh-fix.com&sid=15d854c7#EHS
+
+vless://ItsLegendaryking@45.91.168.94:443?mode=gun&security=reality&encryption=none&pbk=gvQBY-zItKKb35GhVutA0rjMJOyhJBBbosjYbTRTUxY&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mega.io&sid=dbb952da#EHS
+
+vless://ItsLegendaryking@78.47.225.6:443?mode=gun&security=reality&encryption=none&pbk=GCco5EdbDA_cVxSwQpaU16cpn4g9dx1Zbc4LEClk4Tw&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=staging.philharmonie-konstanz.de&sid=b2e138d3#EHS
 
 
 vless://86debb60-4965-4e43-b30d-ac8c0d8d9db2@gement.globalonlinup.shop:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=adolf.globalonlinup.shop#EHS
