@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov26 11pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov27
+
+vless://telegram-id-ArV2ray@94.130.229.36:443?mode=gun&security=reality&encryption=none&pbk=gGD7QeuJKHYZh_nzmZaGQDSNqnXXv3nzxYoZLU3693g&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tikweb.ir&sid=d57c90b9#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+
+vless://78e922f4-233f-45c0-ba02-f40effb18720@83.229.71.154:443?security=reality&encryption=none&pbk=Cq57i9t_qTAESLGje2c-xRVoBGxrRnHFUVMoLqftwH0&headerType=none&fp=chrome&type=tcp&sni=tuyacn.com#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+
+vless://78e922f4-233f-45c0-ba02-f40effb18720@185.47.174.31:443?security=reality&encryption=none&pbk=Cq57i9t_qTAESLGje2c-xRVoBGxrRnHFUVMoLqftwH0&headerType=none&fp=chrome&type=tcp&sni=tuyacn.com#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
 
 vless://86debb60-4965-4e43-b30d-ac8c0d8d9db2@gement.globalonlinup.shop:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=adolf.globalonlinup.shop#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
