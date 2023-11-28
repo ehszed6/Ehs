@@ -1,6 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov28
 
 
+vless://1e05ec32-0822-4990-b93b-575b3d8d4d1f@172.234.96.220:286?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=proxmox.com#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+
 vless://1e05ec32-0822-4990-b93b-575b3d8d4d1f@172.232.63.62:286?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=proxmox.com#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
 vless://1e05ec32-0822-4990-b93b-575b3d8d4d1f@185.220.204.191:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=tuyacn.com#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
