@@ -1,24 +1,13 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov29
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov30
 
+vless://948f86e2-628b-48b2-8a0d-e369bbbb8f2e@168.119.160.195:21354?mode=gun&security=reality&encryption=none&pbk=mA70wGUj5GiQ-EU68qP-cXJur69bbQYnFE_pSFRSLQQ&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-&sni=www.zula.ir&sid=4389c1c2#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-vless://26627903-f343-4747-a1a0-910cc10917d3@49.13.144.144:19052?mode=gun&security=reality&encryption=none&pbk=dOp7DOJXZAXvYCkXhmyktNvDXm8RB-JSk5PNR6IYAwo&fp=firefox&spx=%2F&type=grpc&serviceName=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=kukala.ir&sid=bfd78e69#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vless://telegram-id-ArV2ray@128.140.6.240:443?mode=gun&security=reality&encryption=none&pbk=OWFSLX9w4_YbVHwTgfuSfMV3M_lB3gnljXqbvHCZ2Hk&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=d1a8b512#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-vless://869b7e53-44e4-4a27-bd87-0540ddee2ffd@135.181.157.18:14773?mode=gun&security=reality&encryption=none&pbk=sKLzOYhW8plQadTNQdYUMrLZilOjVfc1EAUPeF_AI00&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=www.nixos.org&sid=79012d12#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vless://09201332-0c33-4f39-b820-199523eece53@116.202.101.134:18064?mode=gun&security=reality&encryption=none&pbk=D2fuWG9S91W0KeraZzhkxHO2qgS_soPWURf140HTQUw&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=kukala.ir&sid=e9634d3f#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-vless://ItsLegendaryking@141.105.130.162:443?mode=gun&security=reality&encryption=none&pbk=ouUTL1JfMfDI2o10ume6LppMIrW8d5UNoofDShj6xTE&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=459d6e78#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vmess://eyJhZGQiOiIxNzIuMjMyLjE1Ny4xOTkiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJmaXJlZm94IiwiaG9zdCI6IiIsImlkIjoiMjcyNjcxYWMtMzMyYi00ZWI5LTliZjgtYTUyNmU5YjFkODhmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4NDQzIiwicHMiOiLwnZm08J2Zt/CdmoIiLCJzY3kiOiJhdXRvIiwic25pIjoiZ3Muc3RhdGNvdW50ZXIuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=VmUq271RDFrWo25t6oZJde0wIwHtUU4duDD4nf-4TSs&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=ddffed2a#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vless://ItsLegendaryking@62.133.63.71:443?mode=gun&security=reality&encryption=none&pbk=FtKiKJXlrs4LSdXZ9S8COU8ezpy1LrL3oNkMgUU9ykw&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=vittorossi.ua&sid=a90f4770#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-
-vless://telegram-id-ArV2ray@65.109.142.79:443?mode=gun&security=reality&encryption=none&pbk=1aZSHFOilAH9QfMJDzowVlyK9GvokuyXTiyTnKHi4W0&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tikweb.ir&sid=27f8fe6c#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
-
-vless://f1402a49-03ac-40e7-835b-44cc2305bfa0@tel.ArV2ray.host:443?path=%2F&security=tls&encryption=none&host=ws.ArV2ray.shop&type=ws&sni=ws.ArV2ray.fun#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
-
-vless://1e05ec32-0822-4990-b93b-575b3d8d4d1f@172.234.96.220:286?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=proxmox.com#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
-vless://1e05ec32-0822-4990-b93b-575b3d8d4d1f@172.232.63.62:286?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=proxmox.com#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
-vless://1e05ec32-0822-4990-b93b-575b3d8d4d1f@185.220.204.191:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=tuyacn.com#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
+vless://ItsLegendaryking@78.47.225.6:443?mode=gun&security=reality&encryption=none&pbk=DCZMBdyLmzvg6qrmfYdPJE1rMANxcktR5JHL-IyUnQY&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=philharmonie-konstanz.de&sid=bfc0f70f#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
