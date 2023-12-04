@@ -1,11 +1,18 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec2
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec4
 
 
+vless://ItsLegendaryking@141.105.130.162:443?mode=gun&security=reality&encryption=none&pbk=ihNimpgwqNHQnf8huHalW_YCLc2NqKBIHnsuMdFJI1A&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=d9e72d8e#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.91.105:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vless://ItsLegendaryking@78.47.40.15:443?mode=gun&security=reality&encryption=none&pbk=dsgnxWpxUnHG0mYn2wYltrT1XdvnjcIhuelgjnbFRQ0&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=philharmonie-konstanz.de&sid=3da46e74#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-vmess://eyJhZGQiOiIxMDQuMjQuMTc2LjciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNlcnZpY2UxLmthcm9wLmhvbWVzIiwiaWQiOiIxNzJkYzY5Zi0zYjQzLTQ0NTctOGVmOC1kNTU1YjJkMzdmNGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvT3Frc2tka2VhSEZZQ2w0ekx0SXd3a2t3SmV3b293ZXBvMFl3S0hlUSIsInBvcnQiOiI0NDMiLCJwcyI6IvCdmbTwnZm38J2agiIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJ2aWNlMS5rYXJvcC5ob21lcyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vless://a012903b-39ee-40a3-a230-28164bbcccdf@pip.nufilter.online:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=finland.kanal-tel-nufilter.site#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vless://CONFIG-WANCLOUDFA2028@185.162.228.3:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=TE:@wancloudfa&sni=wancloud1.wancloudfa.shop#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-vless://a012903b-39ee-40a3-a230-28164bbcccdf@ipnufilter1.totinp.pw:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=finland.kanal-tel-nufilter.site#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vless://wancloudfa2028@wancloudfa.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=fvLdmACG-oEhkn72_K_yGsg-6xIGyBlYd4rcufTiyCQ&fp=firefox&spx=%2F&type=grpc&serviceName=@wancloudfa&sni=zula.ir&sid=1cd19861#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+
+vless://telegram-id-ArV2ray@37.27.18.202:443?mode=gun&security=reality&encryption=none&pbk=f6BjVpzU-HGGF83K5xJM5nV1XE09wsBhWDJDsdwXizE&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=f96fa019#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+
+vless://telegram-id-ArV2ray@116.203.45.139:443?mode=gun&security=reality&encryption=none&pbk=kAGVkCXcsgj9H6Fj8DGb5fHteSECexyh25cx1nCtY0A&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=e52dacf6#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+
+vless://a1369c6d-d993-4aa8-8c21-b67289f199dc@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.shop#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+
