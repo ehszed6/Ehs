@@ -1,6 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec4
 
 
+
 vless://ItsLegendaryking@141.105.130.162:443?mode=gun&security=reality&encryption=none&pbk=ihNimpgwqNHQnf8huHalW_YCLc2NqKBIHnsuMdFJI1A&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=d9e72d8e#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
 vless://ItsLegendaryking@78.47.40.15:443?mode=gun&security=reality&encryption=none&pbk=dsgnxWpxUnHG0mYn2wYltrT1XdvnjcIhuelgjnbFRQ0&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=philharmonie-konstanz.de&sid=3da46e74#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
