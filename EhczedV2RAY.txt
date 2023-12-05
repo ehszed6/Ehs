@@ -1,4 +1,6 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec4
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec5
+
+vless://ItsDgNmt@49.13.153.208:443?mode=gun&security=reality&encryption=none&pbk=CLtFsxKFGUeWWAP98CrieImha_3nWS9xAG3KKiobqxc&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=report-a-concern.de&sid=29a9a1c7#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82 
 
 
 
