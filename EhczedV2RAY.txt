@@ -1,21 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec5
-
-vless://ItsDgNmt@49.13.153.208:443?mode=gun&security=reality&encryption=none&pbk=CLtFsxKFGUeWWAP98CrieImha_3nWS9xAG3KKiobqxc&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=report-a-concern.de&sid=29a9a1c7#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82 
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec6
 
 
+vless://918da059-1621-481e-9028-c3f010ad469e@all.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tag.ArV2ray.shop#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-vless://ItsLegendaryking@141.105.130.162:443?mode=gun&security=reality&encryption=none&pbk=ihNimpgwqNHQnf8huHalW_YCLc2NqKBIHnsuMdFJI1A&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=d9e72d8e#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vless://telegram-id-ArV2ray@37.27.18.202:443?mode=gun&security=reality&encryption=none&pbk=N9FLOix0Qf4hUZeTouxvZbDYa5dTaLWUrmwuT9WawzU&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=f96fa019#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-vless://ItsLegendaryking@78.47.40.15:443?mode=gun&security=reality&encryption=none&pbk=dsgnxWpxUnHG0mYn2wYltrT1XdvnjcIhuelgjnbFRQ0&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=philharmonie-konstanz.de&sid=3da46e74#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vless://ItsDgNmt@49.13.153.208:443?mode=gun&security=reality&encryption=none&pbk=YtrfkL4LwxDETNCoPTzSG6QIY6NvRbOOEvXuSjPpVgM&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=report-a-concern.de&sid=f3858d2b#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-
-vless://CONFIG-WANCLOUDFA2028@185.162.228.3:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=TE:@wancloudfa&sni=wancloud1.wancloudfa.shop#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
-vless://wancloudfa2028@wancloudfa.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=fvLdmACG-oEhkn72_K_yGsg-6xIGyBlYd4rcufTiyCQ&fp=firefox&spx=%2F&type=grpc&serviceName=@wancloudfa&sni=zula.ir&sid=1cd19861#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
-vless://telegram-id-ArV2ray@37.27.18.202:443?mode=gun&security=reality&encryption=none&pbk=f6BjVpzU-HGGF83K5xJM5nV1XE09wsBhWDJDsdwXizE&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=f96fa019#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
-vless://telegram-id-ArV2ray@116.203.45.139:443?mode=gun&security=reality&encryption=none&pbk=kAGVkCXcsgj9H6Fj8DGb5fHteSECexyh25cx1nCtY0A&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=e52dacf6#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
-vless://a1369c6d-d993-4aa8-8c21-b67289f199dc@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.shop#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
+vless://telegram-id-ArV2ray@116.203.164.138:443?mode=gun&security=reality&encryption=none&pbk=Kmp1rTmKsnaSD4XWvn_qny4w1EeM4Hg01cFbOaxDMnA&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=e52dacf6#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
