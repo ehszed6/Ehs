@@ -1,4 +1,8 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec6
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec8
+
+vless://d353d9ed-473b-4a21-92d3-929ad6470685@172.105.5.158:2003?mode=gun&security=tls&encryption=none&alpn=h2&fp=firefox&type=grpc&serviceName=grpc&sni=a.gsmarena.com#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+
+vmess://eyJhZGQiOiIxNjIuMTU5LjE5Mi4xOTYiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJiZDJmMWMzYS1lZTU5LTRmNTAtODEyYi0wMWVlODg2N2U0ZDciLCJuZXQiOiJncnBjIiwicGF0aCI6ImdycGMiLCJwb3J0IjoiNDQzIiwicHMiOiLwnZm08J2Zt/CdmoIiLCJzY3kiOiJhdXRvIiwic25pIjoiZWxmbWUzbGVvbmFwb2xlb25nb29kYnVyZ2VyLmlyYW5kYXJrcHJvLmdxIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 
 
 vless://Itslegendaryking@78.47.71.30:443?security=reality&encryption=none&pbk=z_Ae1cYlBgovX3LNP3J3D-3BLiqAMdWwNEyoOwTgf1I&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mihanyas.ir#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
