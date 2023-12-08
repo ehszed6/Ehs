@@ -1,18 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec8
-
-vless://d353d9ed-473b-4a21-92d3-929ad6470685@172.105.5.158:2003?mode=gun&security=tls&encryption=none&alpn=h2&fp=firefox&type=grpc&serviceName=grpc&sni=a.gsmarena.com#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
-vmess://eyJhZGQiOiIxNjIuMTU5LjE5Mi4xOTYiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJiZDJmMWMzYS1lZTU5LTRmNTAtODEyYi0wMWVlODg2N2U0ZDciLCJuZXQiOiJncnBjIiwicGF0aCI6ImdycGMiLCJwb3J0IjoiNDQzIiwicHMiOiLwnZm08J2Zt/CdmoIiLCJzY3kiOiJhdXRvIiwic25pIjoiZWxmbWUzbGVvbmFwb2xlb25nb29kYnVyZ2VyLmlyYW5kYXJrcHJvLmdxIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec8 8pm
 
 
-vless://Itslegendaryking@78.47.71.30:443?security=reality&encryption=none&pbk=z_Ae1cYlBgovX3LNP3J3D-3BLiqAMdWwNEyoOwTgf1I&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mihanyas.ir#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vless://ItsDgNmt@49.13.153.208:443?mode=gun&security=reality&encryption=none&pbk=Qleefoxzq-GVt9R0f5_biyQqy8_GTKxfD00SYHZFZnE&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=report-a-concern.de&sid=3cafac06#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
+vless://telegram-id-ArV2ray@116.203.164.138:443?mode=gun&security=reality&encryption=none&pbk=GHANyITw4dsJJcg6BWv4piSrm3gUd1CHLKbP6Ue8Pl0&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=e52dacf6#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-vless://918da059-1621-481e-9028-c3f010ad469e@all.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tag.ArV2ray.shop#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vless://telegram-id-ArV2ray@37.27.18.202:443?mode=gun&security=reality&encryption=none&pbk=00qODZZ7NM1kBMydMvjSkXxvuaRoAkX5Fi78yu-eS1g&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=f96fa019#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
 
-
-vless://telegram-id-ArV2ray@37.27.18.202:443?mode=gun&security=reality&encryption=none&pbk=N9FLOix0Qf4hUZeTouxvZbDYa5dTaLWUrmwuT9WawzU&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=f96fa019#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
-vless://ItsDgNmt@49.13.153.208:443?mode=gun&security=reality&encryption=none&pbk=YtrfkL4LwxDETNCoPTzSG6QIY6NvRbOOEvXuSjPpVgM&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=report-a-concern.de&sid=f3858d2b#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
-
-vless://telegram-id-ArV2ray@116.203.164.138:443?mode=gun&security=reality&encryption=none&pbk=Kmp1rTmKsnaSD4XWvn_qny4w1EeM4Hg01cFbOaxDMnA&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=e52dacf6#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
+vless://10410a3d-39fc-4e85-a470-1282ecd3d60b@65.21.186.204:443?mode=gun&security=reality&encryption=none&pbk=aLvEJ7Jo0ffMwOPBM14S-n1WDOq-p-5SW903uBJGkVo&fp=firefox&spx=%2F&type=grpc&serviceName=@VPNwedbaz,@VPNwedbaz&sni=greenpepper.ir&sid=54df16fd#%F0%9D%99%B4%F0%9D%99%B7%F0%9D%9A%82
