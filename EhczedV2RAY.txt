@@ -1,5 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec10  
 
+
+
 vless://Itslegendaryking@167.235.145.37:443?mode=gun&security=reality&encryption=none&pbk=L7FGk5j5OXJgHuMRA0XMWuhlEqNLscrW5ua118j8NHQ&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=axio.ir&sid=6651523f#E+H+S
 
 vless://ItsDgNmt@49.13.153.208:443?mode=gun&security=reality&encryption=none&pbk=YAg3KJy-P9hPJmBLuCK_kojpRiDU4S7r-PZQ43yrrUY&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=report-a-concern.de&sid=2f3fe949#E+H+S
