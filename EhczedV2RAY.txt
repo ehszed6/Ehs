@@ -1,25 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec13
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec15
 
-vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@rita.gooldeneaglee.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ko.gooldeneaglee.eu.org&type=ws#EHS
+vless://telegram-id-ArV2ray@52.47.125.100:443?mode=gun&security=reality&encryption=none&pbk=_F2rRc6-CJ7VqRdQm2coNZftXepMjuJep3YvxwNLWEU&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.speedtest.net&sid=e030cd19#EHS
 
+vless://telegram-id-ArV2ray@3.64.59.128:443?mode=gun&security=reality&encryption=none&pbk=tWxp3qWxdlVZDY_qDMfXejil6vRu-H2Yj8-qimozgAk&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=5d883476#EHS
 
-
-vless://8dfbc73b-0b5b-4d79-d61e-de868ed05f3c@190.93.246.241:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=udp.HiV2ray.cfd#EHS
-
-vless://2160257e-4100-4260-edd4-c214d41231ea@all.antiV2ray.sbs:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=tm.HiV2ray.cfd#EHS
-
-vless://3ceb2ead-a1ee-4195-9562-a32ee33d1858@gement.globalonlinup.shop:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=random&type=grpc&serviceName=&sni=adolf.globalonlInup.shop#EHS
-
-
-vless://telegram-id-ArV2ray@128.140.103.142:443?mode=gun&security=reality&encryption=none&pbk=kpqzse81vI-CxsStes_O9afGUAAynIwfE48b-LiY6Aw&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=7200d1df#EHS
-
-
-
-vless://4cbe996d-be71-4e96-f1c3-8af2430396d3@all.antiV2ray.sbs:8443?path=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2%3Fed%3D2048&security=tls&encryption=none&host=tm.HiV2ray.cfd&type=ws&sni=tm.HiV2ray.cfd#EHS
-
-vless://telegram-id-ArV2ray@37.27.24.72:443?mode=gun&security=reality&encryption=none&pbk=igbyMctjhhPJAAdPEC2xOOOn9MdFz8xL5aGjtDk9M0c&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=44#EHS
-
-vless://90f7fb17-fb8b-47b4-de5f-965f14cbfdce@91.107.239.217:443?mode=multi&security=reality&encryption=none&pbk=n2KqE7dMghtqEvT4xsaYgs16i52YGem_lmToreVeY0M&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=zula.ir#EHS
 
 vless://ItsLegendaryking@159.69.202.110:443?mode=gun&security=reality&encryption=none&pbk=sshSL4q1YItMBmiW4KMIZH7mYUXExOl9EnpJ7K6tJEI&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=philharmonie-konstanz.de&sid=c801edb0#EHS
 
