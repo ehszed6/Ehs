@@ -1,4 +1,12 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec16 7pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec19
+
+vless://CONFIG-WANCLOUDFA@49.12.64.220:443?mode=gun&security=reality&encryption=none&pbk=ac-P8eKuzFSRkELlcpH9oeLqqLt9QUCNVyvxRVftjFs&fp=firefox&spx=%2F&type=grpc&serviceName=@wancloudfa&sni=zula.ir&sid=2a24e3ec#ehs
+
+vless://ItsLegendaryking@5.78.73.156:443?mode=gun&security=reality&encryption=none&pbk=KC9k4d2DGtJ3O91am0UHOIaFMYkOvsCJSTCyBx2q4A8&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=ozcloths.com&sid=5ccf912a#ehs
+
+vless://51149273-76fb-4ce8-8e12-b3719018ce7a@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.shop#ehs
+
+vless://telegram-id-ArV2ray@13.42.105.29:443?mode=gun&security=reality&encryption=none&pbk=AeE6QkuC_INy0NQsFXvJAfm4IzITnooVTdFbm0JpvUs&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=deb.debian.org&sid=b0a75d48#ehs
 
 vless://43f47a5e-1d31-459f-a19c-17b1b3f34176@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.shop#EHS
 
