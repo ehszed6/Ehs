@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec19
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec21
+
+vless://telegram-id-ArV2ray@78.46.135.92:443?mode=gun&security=reality&encryption=none&pbk=f2VMCg-h5n6WZlyajvAhCDCHeA5p1H0iNAKiVGQh8yE&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=c983ce7a#ehs
+
+vless://3d58bea9-2957-4627-85e1-55c39fdd5237@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.shop#ehs
+
+vless://ItsLegendaryking@45.77.58.79:443?mode=gun&security=reality&encryption=none&pbk=QILjJkugcuRLAWonPr934renGZz_ku8T3h0dpzkWOF8&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=k4.ae&sid=345613d2#ehs
 
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?mode=gun&security=reality&encryption=none&pbk=ac-P8eKuzFSRkELlcpH9oeLqqLt9QUCNVyvxRVftjFs&fp=firefox&spx=%2F&type=grpc&serviceName=@wancloudfa&sni=zula.ir&sid=2a24e3ec#ehs
 
