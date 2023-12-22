@@ -1,36 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec21
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec22
 
-vless://telegram-id-ArV2ray@78.46.135.92:443?mode=gun&security=reality&encryption=none&pbk=f2VMCg-h5n6WZlyajvAhCDCHeA5p1H0iNAKiVGQh8yE&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=c983ce7a#ehs
+vless://telegram-id-ArV2ray@162.55.37.113:443?mode=gun&security=reality&encryption=none&pbk=9N0pYe0hF3r9IWw5MgfPm_GOS8suTK3_RSxSYOKTWjE&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=f030f40f#ehs
 
-vless://3d58bea9-2957-4627-85e1-55c39fdd5237@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.shop#ehs
+vless://telegram-id-ArV2ray@78.46.135.92:443?mode=gun&security=reality&encryption=none&pbk=f2VMCg-h5n6WZlyajvAhCDCHeA5p1H0iNAKiVGQh8yE&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=571ed73b#ehs
 
-vless://ItsLegendaryking@45.77.58.79:443?mode=gun&security=reality&encryption=none&pbk=QILjJkugcuRLAWonPr934renGZz_ku8T3h0dpzkWOF8&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=k4.ae&sid=345613d2#ehs
+vless://4b2897cb-0a46-4ed3-847f-54faa46a6b19@legendaryservers.myddns.me:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=cdn2.mrlegendery.tech#ehs
 
-vless://CONFIG-WANCLOUDFA@49.12.64.220:443?mode=gun&security=reality&encryption=none&pbk=ac-P8eKuzFSRkELlcpH9oeLqqLt9QUCNVyvxRVftjFs&fp=firefox&spx=%2F&type=grpc&serviceName=@wancloudfa&sni=zula.ir&sid=2a24e3ec#ehs
-
-vless://ItsLegendaryking@5.78.73.156:443?mode=gun&security=reality&encryption=none&pbk=KC9k4d2DGtJ3O91am0UHOIaFMYkOvsCJSTCyBx2q4A8&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=ozcloths.com&sid=5ccf912a#ehs
-
-vless://51149273-76fb-4ce8-8e12-b3719018ce7a@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.shop#ehs
-
-vless://telegram-id-ArV2ray@13.42.105.29:443?mode=gun&security=reality&encryption=none&pbk=AeE6QkuC_INy0NQsFXvJAfm4IzITnooVTdFbm0JpvUs&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=deb.debian.org&sid=b0a75d48#ehs
-
-vless://43f47a5e-1d31-459f-a19c-17b1b3f34176@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.shop#EHS
-
-vless://ItsDgNmt@49.13.153.208:443?mode=gun&security=reality&encryption=none&pbk=KY5IPgAfFsZcJTGWgXCw9UmX0jtjcuGck9LP4K2bHzg&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=report-a-concern.de&sid=5b9a2a81#EHS
-
-vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80?security=none&encryption=none&host=Medium.com&headerType=http&type=tcp#EHS
-
-vless://ephemeral-echoes@185.104.63.115:3074?path=%2Fblog&security=reality&encryption=none&pbk=46KO_FrwTcMNhzKsraWywJBL8wFp17B35bFpiw1UF1Q&host=x.amazonaws.com&fp=firefox&type=http&sni=hercules-deployment.eu-west-1.amazonaws.com&sid=ada726ec488af7e0#EHS
-
-vless://4d7f5565-b34a-4265-ee2e-38a3c1763b4a@gement.globalonlinup.shop:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=random&type=grpc&serviceName=&sni=adolf.globalonlInup.shop#ehs
-
-vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80?security=none&encryption=none&host=Medium.com&headerType=http&type=tcp#ehs
-
-vless://ephemeral-echoes@185.104.63.115:3074?path=%2Fblog&security=reality&encryption=none&pbk=46KO_FrwTcMNhzKsraWywJBL8wFp17B35bFpiw1UF1Q&host=x.amazonaws.com&fp=firefox&type=http&sni=hercules-deployment.eu-west-1.amazonaws.com&sid=ada726ec488af7e0#ehs
-
-vless://43c763f7-e2eb-4491-b911-3aaf18d00fdb@helix-3.helixservers.space:443?mode=gun&security=reality&encryption=none&pbk=rJ96dTvOd4HmZSk9pAtI9ifmZzM0cA3yTNVOEkRc61k&fp=firefox&spx=%2Fcreate%2F&type=grpc&serviceName=Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers&sni=sourceforge.net&sid=c0dcd3a5#ehs
-
-
-
-
+vless://ItsLegendaryking@62.133.63.71:443?mode=gun&security=reality&encryption=none&pbk=nVvMeQAxJcvMKoNdeQ9vaufSS7sB05jDahywwiTDkx0&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.vittorossi.ua&sid=fe1d08ff#EHS
 
