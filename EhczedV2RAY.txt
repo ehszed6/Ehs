@@ -8,3 +8,6 @@ vless://4b2897cb-0a46-4ed3-847f-54faa46a6b19@legendaryservers.myddns.me:443?mode
 
 vless://ItsLegendaryking@62.133.63.71:443?mode=gun&security=reality&encryption=none&pbk=nVvMeQAxJcvMKoNdeQ9vaufSS7sB05jDahywwiTDkx0&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.vittorossi.ua&sid=fe1d08ff#EHS
 
+vless://b3452c84-d32e-4e8a-91f8-576a16c2af4d@canva.com:2053?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMTTelegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT&sni=pingpong.seyyedmt-gamer.tech#ehs
+
+vless://b756a66c-88a7-49e9-8493-bd67c388bf8b@canva.com:2053?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-&sni=bashe.seyyedmt.shop#ehs
