@@ -3,6 +3,7 @@ vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9
 
 
 
+
 vless://8b905503-8fb9-4eba-b316-0b7493467c90@dash.mrzedmodeon.top:2053?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=ZEDMODEON&sni=dash.joinzedmodeon.shop#ehs
 
 vless://30c6a5ec-3de5-4eec-afe6-e9a13e1a30cb@www.mrzedmodeon.top:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&sni=dash.zedmodeon.fun#ehs
