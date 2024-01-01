@@ -1,6 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan1
 
 
+
 vless://ItsLegendaryking@www.legendaryking.link:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=mrphh.me&fp=chrome&type=ws&sni=mrphh.me#ehs
 
 vless://ItsDgNmt@49.13.153.208:443?mode=multi&security=reality&encryption=none&pbk=2UqdtvyKgJlw2UlqbZHudGHHt4tNn-x9FaiHEWe6PE8&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=www.playzula.com&sid=c30bd4ca#ehs
