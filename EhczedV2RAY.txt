@@ -1,4 +1,16 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan1
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan2
+
+vless://8b905503-8fb9-4eba-b316-0b7493467c90@dash.mrzedmodeon.top:2053?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=ZEDMODEON&sni=dash.joinzedmodeon.shop#ehs
+
+vless://30c6a5ec-3de5-4eec-afe6-e9a13e1a30cb@www.mrzedmodeon.top:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&sni=dash.zedmodeon.fun#ehs
+
+vless://3c68dae2-4b46-4d98-927e-f59dc0e5e648@128.140.86.218:25365?mode=gun&security=reality&encryption=none&pbk=lZR3SH3TTE5be5cQXvblw93wq-L9byEgiQOk4_iOZHE&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=7c177ee1#ehs
+
+vless://266f480d-ab52-40e1-bf67-65b9ccadcad0@www.mrzedmodeon.top:2053?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON&sni=dash.joinzedmodeon.top#ehs
+
+vless://3e38fc5e-ff9d-4ac3-966a-851ed5d4b45b@zula.ir:8080?path=%2FTelegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT&security=none&encryption=none&host=bashe.seyyedmt.shop&type=ws#ehs
+
+vless://cff59251-9c31-433b-8853-43b9bc36d36e@zula.ir:8080?path=%2FTelegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT&security=none&encryption=none&host=pingpong.seyyedmt-gamer.tech&type=ws#ehsvless://8b905503-8fb9-4eba-b316-0b7493467c90@dash.mrzedmodeon.top:2053?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=ZEDMODEON&sni=dash.joinzedmodeon.shop#ehs
 
 
 
