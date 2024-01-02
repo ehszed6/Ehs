@@ -1,33 +1,19 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan2
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan2 7pm
+
+vless://93357c9b-8345-44dd-b647-5037d2d0fc30@www.legendaryking.link:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=cdn4.mrlegendery.tech#ehs
+
+vless://d02a8b1e-f5a9-4fe2-b343-9fdab0c4c0c5@www.legendaryking.link:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=xyzuloveumybaby.mrlegendery.tech#ehs
+
+vless://telegram-id-ArV2ray@52.57.45.91:443?mode=gun&security=reality&encryption=none&pbk=btG7OODuMzsq2FTx8JFJx5ptApVIitz205XEsipodT4&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=c5d0434e#ehs
+
+vless://94061dc5-e6be-44f0-8605-850d8de9de89@45.84.196.14:443?mode=gun&security=reality&encryption=none&pbk=7c7XmQ4-BYosxfznQIIVpBxe1zN2DfsWYntI90_p-AU&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=www.theverge.com&sid=edfc75ac#ehs
+
+vless://148a9bff-67ca-4fbd-a931-2a0c7906c752@45.84.196.14:8443?security=reality&encryption=none&pbk=z0IZv9tEeIm4KVYe5IwQzmP0XM6eTvLaBI0b0IOdzU4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=d52f8cc3#ehs
+
+vless://6cd54de3-f82e-451c-955e-119d74bc162a@104.31.16.33:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=asabi.vipconnected.cfd#ehs
+
+vless://9438ee6f-8b0c-4667-ac0c-fdc0262fed99@chnaihe.ac.ir:2087?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=tls&encryption=none&host=asabi.vipconnected.cfd&fp=chrome&type=ws&sni=asabi.vipconnected.cfd#ehs
 
 
 
 
-
-vless://8b905503-8fb9-4eba-b316-0b7493467c90@dash.mrzedmodeon.top:2053?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=ZEDMODEON&sni=dash.joinzedmodeon.shop#ehs
-
-vless://30c6a5ec-3de5-4eec-afe6-e9a13e1a30cb@www.mrzedmodeon.top:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&sni=dash.zedmodeon.fun#ehs
-
-vless://3c68dae2-4b46-4d98-927e-f59dc0e5e648@128.140.86.218:25365?mode=gun&security=reality&encryption=none&pbk=lZR3SH3TTE5be5cQXvblw93wq-L9byEgiQOk4_iOZHE&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=7c177ee1#ehs
-
-vless://266f480d-ab52-40e1-bf67-65b9ccadcad0@www.mrzedmodeon.top:2053?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON&sni=dash.joinzedmodeon.top#ehs
-
-vless://3e38fc5e-ff9d-4ac3-966a-851ed5d4b45b@zula.ir:8080?path=%2FTelegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT&security=none&encryption=none&host=bashe.seyyedmt.shop&type=ws#ehs
-
-vless://cff59251-9c31-433b-8853-43b9bc36d36e@zula.ir:8080?path=%2FTelegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT&security=none&encryption=none&host=pingpong.seyyedmt-gamer.tech&type=ws#ehsvless://8b905503-8fb9-4eba-b316-0b7493467c90@dash.mrzedmodeon.top:2053?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=ZEDMODEON&sni=dash.joinzedmodeon.shop#ehs
-
-
-
-vless://ItsLegendaryking@www.legendaryking.link:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=mrphh.me&fp=chrome&type=ws&sni=mrphh.me#ehs
-
-vless://ItsDgNmt@49.13.153.208:443?mode=multi&security=reality&encryption=none&pbk=2UqdtvyKgJlw2UlqbZHudGHHt4tNn-x9FaiHEWe6PE8&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=www.playzula.com&sid=c30bd4ca#ehs
-
-vless://9549ebab-3b78-4fe3-858b-3b5f510f7f44@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.ArV2ray.host#ehs
-
-vless://30c6a5ec-3de5-4eec-afe6-e9a13e1a30cb@www.mrzedmodeon.top:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&sni=dash.zedmodeon.fun#ehs
-
-vless://c76903f0-bc18-42e8-b026-20fd8fddb777@116.203.184.23:2096?mode=gun&security=reality&encryption=none&pbk=zN9DTHpP4CCxpOw4abbvFkQTSIir7Fr9Dl1Uxd3j1BM&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON&sni=sourceforge.net&sid=27e75589#ehs
-
-vless://1e62953a-4aa8-4dc6-aae7-894f671c2ccf@104.16.31.197:2087?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers&sni=Helix-2.mahoraga.space#ehs
-
-vless://b448a25f-bd07-4690-860a-7c232d5b7934@138.201.167.115:8080?security=reality&encryption=none&pbk=JIkvSigshYUaQyV5JpVTdiqRM3SUzKHrCrUYJeo8iiI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=laravel.com&sid=91af10e5#ehs
