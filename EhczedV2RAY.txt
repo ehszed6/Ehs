@@ -1,4 +1,14 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan4
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan5
+
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#ehs
+
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#ehs
+
+vless://273e76b7-3db5-4e0b-8dcc-16bef0262f87@104.21.7.235:443?mode=multi&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=a.nufilter.fun#ehsvless://273e76b7-3db5-4e0b-8dcc-16bef0262f87@104.21.7.235:443?mode=multi&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=a.nufilter.fun#ehs
+
+vless://dcd3551c-3eb6-4354-8851-dc317f0b8e50@a.nufilter.fun:8443?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=tls&encryption=none&host=a.nufilter.fun&fp=chrome&type=ws&sni=a.nufilter.fun#ehs
+
+vless://0691617f-49b5-4975-8ea7-8a38dfdaa62f@canva.com:2087?path=%2F&security=tls&encryption=none&host=zula-com.freeseyyedmt.online&fp=firefox&type=ws&sni=zula-com.freeseyyedmt.online#ehs
 
 vless://148a9bff-67ca-4fbd-a931-2a0c7906c752@45.84.196.14:8443?security=reality&encryption=none&pbk=z0IZv9tEeIm4KVYe5IwQzmP0XM6eTvLaBI0b0IOdzU4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=d52f8cc3#ehs
 
