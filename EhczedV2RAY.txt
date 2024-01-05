@@ -1,6 +1,9 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan5 11pm
 
+
+
 vless://3b2404b4-e287-4e25-9f5f-f47fa1458a78@www.mrzedmodeon.top:2096?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON&sni=dash.zedmodeon1.site#ehs
+
 
 vless://9c4ca930-022b-4c10-9027-40ffd4a7e7d4@45.84.196.148:443?mode=gun&security=reality&encryption=none&pbk=hXJdoFB49TqehzJSs68ZHEx09QZf0S3hZ7UvRQJu3VM&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=www.theverge.com&sid=a835f2b7#ehs
 
