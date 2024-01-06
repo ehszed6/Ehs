@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan5 11pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan6
+
+vless://telegram-id-ArV2ray@52.59.55.69:443?mode=gun&security=reality&encryption=none&pbk=JoRjk3fFZzW6kbEk5G6s5BwgLvsTvOoTASBmHBNuUWg&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=efcbc2ac#ehs
+
+vless://0fe0c570-e5fc-4815-af5b-bc67df290019@www.mrzedmodeon.top:2096?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&sni=dash.zedmodeon1.store#ehs
+
+vless://309ddc26-beff-4f3a-ae02-d93cb8c3a443@188.166.193.85:2096?mode=gun&security=reality&encryption=none&pbk=Ceni_WFlB4uCFFV3ejVhQ3AS2mX3xns0J7tAGmUDGQE&fp=chrome&spx=%2F&type=grpc&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&sni=www.discord.com&sid=6b5797fe#ehs
 
 
 
