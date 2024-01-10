@@ -1,4 +1,12 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan9
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan10
+
+vless://e9ae9f30-9522-4b54-a7d1-11c41b65d301@5.161.127.252:25365?mode=gun&security=reality&encryption=none&pbk=1WHCPlcsI7qVUpmxlbahj4YLkqYwKilO-zm_rBKe11w&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON&sni=www.discord.com&sid=1fad820d#Reality+%F0%9F%87%BA%F0%9F%87%B8+%28%40ZEDMODEON%29
+
+vless://63e2bf1c-5dba-4de5-bf16-fc58d90dfbd3@[2a01:4f8:c0c:e7e8::1]:25365?mode=gun&security=reality&encryption=none&pbk=XSTpysv-qz2Njl0V1dnBR_8d1fdGc-ZwL6Ik4-TWBSc&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=www.discord.com&sid=e4b3e344#ehs
+
+vless://ItsLegendaryking@www.legendaryking.link:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=cdnxx.mrlegendery.tech#ehs
+
+vless://4cf56f8c-ea03-4559-bc24-46aae9d88abc@ws.routeip.top:443?path=%2F&security=tls&encryption=none&fp=firefox&type=ws#ehs
 
 vless://a039627e-e1a2-467d-85cc-127c849fa961@www.legendaryking.link:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=cdnxx.mrlegendery.tech#EHS
 
