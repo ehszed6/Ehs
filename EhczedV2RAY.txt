@@ -1,4 +1,14 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan10 11pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan11
+
+vless://telegtam-id-ArV2ray@www.ArV2ray.tech:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=tm.ArV2ray.host&type=ws#ehs
+
+vless://75f63b6d-4624-4fb1-b211-2c3d6a71a7b1@195.201.33.20:25365?mode=gun&security=reality&encryption=none&pbk=6rBhsNIv02Pec_Qjj-GsFD-46eZ19R9RUYW4X2OyiGc&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=www.discord.com&sid=3c4b770c#ehs
+
+vless://065b3600-5b49-44ec-b522-478ebc0b3db2@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.arv2ray.host#ehs
+
+vless://telegram-id-ArV2ray@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=bV2raymonoli_astiketrocker_aheufamilobemi_kOk.arv2ray.host#ehs
+
+vless://telegram-id-ArV2ray@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=bV2raymonoli_astiketrocker_aheufamilobemi_kOk.arv2ray.host#ehs
 
 vless://beb4530b-1d2c-462c-adbf-0463b2360598@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.host#EHS
 
