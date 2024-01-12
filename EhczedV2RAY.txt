@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan12 9pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan12 10pm
+
+vless://575b6814-c3cb-4894-b46a-6df52bf28105@[2a12:5940:51c8::2]:443?security=none&encryption=none&host=ftp.debian.org&headerType=http&type=tcp#EHS
+
+vless://89bdf3c8-c36e-4548-8df7-6be34a1a1578@shhproxy.varzesh3-cnd.site:443?path=%2F&security=tls&encryption=none&host=gmV2raybc.shhproxyfree.com&type=ws&sni=gmV2raybc.shhproxyfree.com#Ehs
+
+vless://45430c41-84b1-47b7-bda6-b34b204e8733@shhproxy.varzesh3-cnd.site:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=gmV2raybw.shhproxyfree.com#EHS
 
 vless://ItsLegendaryking@49.13.160.245:443?mode=gun&security=reality&encryption=none&pbk=klmbq4HPzliOO7i4lYGJ6FdDeUCreYdl5lyIFKnfUlc&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mrtax.site&sid=dbd0bfac#ehs
 
