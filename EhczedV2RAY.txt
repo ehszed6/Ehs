@@ -1,33 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan11
 
+vmess://eyJhZGQiOiJ3d3cubGVnZW5kYXJ5a2luZy5saW5rIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJ0LWxpbmtlZC1hcmctcmlkZ2UudHJ5Y2xvdWRmbGFyZS5jb20iLCJpZCI6Ijc4OGU1MWMxLTlhOGYtNDUyOC05Y2FhLTk4NTRkYjMwNTQyNiIsIm5ldCI6IndzIiwicGF0aCI6IkBMZWdlbmRlcllfU2VydmVycz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiJlaHMiLCJzY3kiOiJhdXRvIiwic25pIjoidC1saW5rZWQtYXJnLXJpZGdlLnRyeWNsb3VkZmxhcmUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vless://cf9ee521-58df-4081-f788-8d1bc581a693@128.140.65.149:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=config-v2rayng-connectionv2ray9.mazhabi.co#ehs
 
 
-vless://telegtam-id-ArV2ray@www.ArV2ray.tech:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=tm.ArV2ray.host&type=ws#ehs
-
-vless://75f63b6d-4624-4fb1-b211-2c3d6a71a7b1@195.201.33.20:25365?mode=gun&security=reality&encryption=none&pbk=6rBhsNIv02Pec_Qjj-GsFD-46eZ19R9RUYW4X2OyiGc&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=www.discord.com&sid=3c4b770c#ehs
-
-vless://065b3600-5b49-44ec-b522-478ebc0b3db2@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.arv2ray.host#ehs
-
-vless://telegram-id-ArV2ray@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=bV2raymonoli_astiketrocker_aheufamilobemi_kOk.arv2ray.host#ehs
-
-vless://telegram-id-ArV2ray@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=bV2raymonoli_astiketrocker_aheufamilobemi_kOk.arv2ray.host#ehs
-
-vless://beb4530b-1d2c-462c-adbf-0463b2360598@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.host#EHS
-
-vless://1b230e64-9f23-4430-943f-9c16de6a7718@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.ArV2ray.host#EHS
-
-
-
-vless://63e2bf1c-5dba-4de5-bf16-fc58d90dfbd3@[2a01:4f8:c0c:e7e8::1]:25365?mode=gun&security=reality&encryption=none&pbk=XSTpysv-qz2Njl0V1dnBR_8d1fdGc-ZwL6Ik4-TWBSc&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=www.discord.com&sid=e4b3e344#ehs
-
-vless://ItsLegendaryking@www.legendaryking.link:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=cdnxx.mrlegendery.tech#ehs
-
-vless://4cf56f8c-ea03-4559-bc24-46aae9d88abc@ws.routeip.top:443?path=%2F&security=tls&encryption=none&fp=firefox&type=ws#ehs
-
-vless://a039627e-e1a2-467d-85cc-127c849fa961@www.legendaryking.link:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=cdnxx.mrlegendery.tech#EHS
-
-vless://7c06c5b4-55cb-4a2f-a470-b44b19b10a63@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.host#EHS
-
-vless://telegram-id-ArV2ray@18.192.106.72:443?mode=gun&security=reality&encryption=none&pbk=hwGd-BYn1PC5NKqVxDj43UMkMJWdNnMtCBZo6b6p2mk&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=e335f378#EHS
-
-vless://9701c8b3-b2c0-4a70-b5af-da5cf5361a47@45.84.196.148:8443?security=reality&encryption=none&pbk=SuZTEyms4vQtWwsT7PC6tP1HZFAStjxuzvnI1-xRogU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=90462b6a#ehs
+vless://cf9ee521-58df-4081-f788-8d1bc581a693@104.31.16.250:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=config-v2rayng-connectionv2ray9.mazhabi.co#ehs
