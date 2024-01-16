@@ -1,31 +1,11 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan14 13pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan16 11pm
 
-vless://23647d15-4f78-4400-f884-da2ad8f8bb72@x.alonext.com:8080?path=%2F&security=none&encryption=none&type=ws#EHS
+vless://telegram-id-ArV2ray@167.235.199.229:443?mode=gun&security=reality&encryption=none&pbk=Uhtm9dt7nrhzROvb1O2G41giMQ8SIIqE5CueYYsWFgg&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=1b2d3a189c#EHS
 
-vless://98d50790-31ec-47d5-b2ed-493fd21accc6@173.245.58.31:2082?path=%2F&security=none&encryption=none&host=p1.abrarvan.xyz&type=ws#EHS
+vless://ac4bc82d-4aa4-4ddb-84ee-d619a34cf147@45.84.196.153:8443?security=reality&encryption=none&pbk=csSm8g3WNdI-TSV6m3BBXw6LNP9UfVV4bAgjuqyEXiM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=3333adad#EHS
 
-vless://e562af3f-02d6-4b27-8745-0ef5c87bae17@www.visa.com:443?path=%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=specific-fifteen-technique-drugs.trycloudflare.com&fp=chrome&type=ws&sni=specific-fifteen-technique-drugs.trycloudflare.com#EHS
+vless://f922a88b-d4f5-4371-924e-c0335c990561@all.digiv2ray.shop:2087?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=ConneCtion-SpeedV2rayN-OnlyirData.digiv2ray.shop&fp=chrome&type=ws&sni=ConneCtion-SpeedV2rayN-OnlyirData.digiv2ray.shop#EHS
 
-vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjUxIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiNWFlNGI0MDAtZDUyYS00MDNmLWIzOWMtNmJkMzgxOTY0NTQ4IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA5NiIsInBzIjoiRUhTIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy56ZWRtb2Rlb241LnNob3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+vless://29f00915-4107-491d-ba71-c9328e845ad1@all.digiv2ray.shop:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ConneCtion-SpeedV2rayN-OnlyirData.digiv2ray.shop&type=ws#EHS
 
-
-vless://0d135026-8fa1-445a-9389-0f8318a5fe32@104.24.176.7:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir&sni=allgeus.cheetahmh45.shop#ehs
-
-vless://e562af3f-02d6-4b27-8745-0ef5c87bae17@www.visa.com:443?path=%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=specific-fifteen-technique-drugs.trycloudflare.com&fp=chrome&type=ws&sni=specific-fifteen-technique-drugs.trycloudflare.com#ehs
-
-vless://59a1df04-1a3f-4a5f-8f73-84b5d380a29d@65.109.241.39:2096?mode=gun&security=reality&encryption=none&pbk=3FLH17fndOM6rTNRA27410SbzTqCss2qFM4gagENbEc&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=www.discord.com&sid=f2d66561#ehs
-
-
-vless://AlphaOmegaVPN@ip.1alphaomega.org:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=grpc18923&sni=cdnfreepanel.1alphaomega.org#ehs
-
-vless://AlphaOmegaVPN@ip.1alphaomega.org:443?path=%2Fwss30391%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=cdnfreepanel.1alphaomega.org&fp=chrome&type=ws&sni=cdnfreepanel.1alphaomega.org#ehs
-
-vless://5c6a7269-7f0b-4af9-a306-3a21d418b36d@www.visa.com:443?path=%2FJOINZEDMODEON&security=tls&encryption=none&host=licensed-crm-apparel-ve.trycloudflare.com&fp=chrome&type=ws&sni=licensed-crm-apparel-ve.trycloudflare.com#ehs
-
-vless://59a1df04-1a3f-4a5f-8f73-84b5d380a29d@65.109.241.39:2096?mode=gun&security=reality&encryption=none&pbk=3FLH17fndOM6rTNRA27410SbzTqCss2qFM4gagENbEc&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=www.discord.com&sid=f2d66561#ehs
-
-vless://149a89d4-8242-4b77-ba7d-625f1534c9fd@142.132.191.243:443?mode=gun&security=reality&encryption=none&pbk=4Re5wa49K9niRQRh-6vHJJNwvBRIlTKEAk4fBh2q2H8&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@Seyyed&sni=ftp.debian.org&sid=0685bed5#ehs
-
-vless://333d9dcc-35bf-4619-b984-6cac6e9672e8@45.147.7.78:8443?security=reality&encryption=none&pbk=x2phSq_qvowRKLQVfiJdEuz0cqVftXxtDwQniXsbG2I&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=9b5e8374#ehs
-
-vless://telegram-id-ArV2ray@check-host.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=sk.areserv.online#ehs
+vless://bfcfcb30-2ab0-46b1-9ed6-373a55119511@all.digiv2ray.shop:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray&sni=ConneCtion-SpeedV2rayN-OnlyirData.digiv2ray.shop#EHS
