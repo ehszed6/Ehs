@@ -1,23 +1,19 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan18 3pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan21
 
-vless://ItsLegendaryking@www.legendaryking.link:443?mode=multi&security=tls&encryption=none&alpn=h3,h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_ServersTelegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=xxx.iran-free-internet.cloud#EHS
+vless://88a7d2c4-fe0c-4293-a5e2-fc960c8e1907@172.67.81.238:2096?path=%2Fudf58745&security=tls&encryption=none&alpn=http/1.1&host=nmc.ecloudfa.ir&fp=chrome&type=ws&sni=freewaneopyhnbgtyrfdertelcfrtyiurtghty-yurgfrtedjnvf-yitortr.ecloudfa.ir#EHS
 
-vless://d5cef4e6-e93f-44f2-aa36-2fab6af15d74@all.v-2rayngvpn.cfd:8443?mode=multi&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=hello-simontrol-bye.fastv2ray.online#EHS
+vless://ItsLegendaryking@www.legendaryking.link:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers%3Fed&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=sensors-appear-want-opposed.trycloudflare.com&fp=chrome&type=ws&sni=sensors-appear-want-opposed.trycloudflare.com#EHS
 
-vless://10b0a253-ed0a-4e57-a29b-4bf3b9651fc5@All.v-2rayngvpn.cfd:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=hello-simontrol-bye.fastv2ray.online#EHS
+vless://5b78f101-6e57-44c5-a653-d0f2ecfdd530@www.legendaryking.link:8080?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers%3Fed&security=none&encryption=none&host=hey-you.%E8%B5%9B%E4%B8%8A%E5%88%97%E7%94%B7%E7%94%B7%E4%BA%8B%E7%9A%84%E8%B5%9B%E4%B8%8A%E7%94%B779.tech&type=ws#EHS
 
-vless://9c80518a-08d7-474a-8a54-35560ab8f2f7@zula.ir:443?path=%2FTelegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT&security=tls&encryption=none&alpn=h3&host=treasure-errors-magazine-pursue.trycloudflare.com&fp=firefox&type=ws&sni=treasure-errors-magazine-pursue.trycloudflare.com#ehs
+vless://c406ff3b-7c66-41d5-96bd-a69f7f355638@209.38.180.144:2096?mode=gun&security=reality&encryption=none&pbk=W8tTIjWAQOwsyyyy8Dq2cojRSHGCwN3PumSaP0O_PjU&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=kitheath.com&sid=ad7bf243#EHS
 
-vless://ItsLegendaryking@www.legendaryking.link:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers%3Fed&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=commerce-commerce-problem-bias.trycloudflare.com&fp=chrome&type=ws&sni=commerce-commerce-problem-bias.trycloudflare.com#ehs
+vless://6575c37b-b28d-4cb4-9f44-566a9c6b0363@www.visa.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=JOINZEDMODEON,@ZEDMODEON,ZEDMODEON,JOINBEDEZEDMODEON-KOSENANEDODZD-VPNZEDMODEON-BIATOSHZEDMODEON-ZEDMODEON&sni=nurse-surgery-soon-will-be-done.tozedmodeon.shop#EHS
 
-vless://5fe59645-a197-4c66-895f-1f53917de9cc@dns1.nufilter.store:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=none&encryption=none&host=xnsjsbsh-skcbdk.arashcamera.ir&type=ws#ehs
+vless://e562af3f-02d6-4b27-8745-0ef5c87bae17@www.visa.com:443?path=%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=specific-fifteen-technique-drugs.trycloudflare.com&fp=chrome&type=ws&sni=specific-fifteen-technique-drugs.trycloudflare.com#EHS
 
-vless://telegram-id-ArV2ray@167.235.199.229:443?mode=gun&security=reality&encryption=none&pbk=Uhtm9dt7nrhzROvb1O2G41giMQ8SIIqE5CueYYsWFgg&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=1b2d3a189c#EHS
+vless://228ecb97-e00b-4f3d-9d0a-834fa2d3ed91@49.13.62.154:2096?mode=gun&security=reality&encryption=none&pbk=tlEkxG7DMRkccWv6-ky41PrV4sdfXyfeAKzem3tYjh0&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=e6539b55#EHS
 
-vless://ac4bc82d-4aa4-4ddb-84ee-d619a34cf147@45.84.196.153:8443?security=reality&encryption=none&pbk=csSm8g3WNdI-TSV6m3BBXw6LNP9UfVV4bAgjuqyEXiM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=3333adad#EHS
+vless://-ArV2ray--ArV2ray--ArV2ray-@www.speedtest.net:80?path=%2F%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%3Fed%3D2048&security=none&encryption=none&host=l.ArV2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B781.tech&type=ws#EHS
 
-vless://f922a88b-d4f5-4371-924e-c0335c990561@all.digiv2ray.shop:2087?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=ConneCtion-SpeedV2rayN-OnlyirData.digiv2ray.shop&fp=chrome&type=ws&sni=ConneCtion-SpeedV2rayN-OnlyirData.digiv2ray.shop#EHS
-
-vless://29f00915-4107-491d-ba71-c9328e845ad1@all.digiv2ray.shop:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ConneCtion-SpeedV2rayN-OnlyirData.digiv2ray.shop&type=ws#EHS
-
-vless://bfcfcb30-2ab0-46b1-9ed6-373a55119511@all.digiv2ray.shop:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray&sni=ConneCtion-SpeedV2rayN-OnlyirData.digiv2ray.shop#EHS
+vless://telegram-id-ArV2ray@www.check-host.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.goldtwatches.online#EHS
