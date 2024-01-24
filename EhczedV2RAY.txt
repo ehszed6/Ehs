@@ -1,5 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan23
 
+vless://361962dd-1061-411c-82df-2cc7bfa1ea5b@[2a01:4f9:c012:ae57::1]:443?mode=gun&security=reality&encryption=none&pbk=3rbctwQwvd_706Z0ZRnrha6BIzksEDH2ZJ8ySFawSls&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=9e383072#EHS
+
 vless://b6b5897c-a42a-4400-abcc-97171b6799d5@45.147.7.44:443?mode=gun&security=reality&encryption=none&pbk=OTbbyKslilTn74-P2ADOcFa2O2qjRZ5asu_xotCoaHc&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=www.theverge.com&sid=e76b9a2e#EHS
 
 vless://06452c8c-628c-4d66-aff3-c985e01340cf@45.147.7.44:8443?security=reality&encryption=none&pbk=SZBXvlqrTHH41VkXYoYgYX8oZUp7Xl6Fx2HcmJNYARU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=db473c03#EHS
