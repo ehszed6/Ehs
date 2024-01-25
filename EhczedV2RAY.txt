@@ -1,4 +1,7 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan23
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan25
+
+
+vless://df7b837c-315d-48c0-84fb-367880264d53@5.75.210.177:443?mode=gun&security=reality&encryption=none&alpn=h2,http/1.1&pbk=s3JH1ZIs-de7V0PUhH6lDWGVKMS9Md_vC2l6HoBpBRs&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=s101.divarcdn.com&sid=4f9ca2e7#EHS
 
 vless://361962dd-1061-411c-82df-2cc7bfa1ea5b@[2a01:4f9:c012:ae57::1]:443?mode=gun&security=reality&encryption=none&pbk=3rbctwQwvd_706Z0ZRnrha6BIzksEDH2ZJ8ySFawSls&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=9e383072#EHS
 
