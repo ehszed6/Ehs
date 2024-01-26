@@ -1,4 +1,14 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan26
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan27
+
+vless://d062e1c1-233d-4a1b-be05-6ecf74eceebe@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com#ehs
+
+vless://a452716d-4aac-4214-8059-3dd8fad91e99@www.snapfooding.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&sni=account.snapfooding.com#ehs
+
+vless://f16b07b3-0238-419e-8eeb-7242a9e438b3@164.92.102.4:443?mode=multi&security=reality&encryption=none&pbk=Zd8HnsJdByUMUSG4s3nno-ZHJ3NPLuTrEVNfXs53Ux0&fp=randomized&spx=%2F&type=grpc&serviceName=ZEDMODEON-JOIN-ZEDMODEON-JOIN-JOIN-ZEDMODEON&sni=internosglobal.com&sid=4659d104#ehe
+
+vless://361962dd-1061-411c-82df-2cc7bfa1ea5b@[2a01:4f9:c012:ae57::1]:443?mode=gun&security=reality&encryption=none&pbk=3rbctwQwvd_706Z0ZRnrha6BIzksEDH2ZJ8ySFawSls&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=9e383072#ehs
+
+vless://74f10ce6-eb05-448a-be0d-5acc615c0610@www.visa.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON/JOINZEDMODEON,ZEDMODEON,BIATOZEDMODEON&sni=cdnxx.zedmodeon.top#ehs
 
 vless://fd8959a7-1e3d-41d3-bc03-60686c2081c9@167.71.33.74:8080?mode=gun&security=reality&encryption=none&pbk=TdyVchT3qabnfav2_oXs8JPA6EP4_1OLF4AM2uKTtU0&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=itpsysteme.de&sid=977ebe48#ehs
 
