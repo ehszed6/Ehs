@@ -1,18 +1,21 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan25
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan26
+
+vless://fd8959a7-1e3d-41d3-bc03-60686c2081c9@167.71.33.74:8080?mode=gun&security=reality&encryption=none&pbk=TdyVchT3qabnfav2_oXs8JPA6EP4_1OLF4AM2uKTtU0&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=itpsysteme.de&sid=977ebe48#ehs
+
+vless://115cb25a-154f-4899-8437-983c6b4b77c4@88.151.194.252:8443?security=reality&encryption=none&pbk=_lZAF6sNv2UN3Dw1J-onN3DDunvHo4t5FmOXMPAYLBw&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=4bc2f303#ehs
+
+vless://f11bc560-e98d-4a6f-9bef-35fead5a80b4@www.visa.com:443?path=%2FZEDMODEON-ZEDMODEON-JOINZEDMODEON-BIATOZEDMODEON&security=tls&encryption=none&alpn=h2,http/1.1&host=hired-exist-handling-ro.trycloudflare.com&fp=chrome&type=ws&sni=hired-exist-handling-ro.trycloudflare.com#ehs
+
+vless://fd8959a7-1e3d-41d3-bc03-60686c2081c9@167.71.33.74:8080?mode=gun&security=reality&encryption=none&pbk=TdyVchT3qabnfav2_oXs8JPA6EP4_1OLF4AM2uKTtU0&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=itpsysteme.de&sid=977ebe48#ehs
+
+vless://115cb25a-154f-4899-8437-983c6b4b77c4@88.151.194.252:8443?security=reality&encryption=none&pbk=_lZAF6sNv2UN3Dw1J-onN3DDunvHo4t5FmOXMPAYLBw&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=4bc2f303#ehs
+
+vless://f11bc560-e98d-4a6f-9bef-35fead5a80b4@www.visa.com:443?path=%2FZEDMODEON-ZEDMODEON-JOINZEDMODEON-BIATOZEDMODEON&security=tls&encryption=none&alpn=h2,http/1.1&host=hired-exist-handling-ro.trycloudflare.com&fp=chrome&type=ws&sni=hired-exist-handling-ro.trycloudflare.com#ehs
+
+vless://ItsLegendaryking@www.legendaryking.link:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=theta-ro-saved-cancellation.trycloudflare.com&fp=firefox&type=ws&sni=theta-ro-saved-cancellation.trycloudflare.com#ehs
 
 
-vless://df7b837c-315d-48c0-84fb-367880264d53@5.75.210.177:443?mode=gun&security=reality&encryption=none&alpn=h2,http/1.1&pbk=s3JH1ZIs-de7V0PUhH6lDWGVKMS9Md_vC2l6HoBpBRs&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=s101.divarcdn.com&sid=4f9ca2e7#EHS
+vless://d7924967-dd77-45f7-b152-ec2f5b6c51f0@www.legendaryking.link:8080?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers%3Fed&security=none&encryption=none&host=hey-you.%E8%B5%9B%E4%B8%8A%E5%88%97%E7%94%B7%E7%94%B7%E4%BA%8B%E7%9A%84%E8%B5%9B%E4%B8%8A%E7%94%B779.tech&type=ws#ehs
 
-vless://361962dd-1061-411c-82df-2cc7bfa1ea5b@[2a01:4f9:c012:ae57::1]:443?mode=gun&security=reality&encryption=none&pbk=3rbctwQwvd_706Z0ZRnrha6BIzksEDH2ZJ8ySFawSls&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=9e383072#EHS
-
-vless://b6b5897c-a42a-4400-abcc-97171b6799d5@45.147.7.44:443?mode=gun&security=reality&encryption=none&pbk=OTbbyKslilTn74-P2ADOcFa2O2qjRZ5asu_xotCoaHc&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=www.theverge.com&sid=e76b9a2e#EHS
-
-vless://06452c8c-628c-4d66-aff3-c985e01340cf@45.147.7.44:8443?security=reality&encryption=none&pbk=SZBXvlqrTHH41VkXYoYgYX8oZUp7Xl6Fx2HcmJNYARU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=db473c03#EHS
-
-vless://e562af3f-02d6-4b27-8745-0ef5c87bae17@www.visa.com:443?path=%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=specific-fifteen-technique-drugs.trycloudflare.com&fp=chrome&type=ws&sni=specific-fifteen-technique-drugs.trycloudflare.com#EHS
-
-vless://361962dd-1061-411c-82df-2cc7bfa1ea5b@[2a01:4f9:c012:ae57::1]:443?mode=gun&security=reality&encryption=none&pbk=3rbctwQwvd_706Z0ZRnrha6BIzksEDH2ZJ8ySFawSls&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=9e383072#EHS
-
-vless://telegram-id-ArV2ray@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tl.ArV2ray.shop#EHS
-
+vless://-ArV2ray--ArV2ray--ArV2ray-@159.69.47.55:443?security=reality&encryption=none&pbk=wrLAW-EKtt_hU3Qz3ncKLOV9eXGm_XQryTxsO5gSyC4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=greenpepper.tech&sid=b5b0f8a8#ehs
 
