@@ -27,4 +27,3 @@ vless://4c9d21b7-17de-4270-958d-b0a0b3c6c7d4@188.166.138.6:25365?mode=gun&securi
 
 vless://361962dd-1061-411c-82df-2cc7bfa1ea5b@[2a01:4f9:c012:ae57::1]:443?mode=gun&security=reality&encryption=none&pbk=3rbctwQwvd_706Z0ZRnrha6BIzksEDH2ZJ8ySFawSls&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=9e383072#ehs
 
-vless://45786c04-eec5-4496-ad32-c680d98dfebc@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON/JOINZEDMODEON,ZEDMODEON,BIATOZEDMODEON&sni=info.zedmodeon.top#ehs
