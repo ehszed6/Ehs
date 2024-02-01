@@ -1,5 +1,9 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb1
 
+vless://TEL-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws#EHS
+
+vless://TEL-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com#EHS
+
 
 vless://6770cbe7-5bf0-45da-a07d-9e0895d09807@all.v-2rayngvpn.cfd:8880?path=%2F&security=none&encryption=none&host=hw8whw8wh.vipv2ray.sbs&type=ws#ehs
 
