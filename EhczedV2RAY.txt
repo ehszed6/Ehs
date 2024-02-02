@@ -1,33 +1,15 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb1
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb2
 
-vless://TEL-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws#EHS
+vless://f7d7eb3d-6019-43b9-b514-c05a82665ca5@s.quickvpn.shop:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=black-server.quickvpn.shop&type=ws#ehs
 
-vless://TEL-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com#EHS
+vless://Tel-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws#ehs
 
+vless://Tel-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com#ehs
 
-vless://6770cbe7-5bf0-45da-a07d-9e0895d09807@all.v-2rayngvpn.cfd:8880?path=%2F&security=none&encryption=none&host=hw8whw8wh.vipv2ray.sbs&type=ws#ehs
+vless://c171fd5b-8ae0-44d0-988a-f9ea37f97e3a@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.ArV2ray.host#ehs
 
-vless://6770cbe7-5bf0-45da-a07d-9e0895d09807@49.13.117.54:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#ehs
+vless://2fa664b7-171e-48d3-89e2-59815cf8a125@www.visa.com:443?path=%40ZEDMODEON&security=tls&encryption=none&host=sunshine-begin-terrorist-pin.trycloudflare.com&fp=chrome&type=ws&sni=sunshine-begin-terrorist-pin.trycloudflare.com#ehs
 
-vless://SVNTEAMa@mtn.VPNPROSEC.com:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=SvnTeamV2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.com&type=ws#ehs
+vless://74f10ce6-eb05-448a-be0d-5acc615c0610@www.speedtest.net:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON/JOINZEDMODEON,ZEDMODEON,BIATOZEDMODEON&sni=cdnxx.zedmodeon.top#ehs
 
-vless://7ff1f7f6-63d7-436e-9dc8-546fceec4a25@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.ArV2ray.host#ehs
-
-vless://c507f899-5763-44f1-a695-64dd06f9920d@all.v-2rayngvpn.cfd:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=c.v2raychannela.online#ehs
-
-vless://a9ed6e37-733f-44a1-85c9-85c0b16113e5@all.v-2rayngvpn.cfd:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=c.v2raychannela.online#ehs
-
-vless://97b04aed-6e52-414c-902e-ffccdc86e076@check-host.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tl.ArV2ray.host#ehs
-
-vless://dc9f9344-d123-46e2-8c6d-db02ba121e37@tel.VPNCUSTOMIZE.cam:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws#ehs
-
-vless://dc9f9344-d123-46e2-8c6d-db02ba121e37@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com#ehs
-
-vless://cf7d383b-ca82-4431-ddfb-24b3855496e1@svt208.iran2vip.com:39507?path=%2F&security=none&encryption=none&type=ws#ehs
-
-vless://97b04aed-6e52-414c-902e-ffccdc86e076@check-host.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tl.ArV2ray.host#ehs
-
-vless://4c9d21b7-17de-4270-958d-b0a0b3c6c7d4@188.166.138.6:25365?mode=gun&security=reality&encryption=none&pbk=NEzN9Gg0eRt3iD0yRJyJ0sjXoHbL0roPMGIMaVgciwA&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=d44a833e#ehs
-
-vless://361962dd-1061-411c-82df-2cc7bfa1ea5b@[2a01:4f9:c012:ae57::1]:443?mode=gun&security=reality&encryption=none&pbk=3rbctwQwvd_706Z0ZRnrha6BIzksEDH2ZJ8ySFawSls&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON&sni=sourceforge.net&sid=9e383072#ehs
-
+vless://854a3ba1-c9e2-46f4-917c-1e54b2338ad2@[2a01:4f8:c2c:38a5::1]:25365?mode=gun&security=reality&encryption=none&pbk=maFm2nb_bmtV5T-IJlm5vb1zzgKnh4r_eDOuEProIWk&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON&sni=sourceforge.net&sid=5fa59c79#ehs
