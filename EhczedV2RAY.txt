@@ -1,4 +1,8 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb2 11pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb3
+
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?path=%2F&security=none&encryption=none&host=48.%E5%8A%A8%E5%88%97%E5%91%98%E7%90%838.tech&type=ws#ehs
+
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@190.93.247.155:80?path=%2F&security=none&encryption=none&host=43.%E7%94%B7%E5%AD%90%E8%B6%B3%E5%AD%90%E8%B6%B3%E7%90%833.tech&type=ws#ehs
 
 vless://854a3ba1-c9e2-46f4-917c-1e54b2338ad2@[2a01:4f8:c2c:38a5::1]:25365?mode=gun&security=reality&encryption=none&pbk=maFm2nb_bmtV5T-IJlm5vb1zzgKnh4r_eDOuEProIWk&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON&sni=sourceforge.net&sid=5fa59c79#ehs
 
