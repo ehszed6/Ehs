@@ -1,4 +1,12 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb4
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb5
+
+vless://59c691f1-12d0-46e7-a589-5fd168e3b88a@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.ArV2ray.host#EHS
+
+vless://d7dc2232-0da8-4e21-9d0a-e9f18bb92495@www.legendaryking.link:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&sni=radar.snapfooding.com#ehs
+
+vless://f4f9ace8-8ef7-4fac-8999-ba9d1a53ed92@dash.tozedmodeon.store:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=cdnx.mynameisaliz.shop#ehs
+
+vless://854a3ba1-c9e2-46f4-917c-1e54b2338ad2@[2a01:4f8:c2c:38a5::1]:25365?mode=gun&security=reality&encryption=none&pbk=maFm2nb_bmtV5T-IJlm5vb1zzgKnh4r_eDOuEProIWk&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON&sni=sourceforge.net&sid=5fa59c79#ehs
 
 vless://46d99468-e93e-4f8a-95d9-36ad3ce4b813@49.13.117.54:8880?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#ehs
 
