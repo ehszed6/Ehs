@@ -78,6 +78,3 @@ vless://c171fd5b-8ae0-44d0-988a-f9ea37f97e3a@www.speedtest.net:443?mode=gun&secu
 
 vless://2fa664b7-171e-48d3-89e2-59815cf8a125@www.visa.com:443?path=%40ZEDMODEON&security=tls&encryption=none&host=sunshine-begin-terrorist-pin.trycloudflare.com&fp=chrome&type=ws&sni=sunshine-begin-terrorist-pin.trycloudflare.com#ehs
 
-vless://74f10ce6-eb05-448a-be0d-5acc615c0610@www.speedtest.net:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON/JOINZEDMODEON,ZEDMODEON,BIATOZEDMODEON&sni=cdnxx.zedmodeon.top#ehs
-
-vless://854a3ba1-c9e2-46f4-917c-1e54b2338ad2@[2a01:4f8:c2c:38a5::1]:25365?mode=gun&security=reality&encryption=none&pbk=maFm2nb_bmtV5T-IJlm5vb1zzgKnh4r_eDOuEProIWk&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON&sni=sourceforge.net&sid=5fa59c79#ehs
