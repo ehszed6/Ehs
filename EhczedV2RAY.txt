@@ -1,41 +1,19 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb9
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb10
 
-vless://3bb09d54-9cf2-4f4e-a619-b2196e7568e8@5.78.83.250:25365?mode=gun&security=reality&encryption=none&pbk=3tG_6ui57nKUktmjW_BvM9OPLO0hCH8SyLlphGoLWHA&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=80af7bf6#ehs
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@www.visa.com:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=dash.zedmodeon.lat#ehs+i
 
-vless://854a3ba1-c9e2-46f4-917c-1e54b2338ad2@[2a01:4f8:c2c:38a5::1]:25365?mode=gun&security=reality&encryption=none&pbk=maFm2nb_bmtV5T-IJlm5vb1zzgKnh4r_eDOuEProIWk&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON&sni=sourceforge.net&sid=5fa59c79#ehs
+vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365?mode=gun&security=reality&encryption=none&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&sid=fc790928#ehs+l
 
-vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365?mode=gun&security=reality&encryption=none&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&sid=fc790928#ehs
+vless://854a3ba1-c9e2-46f4-917c-1e54b2338ad2@[2a01:4f8:c2c:38a5::1]:25365?mode=gun&security=reality&encryption=none&pbk=maFm2nb_bmtV5T-IJlm5vb1zzgKnh4r_eDOuEProIWk&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON&sni=sourceforge.net&sid=5fa59c79#ehs+y
 
-vless://dec9f02e-a92d-4be7-9aba-fc2746787544@www.legendaryking.link:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&sni=radar.snapfooding.com#ehs
+vless://20b3a450-bb4f-422f-8be4-279acb9997c1@www.tozedmodeon.store:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@ZEDMODEON/25365&sni=dash.chehrenegar.site#ehs
 
-vless://56f0e3ad-1512-4ecd-95bf-50e8cdbed6e9@www.legendaryking.link:8080?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers%3Fed%3D2048&security=none&encryption=none&host=lgnd.%E8%AF%BA%E4%BA%9A%E7%BA%B3%E5%AE%89.site&type=ws#ehs
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096?mode=multi&security=reality&encryption=none&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c8129c93#ehs
 
-vless://a6d25389-0c1b-4775-8d7f-1df362d0c6cf@join-zedmodeon.servehalflife.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=dash.khanoomi.online#ehs
+vless://telegram-id-ArV2ray@49.12.22.49:443?mode=gun&security=reality&encryption=none&pbk=BQN4GKJY1sknMYl0ey0doDYsJyGu82xpM9HT3isxUw4&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=bbf291d0#ehs
 
-vless://3c110307-dcf0-4002-b944-6d2c9530dd23@www.visa.com:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=dash.zedmodeon.lat#ehs
+vless://telegram-id-ArV2ray@check-host.net:80?path=%2FTelegram%3A%40ArV2ray-Telegram%3A%40ArV2ray-Telegram%3A%40ArV2ray-Telegram%3A%40ArV2ray-Telegram%3A%40ArV2ray-Telegram%3A%40ArV2ray%3Fed%3D2048&security=none&encryption=none&host=WWW.%E5%BA%94%E8%AF%A5%E6%94%B9%E6%88%90LAN%E7%BD%91%E5%8D%A1.SItE&type=ws#ehs
 
-vless://SVNTEAMc@mtn.VPNPROSEC.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SvnTeam-V2ray-Two.snappfoodi.com#ehs
+vless://telegram-id-ArV2ray@65.21.48.107:443?mode=gun&security=reality&encryption=none&pbk=aHFxRl9sh2az1yaNNRP_1ThtfpPA58n9Af1mmcfQMkI&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=dc3352bf#ehs
 
-vless://3bb09d54-9cf2-4f4e-a619-b2196e7568e8@5.78.112.189:25365?mode=gun&security=reality&encryption=none&pbk=3tG_6ui57nKUktmjW_BvM9OPLO0hCH8SyLlphGoLWHA&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=80af7bf6#ehs
-
-vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365?mode=gun&security=reality&encryption=none&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&sid=fc790928#ehs
-
-vless://VPNCUSTOMIZE-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws#ehs
-
-vless://VPNCUSTOMIZE-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=gr-V2rayng.vpncustomize.com#ehs
-
-vmess://eyJhZGQiOiIyMy4yMjcuMzguMTM1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoYW1yYWguZnVuIiwiaWQiOiI0OWRkM2RmYi1lZGEwLTRkZGUtZDYzNi0zNWI4NDZhNzFhNWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwODYiLCJwcyI6ImVocyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vless://7f8d76c0-8ec6-4977-abab-64cb7dd3c3a4@blog.marketcovid19.info:8080?path=%2FR4D&security=none&encryption=none&type=ws#ehs
-
-vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365?mode=gun&security=reality&encryption=none&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&sid=fc790928#ehs
-
-vless://13e8ee36-91fb-433c-8c53-65d7ba2fbdad@www.legendaryking.link:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&sni=radar.snapfooding.com#ehs
-
-vless://4e9d6c40-6176-4aff-b9cd-47629293e756@www.legendaryking.link:8080?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers%3Fed%3D2048&security=none&encryption=none&host=lgnd.%E8%AF%BA%E4%BA%9A%E7%BA%B3%E5%AE%89.site&type=ws#ehs
-
-vless://7feb8ff6-f6d3-44fe-9e27-9c1ba9c83f18@all.v-2rayngvpn.cfd:8080?path=%2F&security=none&encryption=none&host=v2ray-server.%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E9%81%8A%E6%88%B2.online&type=ws#ehs
-
-vless://7feb8ff6-f6d3-44fe-9e27-9c1ba9c83f18@all.v-2rayngvpn.cfd:8080?path=%2F&security=none&encryption=none&host=hw8whw8wh.vipv2ray.sbs&type=ws#ehs
-
-vless://7feb8ff6-f6d3-44fe-9e27-9c1ba9c83f18@80.240.31.141:8080?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#ehs
+vless://telegram-id-ArV2ray@check-host.net:80?path=%2FTelegram%3A%40ArV2ray-Telegram%3A%40ArV2ray-Telegram%3A%40ArV2ray-Telegram%3A%40ArV2ray-Telegram%3A%40ArV2ray-Telegram%3A%40ArV2ray%3Fed%3D2048&security=none&encryption=none&host=WWW.%E5%BA%94%E8%AF%A5%E6%94%B9%E6%88%90LAN%E7%BD%91%E5%8D%A1.SItE&type=ws#ehs
