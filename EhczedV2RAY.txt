@@ -1,5 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb16
 
+vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@tu.ronixshop.info:2083?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#EHS
+
 vless://CONFIG-WANCLOUDFA@172.67.81.238:443?mode=gun&security=tls&encryption=none&alpn=http/1.1&type=grpc&serviceName=&sni=wanfrtyuoitywancloud.wertycvnur.ir#ehs
 
 vless://CONFIG-WANCLOUDFA@104.31.16.35:443?mode=gun&security=tls&encryption=none&alpn=http/1.1&type=grpc&serviceName=&sni=wanfrtyuoitywancloud.wertycvnur.ir#ehs
