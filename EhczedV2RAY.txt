@@ -1,5 +1,11 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb19
 
+vless://b69844ba-4ec7-470e-8885-5ff31662473f@zedmodeon-channel-zedmodeon-join-zedmodeon-zedmodeon-zedmodeon.tozedmodeon.store:25365?security=reality&encryption=none&pbk=A71DCWHWVNjZgmzh2gWM9Wq5OXl8J2RXtOHkiPI89GM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=sourceforge.net&sid=044a8c43#ehs
+
+vless://cc7a59ce-eee7-4503-afc1-d73703c40993@[2a01:4f8:1c0c:7523::1]:2096?mode=multi&security=reality&encryption=none&pbk=fkSxbZt-AETccsW2WfmHBP5RhiLy6Nk1vdEgYdnYQUc&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c8129c93#ehs
+
+vless://b69844ba-4ec7-470e-8885-5ff31662473f@zedmodeon-channel-zedmodeon-join-zedmodeon-zedmodeon-zedmodeon.tozedmodeon.store:25365?security=reality&encryption=none&pbk=A71DCWHWVNjZgmzh2gWM9Wq5OXl8J2RXtOHkiPI89GM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=sourceforge.net&sid=044a8c43#ehs
+
 vless://ce36a118-91e2-4108-8acf-2824cc09c5e9@all.v-2rayngvpn.cfd:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=v2rayvpnn.mehdistore.sbs#ehs
 
 
