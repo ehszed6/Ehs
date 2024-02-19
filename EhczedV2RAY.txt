@@ -1,18 +1,12 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb17
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb19
+
+vless://ce36a118-91e2-4108-8acf-2824cc09c5e9@all.v-2rayngvpn.cfd:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=v2rayvpnn.mehdistore.sbs#ehs
 
 
-vless://7db948c9-09d3-4882-85ce-e1a390a1a644@www.legendaryking.link:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&sni=radar.snapfooding.com#ehs
+vless://6ac8a9e6-bc88-442e-8f5f-fe86e5864b15@all.v-2rayngvpn.cfd:8880?path=%2F&security=none&encryption=none&host=testalloperatorx.iman-v2ray.sbs&type=ws#ehs
 
-vless://56743bee-c9b4-4cc7-8a27-ff89431f5175@www.legendaryking.link:8080?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers%3Fed%3D2048&security=none&encryption=none&host=hey-you.%E8%B5%9B%E4%B8%8A%E5%88%97%E7%94%B7%E7%94%B7%E4%BA%8B%E7%9A%84%E8%B5%9B%E4%B8%8A%E7%94%B779.tech.&type=ws#ehs
-
-vless://1418c118-8d6d-4b33-86e8-b8877513db13@www.tozedmodeon.store:2096?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON&sni=zedmodeon-join-zedmodeon.join-zedmodeon.shop#ehs
-
-vless://79369fa6-626c-4c42-a180-d4e399dce3b2@[2a01:4f9:c011:8b23::1]:38818?security=none&encryption=none&headerType=none&type=tcp#ehs
+vless://VPNCUSTOMIZE--VPNCUSTOMIZE@discord.gg:80?path=%2FVPNCUSTOMIZE--VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#ehs
 
 vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365?mode=gun&security=reality&encryption=none&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&sid=fc790928#ehs
 
-vless://3c110307-dcf0-4002-b944-6d2c9530dd23@www.visa.com:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=dash.zedmodeon.lat#ehs
-
-vless://00e74c74-8f6a-47a7-8c5c-881bc87ebad9@check-host.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tl.ArV2ray.host#ehs
-
-vless://ee4bb753-c1ca-4831-9d45-93bb1a6fcd64@check-host.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tag.ArV2ray.host#ehs
+vless://5f3a96dc-5da6-4df8-b443-ba4da0d9b52a@shhproxy.varzesh3-cnd.site:2087?path=%2F&security=tls&encryption=none&host=SHHPROXY.xn--69-pv2cl2k5x3fipr.org&type=ws&sni=SHHPROXY.xn--69-pv2cl2k5x3fipr.org#ehs
