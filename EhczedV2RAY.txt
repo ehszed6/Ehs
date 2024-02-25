@@ -1,4 +1,18 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb25
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb25 10pm
+
+vless://ItsLegendaryking@95.179.140.248:443?mode=gun&security=reality&encryption=none&pbk=kkqFDdx2GBt3RLFoW7-s4Ui3sgthoBVcSnb-SIniACM&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&sni=convertio.co&sid=47bc7ef2#EHS
+
+vless://33962617-3067-49c7-8c2e-17e0cd393395@www.legendaryking.link:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&sni=radar.snapfooding.com#EHS
+
+vless://7b6bbe9f-6c98-458c-bb78-45e48e5bf782@www.legendaryking.link:8080?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers%3Fed%3D2048&security=none&encryption=none&host=hey-you.%E8%B5%9B%E4%B8%8A%E5%88%97%E7%94%B7%E7%94%B7%E4%BA%8B%E7%9A%84%E8%B5%9B%E4%B8%8A%E7%94%B779.tech.&type=ws#EHS
+
+vless://4fbbecf8-31bf-4f45-807e-a468af944405@ZuLa.IR:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=doogh.arashcamera.ir#EHSvless://4fbbecf8-31bf-4f45-807e-a468af944405@ZuLa.IR:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=doogh.arashcamera.ir#EHS
+
+vless://V2rayCUSTOMIZE@www.SPeedtest.NeT:8080?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#EHS
+
+vless://CUSTOMIZEV2ray@154.197.75.98:8080?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#EHS
+
+
 
 vless://35529d09-bc2a-47bf-a8bc-65703cd95247@[2a01:4f9:c011:8b23::1]:25365?mode=gun&security=reality&encryption=none&pbk=Z8VGv2kPcxu7pW1wXRW8lnpPq19TobF9YKrdlW3EBlU&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&sid=fc790928#ehs
 
