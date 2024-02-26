@@ -1,4 +1,8 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb25 10pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+feb26
+
+vless://--DIGIV2RAY--@45.131.208.149:80?path=%2FDigiv2ray&security=none&encryption=none&host=DigiV2ray.RadioTeHran.oRG.&type=ws#EHS
+
+vless://--DIGIV2RAY--@www.speedtest.net:80?path=%2FDigiv2ray&security=none&encryption=none&host=DigiV2ray.RadioTehran.oRG.&type=ws#EHS
 
 vless://ItsLegendaryking@95.179.140.248:443?mode=gun&security=reality&encryption=none&pbk=kkqFDdx2GBt3RLFoW7-s4Ui3sgthoBVcSnb-SIniACM&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&sni=convertio.co&sid=47bc7ef2#EHS
 
