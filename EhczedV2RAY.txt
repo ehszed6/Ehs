@@ -1,5 +1,11 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+mar4
 
+vless://be2a2962-eaae-4646-9fe5-04621bfee343@zedmodeon-biato-zedmodeon-zedmodeon-zedmodeon-zedmodeon.zedmodeon-zedmodeon-zedmodeonzedmodeon-zedmodeon.shop:2098?mode=gun&security=reality&encryption=none&pbk=2j0V4lw66m-rpsdmu_nTt97OZJN8Ype4bkmFLgOdihw&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=sourceforge.net&sid=c5607bec#ehs
+
+vless://854a3ba1-c9e2-46f4-917c-1e54b2338ad2@[2a01:4f8:c2c:38a5::1]:25365?mode=gun&security=reality&encryption=none&pbk=maFm2nb_bmtV5T-IJlm5vb1zzgKnh4r_eDOuEProIWk&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON/@ZEDMODEON&sni=sourceforge.net&sid=5fa59c79#ehs
+
+vless://c97f3554-7216-413b-9b64-60630663e293@www.visa.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON&sni=zedmodeon63.zedmodeon.lat#ehs
+
 vless://V2rayCUSTOMIZE@discord.gg:8080?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#ehs
 
 vless://CUSTOMIZEV2ray@154.197.75.80:8080?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#ehs
