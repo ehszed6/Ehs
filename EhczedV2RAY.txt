@@ -1,4 +1,8 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+mar5
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+mar8
+
+vless://c3df5fb3-63ad-4bce-bdd8-599b7276d441@ez.resqq.net:40166?security=none&encryption=none&host=mostafa.eitaa.com%2C+reza.eitaa.ir&headerType=http&type=tcp#ehs
+
+vless://9bdc5d8b-1cce-4489-84e9-b172e8e7b99e@www.visa.com:2096?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=joinzedmodeon.zedmodeon.lat#ehs
 
 vless://b4fa6930-947c-47a0-d561-ad7fce1917e9@[2a01:4f8:c012:98df::1]:443?mode=gun&security=reality&encryption=none&pbk=7WGRZ7qcbT5k_fJOq-EiNT7sK6KB4gd7dlH_WJWNCFE&fp=chrome&spx=%2Fdirectory%2Fgames%2Fwindows%2F&type=grpc&serviceName=Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup&sni=sourceforge.net&sid=7664835064#ehs 
 
