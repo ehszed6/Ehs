@@ -1,5 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+apr29
 
+vless://789894a1-cac6-4ba2-bbeb-39f52d4cb5ed@95.179.191.243:44454?mode=gun&security=reality&encryption=none&authority=&pbk=SieWCVggkdC-eiwfwsALyL13ob0-_AEgLrb6Izw9am8&fp=firefox&spx=%2F&type=grpc&serviceName=%2FTelegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt&sni=wordpress.org&sid=08e0986e#ehs
+
 vless://Join--ZEDMODEON@analytics-cn.elephant-tech.xyz.:80?path=%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON&security=none&encryption=none&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#ehs
 
 vless://Join--ZEDMODEON@discord.com.:80?path=%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON&security=none&encryption=none&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#ehs
