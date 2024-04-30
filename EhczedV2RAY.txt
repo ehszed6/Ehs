@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+apr29
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+apr30
+
+vless://e0fb83b4-8812-4f6f-9723-0a1ad69476db@185.146.173.32:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=firefox&type=grpc&serviceName=%2FTelegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt&sni=seyyedmtksksksksksksksksksksksksksksks.seyyedmt.blog#ehs
+
+vless://80abe730-5792-4a68-b23c-f7b03537a388@185.146.173.32:8080?path=%2FTelegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt&security=none&encryption=none&host=Seyyedmt-telegram-Seyyedmt-telegram.deraz.tech.&type=ws#ehs
+
+
 
 vless://789894a1-cac6-4ba2-bbeb-39f52d4cb5ed@95.179.191.243:44454?mode=gun&security=reality&encryption=none&authority=&pbk=SieWCVggkdC-eiwfwsALyL13ob0-_AEgLrb6Izw9am8&fp=firefox&spx=%2F&type=grpc&serviceName=%2FTelegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt&sni=wordpress.org&sid=08e0986e#ehs
 
