@@ -1,5 +1,9 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+may3
 
+vless://33de6c1b-f78b-41dc-9593-e3cb37cb2160@ns.cloudflare.com:80?path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.afV2ray.V2ray.V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B784.Store.&type=ws#ehs
+
+vless://65c8edea-bfc7-4e1d-ae81-fd89db20ce28@www.speedtest.net:80?path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048&security=none&encryption=none&host=xn--84-pv2cvta065cac9302fea377a148g.xn--80akhoajtk.xn--ccke3e5ila0c.AfV2ray.Site.&type=ws#ehs
+
 vless://e0fb83b4-8812-4f6f-9723-0a1ad69476db@185.146.173.32:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=firefox&type=grpc&serviceName=%2FTelegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt&sni=seyyedmtksksksksksksksksksksksksksksks.seyyedmt.blog#ehs
 
 vless://80abe730-5792-4a68-b23c-f7b03537a388@185.146.173.32:8080?path=%2FTelegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt&security=none&encryption=none&host=Seyyedmt-telegram-Seyyedmt-telegram.deraz.tech.&type=ws#ehs
