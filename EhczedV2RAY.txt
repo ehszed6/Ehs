@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+apr30
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+may3
 
 vless://e0fb83b4-8812-4f6f-9723-0a1ad69476db@185.146.173.32:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=firefox&type=grpc&serviceName=%2FTelegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt&sni=seyyedmtksksksksksksksksksksksksksksks.seyyedmt.blog#ehs
 
