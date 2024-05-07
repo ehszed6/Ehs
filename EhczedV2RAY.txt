@@ -1,4 +1,8 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+may3
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+may7
+
+vless://d8944b98-6320-4d05-8b29-084a78e0f508@[2a05:541:133:82::1]:25365?mode=gun&security=reality&encryption=none&authority=&pbk=Pe6GFls8VKhMTX0PSeulRhUMI_99fE8k5uHqITIIHgY&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=d97969a4#ehs
+
+vless://tel--ZEDMODEON@join-zedmodeon.kanal-asli-zedmodeon.shop.:80?path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray&security=none&encryption=none&host=xn---qhnayawi--d-vdk4borp32aj02aoha8dw0a0a1c46444eckia.xn--48jyb6eya.tech.&type=ws#ehs
 
 vless://33de6c1b-f78b-41dc-9593-e3cb37cb2160@ns.cloudflare.com:80?path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.afV2ray.V2ray.V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B784.Store.&type=ws#ehs
 
