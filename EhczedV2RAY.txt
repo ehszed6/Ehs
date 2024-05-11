@@ -1,5 +1,12 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+may12
 
+
+vless://1553a0f2-b366-4dfb-8ddd-2aab7f087c49@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&sni=x1.morfin.bio.#ehs
+
+vless://f8534d94-ef9b-4677-8e0e-3ac24805057a@join-zedmodeon.kanal-asli-zedmodeon.shop.:2095?path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray&security=none&encryption=none&host=%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F-qhanayawi-%D8%B2%D8%AF%D9%85%D9%88%D8%AF%D8%A2%D9%86-%E9%96%83%E9%9B%BBd.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#ehs
+
+vless://telegram-id-ArV2ray@45.159.218.107:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=5.V2ray.soft98.ir.farsroid.com.nx.debian.org.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.Store.&type=ws#ehs
+
 vless://f8534d94-ef9b-4677-8e0e-3ac24805057a@185.146.173.94:2095?path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray&security=none&encryption=none&host=%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F-qhanayawi-%D8%B2%D8%AF%D9%85%D9%88%D8%AF%D8%A2%D9%86-%E9%96%83%E9%9B%BBd.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#ehs
 
 vless://tel--ZEDMODEON@join-zedmodeon.kanal-asli-zedmodeon.shop.:8880?path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray&security=none&encryption=none&host=%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F-qhantawi-%D8%B2%D8%AF%D9%85%D9%88%D8%AF%D8%A2%D9%86-%E9%96%83%E9%9B%BBd.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#ehs
