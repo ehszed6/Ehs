@@ -1,4 +1,8 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jul 17
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jul 23
+
+vless://327a5d1a-c9b4-4202-8cf9-2e07dd86d1b7@www.speedtest.net:80?path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=ch1.dontbow.store.&type=ws#ehs
+
+vless://DIgIV2RAy@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#ehs
 
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.56.34:443?path=%2FtMi1DZPYHLK66bAG%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=71fc1633.4646XhF5DXhxHX56TfK4Fxj46.PAgEs.dev&fp=randomized&type=ws&sni=71Fc1633.4646XHf5DxHxhx56Tfk4fxj46.pAgEs.dEv#ehs
