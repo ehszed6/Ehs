@@ -1,4 +1,8 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+aug 12
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+sep 3
+
+{"inbounds":[{"listen":"127.0.0.1","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls"],"enabled":true,"routeOnly":false},"tag":"socks"},{"listen":"127.0.0.1","port":10809,"protocol":"http","settings":{"userLevel":8},"tag":"http"}],"log":{"loglevel":"none"},"outbounds":[{"mux":{"concurrency":1,"enabled":true,"xudpConcurrency":1,"xudpProxyUDP443":"allow"},"protocol":"vless","settings":{"vnext":[{"address":"www.parspack.com","port":80,"users":[{"encryption":"none","flow":"","id":"c3e6ef87-7dbd-4f67-92cb-77d043c1fecd","level":8,"security":"auto"}]}]},"streamSettings":{"network":"ws","security":"","wsSettings":{"headers":{"Host":"VPNCUSTOMIZE-1.CuStomizespeedtest.net.","User-Agent":"@VPNCUSTOMIZE_@VPNCUSTOMIZE_@VPNCUSTOMIZE_@VPNCUSTOMIZE"},"path":"/vless?ed=2048"}},"tag":"proxy"},{"protocol":"freedom","settings":{},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"routing":{"domainStrategy":"AsIs","rules":[{"outboundTag":"proxy","port":"0-65535"}]},"stats":{},"remarks":"EHS"}
+
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:80?path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.10.10.10.10.ir.xn--g28h.dns-dynamic.neT.&type=ws#EHS
 
 vless://94f51d56-204b-466b-b1d7-d397df9273d7@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#ehs
 
