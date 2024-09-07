@@ -1,4 +1,17 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+sep 3
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+sep 8
+
+vless://Biain--ZEDMODEON@[2a0d:5940:94:1::]:25365?mode=gun&security=reality&encryption=none&authority=&pbk=avV_6gYPkk_EcWlCphwfGaJG82FPHz6tZ6BFqNUX5zY&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=eset.com&sid=f27a1982#ehs 
+
+vless://facefd1f-903b-411d-b0a2-286c9a76e471@162.159.152.87:2083?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=bPB-XiaOeR886.pAGES.DEv&fp=chrome&type=ws&sni=bPB-XiaOeR886.pAGES.DEv#ehs
+
+vless://29080274-c2fe-4b33-af2b-6b4efb1f177c@89.169.32.56:3389?security=reality&encryption=none&pbk=zijpi6FqBD-gtYkclryZeTFfiVCn4_TEoTLGKQLYlXw&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#ehs
+
+vless://Parsashonam-58@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#ehs
+
+vless://Parsashonam-58@speedtest.net:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=speedtest.net#ehs
+
+
+
 
 {"inbounds":[{"listen":"127.0.0.1","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls"],"enabled":true,"routeOnly":false},"tag":"socks"},{"listen":"127.0.0.1","port":10809,"protocol":"http","settings":{"userLevel":8},"tag":"http"}],"log":{"loglevel":"none"},"outbounds":[{"mux":{"concurrency":1,"enabled":true,"xudpConcurrency":1,"xudpProxyUDP443":"allow"},"protocol":"vless","settings":{"vnext":[{"address":"www.parspack.com","port":80,"users":[{"encryption":"none","flow":"","id":"c3e6ef87-7dbd-4f67-92cb-77d043c1fecd","level":8,"security":"auto"}]}]},"streamSettings":{"network":"ws","security":"","wsSettings":{"headers":{"Host":"VPNCUSTOMIZE-1.CuStomizespeedtest.net.","User-Agent":"@VPNCUSTOMIZE_@VPNCUSTOMIZE_@VPNCUSTOMIZE_@VPNCUSTOMIZE"},"path":"/vless?ed=2048"}},"tag":"proxy"},{"protocol":"freedom","settings":{},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"routing":{"domainStrategy":"AsIs","rules":[{"outboundTag":"proxy","port":"0-65535"}]},"stats":{},"remarks":"EHS"}
 
