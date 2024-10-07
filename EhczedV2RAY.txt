@@ -1,64 +1,22 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+sep 8
-
-vless://Biain--ZEDMODEON@[2a0d:5940:94:1::]:25365?mode=gun&security=reality&encryption=none&authority=&pbk=avV_6gYPkk_EcWlCphwfGaJG82FPHz6tZ6BFqNUX5zY&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=eset.com&sid=f27a1982#ehs 
-
-vless://facefd1f-903b-411d-b0a2-286c9a76e471@162.159.152.87:2083?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=bPB-XiaOeR886.pAGES.DEv&fp=chrome&type=ws&sni=bPB-XiaOeR886.pAGES.DEv#ehs
-
-vless://29080274-c2fe-4b33-af2b-6b4efb1f177c@89.169.32.56:3389?security=reality&encryption=none&pbk=zijpi6FqBD-gtYkclryZeTFfiVCn4_TEoTLGKQLYlXw&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#ehs
-
-vless://Parsashonam-58@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#ehs
-
-vless://Parsashonam-58@speedtest.net:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=speedtest.net#ehs
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+oct 7
 
 
+trojan://telegram-id-privatevpns@15.188.17.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ehs
 
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2087?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=tnetplus-1wc.pages.dev&fp=randomized&type=ws&sni=tnetplus-1wc.pages.dev#ehs
 
-{"inbounds":[{"listen":"127.0.0.1","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls"],"enabled":true,"routeOnly":false},"tag":"socks"},{"listen":"127.0.0.1","port":10809,"protocol":"http","settings":{"userLevel":8},"tag":"http"}],"log":{"loglevel":"none"},"outbounds":[{"mux":{"concurrency":1,"enabled":true,"xudpConcurrency":1,"xudpProxyUDP443":"allow"},"protocol":"vless","settings":{"vnext":[{"address":"www.parspack.com","port":80,"users":[{"encryption":"none","flow":"","id":"c3e6ef87-7dbd-4f67-92cb-77d043c1fecd","level":8,"security":"auto"}]}]},"streamSettings":{"network":"ws","security":"","wsSettings":{"headers":{"Host":"VPNCUSTOMIZE-1.CuStomizespeedtest.net.","User-Agent":"@VPNCUSTOMIZE_@VPNCUSTOMIZE_@VPNCUSTOMIZE_@VPNCUSTOMIZE"},"path":"/vless?ed=2048"}},"tag":"proxy"},{"protocol":"freedom","settings":{},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"routing":{"domainStrategy":"AsIs","rules":[{"outboundTag":"proxy","port":"0-65535"}]},"stats":{},"remarks":"EHS"}
+vless://266722f1-43a8-478c-a3a1-86ce077fc776@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#ehs
 
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:80?path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.10.10.10.10.ir.xn--g28h.dns-dynamic.neT.&type=ws#EHS
+vless://266722f1-43a8-478c-a3a1-86ce077fc776@get-admin-upanel.poqpoq.cfd:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#ehs
 
-vless://94f51d56-204b-466b-b1d7-d397df9273d7@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#ehs
+vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ssdsdsdsdf.pages.dev&fp=randomized&type=ws&sni=ssdsdsdsdf.pages.dev#ehs
 
-vless://7f1b3e91-594f-449d-b20c-711b609baca5@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc7.lebasnoo.ir.&type=ws#ehs
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.27.207.92:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=azADNet-seMEJ.pageS.DeV&fp=randomized&type=ws&sni=AzAdnET-SemeJ.pAGES.dev#ehs
 
-vless://65cf9a5a-ce26-4972-a1bb-5e1618a95d41@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=3.www.speedtest.net.ftp.debian.org.fixkaran.ir.&type=httpupgrade#ehs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#ehs
 
-vless://Parsashonam-35@104.21.19.124:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.DigehKhastehShodamAzbasDamanehKharidam.BlOG.&type=ws#ehs
+vless://28880d8d-7131-4917-8e48-bb6099f0efbd@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v10.drlimitemergency.net&type=ws#ehs
 
-vless://65cf9a5a-ce26-4972-a1bb-5e1618a95d41@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=3.www.speedtest.net.ftp.debian.org.fixkaran.ir.&type=httpupgrade#ehs
+vless://28880d8d-7131-4917-8e48-bb6099f0efbd@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v26.drlimitemergency.net&type=ws#ehs
 
-
-
-vmess://eyJhZGQiOiIxODguMTE0Ljk5LjIwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6ImVocyIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbmluLS1aRURNT0RFT04tLWJpYS0tWkVETU9ERU9OLS1rYW5hbC0tWkVETU9ERU9O@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25367#ehs
-
-vless://biatosh--ZEDMODEON@www.speedtest.net:2095?path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.%E3%82%89%E3%82%8F%E3%81%AA.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#ehs
-
-vless://bia--ZEDMODEON@www.speedtest.net:2095?path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#ehs
-
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.60.173:8880?path=%2Ff6QE1QHz0sEFAUIO%2FMjAyLjYxLjE5My4yNDg%3D%3Fed%3D2560&security=none&encryption=none&host=bpb.KmEVPs.iR&type=ws#ehs
-
-vless://Join-Telegram-Picumin@190.93.247.155:80?path=%2Frobots.txt%3Fed%3D2560&security=none&encryption=none&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&type=ws#ehs
-
-vless://bia--ZEDMODEON@www.speedtest.net:80?path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#ehs
-
-vless://bia--ZEDMODEON@www.speedtest.net:80?path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.%E3%82%89%E3%82%8F%E3%81%AA.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#ehs
-
-
-ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25366#ehs
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.56.34:443?path=%2FtMi1DZPYHLK66bAG%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=71fc1633.4646XhF5DXhxHX56TfK4Fxj46.PAgEs.dev&fp=randomized&type=ws&sni=71Fc1633.4646XHf5DxHxhx56Tfk4fxj46.pAgEs.dEv#ehs
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.196.20:2053?path=JOIN-FILTERK0SH%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&fp=randomized&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#ehs
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.118:443?path=%2FivcHEo5aGrgYM5l5%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=0b6f7f9A.NazIrr.PAGES.deV&fp=randomized&type=ws&sni=0B6F7f9a.NAzIRr.PAGES.DEv#ehs
-
-vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@104.18.202.232:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#ehs
-
-vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg24.pages.dev#ehs
-
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?path=%2F%3Fed&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#ehs
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2F%3Fed%3D6094&security=tls&encryption=none&host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#ehs
+vless://28880d8d-7131-4917-8e48-bb6099f0efbd@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.drlimitemergency.net&type=ws#ehs
