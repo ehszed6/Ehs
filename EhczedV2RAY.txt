@@ -1,5 +1,6 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov 18
 
+
 vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.222.79:443?path=%2Fabcdews&security=tls&encryption=none&host=ae4bb2e40aaf47a9b331.starsha-goodd.info&fp=chrome&type=ws&sni=ae4bb2e40aaf47a9b331.starsha-goodd.info#ehs
 
 vless://6803d696-9541-4bab-8c90-e7f634513ec4@sgoodd.ir.iphone-shopp.ir:5443?mode=gun&security=reality&encryption=none&authority=&pbk=y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=902736d426f64e34#ehs
