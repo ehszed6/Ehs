@@ -1,5 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov 25
 
+vless://a0bb1201-3d85-4db4-91cd-7747c089b7a5@join.persiatm_channel.darkping.net:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&spx=%2F4374d295a4f9dd83&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#ehs
+
+
 vless://60cc9382-20ad-4d7b-b326-93b0fa7a1e95@45.252.182.136:2087?security=none&encryption=none&host=revershop.top&headerType=http&type=tcp#ehs
 
 vless://TELEGRAM-EXPRESSVPN_420@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Bitpin.online&type=ws#ehs
