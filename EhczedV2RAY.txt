@@ -1,24 +1,14 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov 18
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov 25
 
+vless://60cc9382-20ad-4d7b-b326-93b0fa7a1e95@45.252.182.136:2087?security=none&encryption=none&host=revershop.top&headerType=http&type=tcp#ehs
 
-vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.222.79:443?path=%2Fabcdews&security=tls&encryption=none&host=ae4bb2e40aaf47a9b331.starsha-goodd.info&fp=chrome&type=ws&sni=ae4bb2e40aaf47a9b331.starsha-goodd.info#ehs
+vless://TELEGRAM-EXPRESSVPN_420@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Bitpin.online&type=ws#ehs
 
-vless://6803d696-9541-4bab-8c90-e7f634513ec4@sgoodd.ir.iphone-shopp.ir:5443?mode=gun&security=reality&encryption=none&authority=&pbk=y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=902736d426f64e34#ehs
+vless://TELEGRAM-EXPRESSVPN_420@EXPRESSVPN_420.fastly80-2.hosting-ip.com:80?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Bitpin.online&type=ws#ehs
 
-vless://6803d696-9541-4bab-8c90-e7f634513ec4@r.iphone-shopp.ir:5743?mode=gun&security=reality&encryption=none&authority=&pbk=keoiUuaCZJq789ifZNHJ9jNyI_GnI-R-iYtsDhzu0Qg&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=c8e110c0e0959f62#ehs
+vless://9cbdc595-1d8d-4443-af07-99149153d025@5cce15203ee042d599be.danr-piavi.info:443?path=%2Fabcdews&security=tls&encryption=none&host=5cce15203ee042d599be.danr-piavi.info&fp=chrome&type=ws&sni=5cce15203ee042d599be.danr-piavi.info#ehs
 
-vless://4324423e-23ed-421f-be18-5fe56bcb010f@hajlab.ucdavis.edu:443?path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn%3Fed%3D2560&security=tls&encryption=none&host=Join_Evay_vpn.ir&fp=firefox&type=ws&sni=hajlab.ucdavis.edu#ehs
+vless://8d433de7-5728-407a-9529-43933ca44646@Manager.ImageFlowAI.ir:2096?security=reality&encryption=none&pbk=YAmYWNKMauwmkR50BntCkIs6Oi0TOfQkEXG4_p-5oVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filimo.com#ehs
 
-vless://c7efc374-0f93-47a5-8559-ce25a37a60d2@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#ehs
+vless://1a563e92-9f9b-4158-b800-50ed4fc98214@www.speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=ai.photo.www.speedtest.net.abrha.co.ZA&type=ws&sni=ai.photo.www.speedtest.net.abrha.co.ZA#ehs
 
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:443?path=%2FTelegram-Xv2ry2-8%3Fed%3D512&security=tls&encryption=none&host=1v-2wk.pages.dev&type=ws&sni=Pages.dev#ehs
-
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#ehs
-
-vless://c7efc374-0f93-47a5-8559-ce25a37a60d2@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#ehs
-
-vless://5523be08-7a75-4441-90e8-c53e61ba466d@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#ehs
-
-vless://c7efc374-0f93-47a5-8559-ce25a37a60d2@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&fp=randomized&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#ehs
-
-trojan://telegram-id-directvpn@18.198.163.103:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#ehs
