@@ -1,17 +1,25 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov 25
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+nov 28
 
-vless://a0bb1201-3d85-4db4-91cd-7747c089b7a5@join.persiatm_channel.darkping.net:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&spx=%2F4374d295a4f9dd83&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#ehs
+trojan://auto@zula.ir:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&host=custom-2024.pages.dev&fp=randomized&type=ws&sni=pAges.dEv.#ehs
 
+vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@151.101.64.155:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.Yjc.ir&type=ws#ehs
 
-vless://60cc9382-20ad-4d7b-b326-93b0fa7a1e95@45.252.182.136:2087?security=none&encryption=none&host=revershop.top&headerType=http&type=tcp#ehs
+vless://Telegram-mainv2ray@wifi-mci.bitrait.art:8080?path=%2FTELEGRAM-%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%3Fed%3D8880&security=none&encryption=none&host=shOp.GkalAbar.Ir.&type=ws#ehs
 
-vless://TELEGRAM-EXPRESSVPN_420@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Bitpin.online&type=ws#ehs
+vless://347c666a-f909-4394-f5b2-715e914db254@Zmaoz.Faculty.UcdavIS.Edu:443?path=%2F%40melov2ray%2Fws%3Fe%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpnd%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=meloch-de.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.UcdavIS.Edu.#ehs
 
-vless://TELEGRAM-EXPRESSVPN_420@EXPRESSVPN_420.fastly80-2.hosting-ip.com:80?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=Bitpin.online&type=ws#ehs
+vless://SAVTEAM14@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D443&security=tls&alpn=http%2F1.1&encryption=none&host=Savteam.CI&fp=chrome&type=ws&sni=live.989bull.com#ehs
 
-vless://9cbdc595-1d8d-4443-af07-99149153d025@5cce15203ee042d599be.danr-piavi.info:443?path=%2Fabcdews&security=tls&encryption=none&host=5cce15203ee042d599be.danr-piavi.info&fp=chrome&type=ws&sni=5cce15203ee042d599be.danr-piavi.info#ehs
+vless://a85bbed0-a58e-4d19-9042-aff0f09c2142@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc3.ir&type=ws#ehs
 
-vless://8d433de7-5728-407a-9529-43933ca44646@Manager.ImageFlowAI.ir:2096?security=reality&encryption=none&pbk=YAmYWNKMauwmkR50BntCkIs6Oi0TOfQkEXG4_p-5oVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filimo.com#ehs
+vless://88631f1b-0f78-4744-93ae-f2a19b39d6e9@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc2.ir&type=ws&sni=mio.splashthat.com#ehs
 
-vless://1a563e92-9f9b-4158-b800-50ed4fc98214@www.speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=ai.photo.www.speedtest.net.abrha.co.ZA&type=ws&sni=ai.photo.www.speedtest.net.abrha.co.ZA#ehs
+vless://2510a115-11c1-4710-9905-d98722bfc07d@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc1.ir&type=ws&sni=mio.splashthat.com#ehs
 
+vless://88631f1b-0f78-4744-93ae-f2a19b39d6e9@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc2.ir&type=ws&sni=mio.splashthat.com#ehs
+
+vless://2510a115-11c1-4710-9905-d98722bfc07d@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc1.ir&type=ws&sni=mio.splashthat.com#ehs
+
+vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=none&encryption=none&host=4.www.speedtest.net.a.api.nhl.ir.speedtest-2.Shop.&type=ws#ehs
+
+vless://1ada4aaf-77e6-4890-9efc-7a5048c20010@151.101.3.8:80?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=my.shad.ir&type=ws#ehs
