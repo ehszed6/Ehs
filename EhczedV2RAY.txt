@@ -1,5 +1,17 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec 27
 
+vless://1aa0b803-8355-416b-9942-2898112450b6@www.speedtest.net:2086?path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560&security=none&encryption=none&host=itsmymeowly.mashti.bloG.&type=httpupgrade#ehs
+
+vless://dcc302a0-77db-4094-b5b6-92bb65d170cf@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2F%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#ehs
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#ehs
+
+vless://V2RAXX---@151.101.130.219:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed&security=none&encryption=none&host=V2RAXX.ir&type=ws#ehs
+
+vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=6.fidsxss1x.iR&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#ehs
+
+vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=6.fidsxss2x.iR&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#ehs
+
 vless://913e1424-c68d-4e56-ac6f-e7b6dfe79606@patch.com:443?path=%2F%3Fed%3D8192Telegram%20%3A&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vpngaming.ir&fp=chrome&type=ws&sni=patch.com#ehs
 
 vless://0b8d0c43-0eef-4e75-f075-529efb5e9a2e@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#ehs
