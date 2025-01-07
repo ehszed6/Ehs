@@ -1,23 +1,13 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+dec 27
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+jan 7
 
-vless://1aa0b803-8355-416b-9942-2898112450b6@www.speedtest.net:2086?path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560&security=none&encryption=none&host=itsmymeowly.mashti.bloG.&type=httpupgrade#ehs
+vless://tel--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=live.skornorth.com#ehs
 
-vless://dcc302a0-77db-4094-b5b6-92bb65d170cf@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2F%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#ehs
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@18.222.179.88:80?security=none&encryption=none&headerType=none&type=tcp#ehs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#ehs
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@3.21.21.78:80?security=none&encryption=none&headerType=none&type=tcp#ehs
 
-vless://V2RAXX---@151.101.130.219:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed&security=none&encryption=none&host=V2RAXX.ir&type=ws#ehs
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@18.222.161.105:80?security=none&encryption=none&headerType=none&type=tcp#ehs
 
-vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=6.fidsxss1x.iR&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#ehs
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@54.197.174.105:1212?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a4844ba7#ehs
 
-vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=6.fidsxss2x.iR&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#ehs
-
-vless://913e1424-c68d-4e56-ac6f-e7b6dfe79606@patch.com:443?path=%2F%3Fed%3D8192Telegram%20%3A&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vpngaming.ir&fp=chrome&type=ws&sni=patch.com#ehs
-
-vless://0b8d0c43-0eef-4e75-f075-529efb5e9a2e@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#ehs
-
-vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@visa.org:8880?path=%2Fdhcfh%2F%3Fed%3D2560&security=none&encryption=none&host=Ger2.nanowaash-shop.ir&type=httpupgrade#ehs
-
-vless://9c81f5a7-c48d-4839-b5cb-5d3a6d3e8759@pourya.tunnel.gpair7electronics.com:2008?security=none&encryption=none&host=www.speedtest.netJokerrvpnTelegram%20%3A&headerType=none&type=tcp#ehs
-
-vless://9c81f5a7-c48d-4839-b5cb-5d3a6d3e8759@pourya.tunnel.gpair7electronics.com:2030?security=none&encryption=none&host=www.speedtest.netTelegram%20%3A&headerType=none&type=tcp#ehs
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@34.206.1.94:1212?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a4844ba7#ehs
