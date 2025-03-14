@@ -1,5 +1,14 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+Mar 3
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+Mar 14
 
+vless://be608059-4e40-48ff-880b-80c5df0feea7@www.speedtest.net:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed&security=none&encryption=none&host=www.speedtest.net.15.speedtest3.onlinE.&type=ws#ehs
+
+vless://c704fbfb-f6d5-438a-b8d7-5ee164565de8@151.101.64.155:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed&security=none&encryption=none&host=www.speedtest.net.15.isvpython.onlinE.&type=ws#ehs
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.156.215:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#ehs
+
+vless://4407ee19-dff3-4dd2-ac3b-1703d89389e7@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#ehs
+
+vless://d40d85de-1131-4c4f-b6c0-4e0b67efac1a@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#EHS
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#ehs
 
