@@ -1,18 +1,16 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+May 20
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+Jul 12
 
-vless://ItsLegendaryking@www.zooboming.com:443?mode=gun&security=reality&encryption=none&pbk=h99icubmh8xt5KX4m_D-q2RJ-WUUS9b77hChLTX8viM&fp=chrome&type=grpc&serviceName=telegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers&sni=fauxid.com#EHS 
+vless://cbb1d90f-0a1b-4e05-95b9-e6c4269a9f19@de4.maduss.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=de4.maduss.com#EHS%20VIP
+
+vless://7b212932-b21b-4d9f-aa92-3827813c9927@www.speedtest.net:80?path=%2FSkyrWYwBRYMwvgGbbuksNwsEFqtUqcfAiTJvDhcBnZfZNczKufTgzNsPVLgjvLCuKTemPkxBiyNmFhcFyrVePPAwpDgkJdjHnnjtGUDznbGKZdqEjAxRMhGgWLVwvZLdTQxFoowzGMmAMrUhYETTTKgXwHCYyHhnFqCdVfajMgZroSSzWVdNPEkeBWJHWRYXDWGWZWVQRyxHUhLLqxGysjgpbgZPewuXaHFMkKaWpTSDKXFVGVXWVoUNYijvkUDoFDPyBmnAcTVAUWnWAkXUPqWBFLYhpyArtVHZAHAWKkJagteTAeWFteZLJmqNtuPWQLXCeuEVQowcgoUgXLxWHqdFQNXeCiZMDnnXmFPjLYbrKMgaVGReRBYxtwoKawXcBDVzMpUAaNCHiAzVneHNfVpUMJEVPjXQNVZganXYFfPnWfMfrYmsWAwMcWMqpQsdDmNeVHaVNEBhKEaaFoWxDk%3Fed%3D2056&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaaaa55391eaaaaaaabaaeaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.aireacondicionadomurcia.eu.segstar.info.&fp=chrome&type=ws#EHS%20VIP%202
 
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#ehs
+vless://a914b38f-30e6-482b-8233-4bfff094cca3@188.114.97.2:8080?path=%2Fgs&security=none&encryption=none&host=fragmen.downloadgame.sbs&fp=chrome&type=ws#EHS%20VIP%203
 
-vless://9dc7fc80-3db6-4456-96cd-328cfcf54e25@173.245.59.132:8080?path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn%3Fed%3D2048&security=none&encryption=none&host=evay-free.ysphs.top.&type=httpupgrade#ehs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#ehs
 
-vless://V2RAXX@188.245.183.122:1234?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX#ehs
+vless://c3afb549-2c79-4787-9d67-ccd1581fb70f@a.de.maviks.ru:443?security=reality&encryption=none&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=f203719d3ff9a5f5#ehs
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40mtmvpn&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#ehs
+vless://c3afb549-2c79-4787-9d67-ccd1581fb70f@a.nl.cdn.maviks.ru:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-de.maviks.ru&fp=chrome&type=ws&sni=cdn-de.maviks.ru#ehs
 
-vless://e716c78a-c031-4ee4-b32a-25d6475ed1f1@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#ehs
-
-vmess://eyJhZGQiOiIxNzIuNjcuMTcwLjEwMyIsImFpZCI6IjAiLCJhbHBuIjoiaDMiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6ImVocyIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLnNicyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-
-vless://306139eb-7fe5-414f-8446-3f0d3aa59df7@109.73.192.184:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=chrome&type=tcp&sni=google.com#ehs
+vless://a914b38f-30e6-482b-8233-4bfff094cca3@188.114.97.2:8080?path=%2Fgs&security=none&encryption=none&host=fragmen.downloadgame.sbs&fp=chrome&type=ws#EHS%20VIP%203
