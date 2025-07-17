@@ -1,4 +1,118 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+Jul 12
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+Jul 18
+
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "0.0.0.0",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "0.0.0.0",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "m-3.web-manage.com.tr",
+            "port": 9152,
+            "users": [
+              {
+                "id": "f3db06ba-2f5d-4924-9258-b88e78477766",
+                "security": "auto",
+                "encryption": "none",
+                "email": "https://gozargah.github.io/marzban/",
+                "alterId": 0
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "request": {
+              "headers": {
+                "Accept-Encoding": [
+                  "gzip",
+                  "deflate"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Pragma": "no-cache",
+                "Host": [
+                  "varzesh3.com"
+                ]
+              },
+              "method": "GET",
+              "version": "1.1",
+              "path": [
+                "/"
+              ]
+            },
+            "type": "http"
+          }
+        }
+      }
+    }
+  ],
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ]
+  },
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": []
+  },
+  "remarks": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 – England"
+} 
+
+vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443?path=%2FWrQunvc9WRIaU32H%3Fed%3D2560&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#EHS
+
+vless://802e1dd7-61ac-4473-9dd6-d77f97fdf816@37.27.82.120:2087?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&sni=www.sb24.ir&sid=f830f6#EHS
 
 vless://cbb1d90f-0a1b-4e05-95b9-e6c4269a9f19@de4.maduss.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=de4.maduss.com#EHS%20VIP
 
