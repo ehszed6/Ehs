@@ -1,4 +1,22 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+Jul 21
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%8AUPDATED+Jul 22
+
+
+🇩🇪 Germany [vless]
+vless://b6701e6c-55f2-4eaf-ac73-cb3c53090253@sr49.baleping.sbs:2052?type=tcp&security=none#88023+%7C+%F0%9F%87%A9%F0%9F%87%AA+Germany
+
+🇫🇮 Finland [vless]
+vless://b6701e6c-55f2-4eaf-ac73-cb3c53090253@sr50.baleping.sbs:2082?type=tcp&security=none#88023+%7C+%F0%9F%87%AB%F0%9F%87%AE+Finland
+
+🇫🇷 France [vless]
+vless://b6701e6c-55f2-4eaf-ac73-cb3c53090253@sr55.baleping.sbs:8080?type=tcp&security=none#88023+%7C+%F0%9F%87%AB%F0%9F%87%B7+France
+
+🇺🇸 USA [vless]
+vless://b6701e6c-55f2-4eaf-ac73-cb3c53090253@sr59.baleping.sbs:2095?type=tcp&security=none#88023+%7C+%F0%9F%87%BA%F0%9F%87%B8+USA
+
+🇹🇷 Turkey [vless]
+vless://b6701e6c-55f2-4eaf-ac73-cb3c53090253@sr60.baleping.sbs:80?type=tcp&security=none#88023+%7C+%F0%9F%87%B9%F0%9F%87%B7+Turkey
+
+
 
 vless://2bc16cc5-21d5-4fbf-a994-da7be2a8ea72@sub.download.segstar.info:7022?security=reality&encryption=none&pbk=YPUTcWpG4K76Uyh7lHTWniNa0BE-m7ADQ90ZJF4QLgw&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#EHS
 
